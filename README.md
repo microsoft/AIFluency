@@ -1,1 +1,38 @@
-Hello world
+![image](https://github.com/microsoft/AIFluency/assets/145597905/fd00f630-f0ad-499d-8794-54e814c6a580)
+
+
+## AI fluency summary​
+
+The AI fluency content is designed to educate individuals on the fundamentals of AI, empowering them to integrate this powerful technology into their everyday lives. It includes 44 bite-sized videos covering a wide range of AI topics, from its history and basic principles to ethical considerations and global initiatives. A complete section on getting started with Copilot is also part of the content, aimed at teaching individuals to navigate this new technology with ease. 
+
+## Content overview ​
+
+- AI basics – This section introduces the fundamental concepts of AI, providing an overview of its history, various types, applications, and the distinctions between AI terminologies. ​
+
+- Generative AI - This section dives into the intricacies of generative AI, demonstrating how it works, and explaining common relatable terms. ​
+
+- Internet Search and beyond - This section explores the mechanics of internet search engines, discussing advanced search techniques and the future of search technology. It also highlights how recent developments in AI are reshaping the way we search for information. ​
+
+- Responsible AI - This section discusses the ethical and responsible use of AI technologies, considering aspects such as fairness, transparency, privacy, and accountability. It also covers current issues and strategies that companies are implementing to combat security threats.​
+
+- Boost Your Productivity with Copilot - This section provides a guide on how to get started with Copilot, an AI companion. It includes real-life examples of how Copilot can enhance productivity by assisting with tasks such as planning, writing, and more, thereby making work more efficient and effective.​
+
+- AI for all  - This section discusses how AI is making a global impact, transforming job roles, and leading to greater accessibility. It also highlights how AI is fostering a more inclusive society by breaking down barriers for learners.
+
+## Availability ​
+
+The content is available in two formats. For direct access, the videos and resources are available to download from GitHub. For a more guided learning experience, the same content is organized in a learning path on the Learn platform. ​
+
+The content  includes 44 videos with a total duration of approximately 2.5 hours.​
+
+Supplementary materials include:​
+- Caption files in TXT, SRT, VTT, and TTML formats​
+- Audio description files in .mp3 format​
+- Enhanced transcripts​
+- Quizzes for knowledge assessment​
+
+​
+
+The content is available in the following languages: Arabic, Bahasa Indonesia, Simplified Chinese (CN), Traditional Chinese (TW), French, American English (US), British English (GB), Australian English (AU), German, Hindi, Korean, Japanese, Brazilian Portuguese, Spanish, and Swahili. 
+
+The content is available for download in this repository and the learning path is coming soon!
