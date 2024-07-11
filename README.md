@@ -21,18 +21,19 @@ The AI fluency content is designed to educate individuals on the fundamentals of
 
 ## Availability ​
 
-The content is available in two formats. For direct access, the videos and resources are available to download from GitHub. For a more guided learning experience, the same content is organized in a learning path on the Learn platform. ​
+The content includes 44 videos, totaling approximately 2.5 hours.
 
-The content  includes 44 videos with a total duration of approximately 2.5 hours.​
+Supplementary materials include:
 
-Supplementary materials include:​
-- Caption files in TXT, SRT, VTT, and TTML formats​
-- Audio description files in .mp3 format​
-- Enhanced transcripts​
-- Quizzes for knowledge assessment​
+- Caption files in TXT, SRT, VTT, and TTML formats
 
-​
+- Audio description files in .mp3 format
 
-The content is available in the following languages: Arabic, Bahasa Indonesia, Simplified Chinese (CN), Traditional Chinese (TW), French, American English (US), British English (GB), Australian English (AU), German, Hindi, Korean, Japanese, Brazilian Portuguese, Spanish, and Swahili. 
+- Enhanced transcripts
 
-The content is available for download in this repository and the learning path is coming soon!
+- Quizzes for knowledge assessment
+
+The content will be available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, and Bahasa Indonesia
+
+To access the content, click on the localized language folder, and on the top right corner, click **download**.
+
