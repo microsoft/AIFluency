@@ -37,3 +37,5 @@ The content will be available in the following languages: Arabic, Simplified Chi
 
 To access the content, click on the localized language folder, and on the top right corner, click **download raw file**.
 
+
+**Please note: Issues are not actively monitored, and any that are opened may not receive a response or action.**
