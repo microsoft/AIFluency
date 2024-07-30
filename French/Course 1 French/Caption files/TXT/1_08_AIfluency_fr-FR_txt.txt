@@ -1,0 +1,105 @@
+Traitement du langage naturel
+
+Saviez-vous que
+
+chaque fois que vous demandez
+
+la météo à votre téléphone
+
+ou que la correction automatique
+
+vous évite d'envoyer
+
+un texte truffé de fautes de frappe, vous interagissez
+
+en réalité avec une forme d'intelligence artificielle
+
+appelée traitement du langage naturel ou NLP,
+
+Natural Language Processing, en anglais.
+
+Le NLP est capable de lire, de déchiffrer,
+
+de comprendre et de donner un sens au langage humain.
+
+Il le fait
+
+grâce à diverses
+
+méthodes telles que l'analyse de texte, la traduction,
+
+l'analyse de sentiments
+
+et la reconnaissance vocale.
+
+Par exemple,
+
+pensez à la dernière fois
+
+que vous avez utilisé
+
+un moteur de recherche comme Bing
+
+pour trouver les paroles de votre chanson préférée.
+
+Vous aviez tapé le nom de la chanson, et "paroles",
+
+et juste comme ça,
+
+Bing vous a montré exactement ce que vous recherchiez.
+
+Mais comment savait-il que vous vouliez les paroles
+
+et non le clip ou des informations sur le chanteur ?
+
+C'est l'action du NLP.
+
+Le NLP agit comme
+
+un traducteur entre nous et nos appareils.
+
+Il aide nos appareils à comprendre
+
+non seulement les mots que nous disons,
+
+mais aussi ce que nous voulons dire.
+
+Ainsi, que vous recherchiez les paroles d'une chanson,
+
+que vous demandiez la météo
+
+à votre téléphone
+
+ou que vous traduisez une phrase
+
+dans une autre langue,
+
+le NLP est là et vous donne l'impression de discuter
+
+avec une personne.
+
+Quand nous parlons de différents types
+
+d'intelligence artificielle comme le NLP,
+
+nous pouvons les trier
+
+en fonction du genre de problème qu'ils résolvent.
+
+Certains algorithmes d'IA
+
+sont excellents pour reconnaître des images.
+
+D'autres sont experts en compréhension
+
+du langage, comme le NLP.
+
+Et d'autres encore sont des pros de
+
+la prédiction de tendances.
+
+La prochaine fois que vous utiliserez votre téléphone
+
+ou ordinateur, souvenez-vous que l'IA travaille
+
+en coulisse, vous rendant plus connecté que jamais.

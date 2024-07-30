@@ -1,0 +1,163 @@
+Les différents types de machine learning
+
+Comment
+
+avez-vous appris à faire du vélo ou
+
+à jouer d'un instrument ?
+
+C'était par l'expérience, n'est-ce-pas ?
+
+Eh bien, les machines peuvent le faire aussi.
+
+Elles peuvent apprendre de trois façons principales :
+
+l'apprentissage supervisé,
+
+l'apprentissage non supervisé
+
+et l'apprentissage par renforcement.
+
+Décomposons ceci avec une simple analogie :
+
+apprendre à jouer au football.
+
+Dans le premier scénario,
+
+un coach vous supervise
+
+et vous enseigne toutes les règles.
+
+Il explique soigneusement
+
+que quand la balle entre dans le but,
+
+on gagne un point
+
+et que quand la balle sort
+
+de la ligne de touche,
+
+elle doit être remise en jeu à la main.
+
+Il décrit tous les principes,
+
+le nombre de participants,
+
+la durée du match et tout le reste.
+
+Dans ce cas,
+
+vous avez une personne qui vous supervise
+
+et qui vous enseigne toutes les règles du jeu.
+
+Cela ressemble à l'apprentissage supervisé.
+
+Dans le deuxième scénario, vous êtes seul.
+
+Vous commencez à assister à des matchs
+
+tous les jeudis et dimanches.
+
+Au début, vous êtes perplexe.
+
+Pourquoi les joueurs utilisent-ils
+
+leurs mains sur la touche,
+
+dans un jeu principalement joué avec les pieds ?
+
+Pourquoi la foule crie-t-elle
+
+quand la balle frappe le filet ?
+
+Et pourquoi sont-ils déçus quand elle ne le fait pas ?
+
+Mais en continuant votre observation,
+
+vous parvenez à desceller des motifs et à saisir
+
+la logique du jeu.
+
+Cela ressemble à l'apprentissage
+
+non supervisé.
+
+Considérons
+
+un troisième scénario,
+
+l'apprentissage par renforcement.
+
+Imaginez que vous vous exercez aux pénaltys.
+
+Chaque fois que vous marquez un but,
+
+vous ressentez un sentiment de réussite
+
+et donc une forme de récompense positive.
+
+En revanche, chaque fois que vous manquez la cible,
+
+vous ressentez de la déception,
+
+ce qui est une récompense négative.
+
+Avec le temps, en essayant
+
+différentes façons de frapper le ballon
+
+et en tirant des leçons des récompenses,
+
+vous améliorez votre capacité à marquer des pénaltys.
+
+Rappelez-vous, l'apprentissage automatique
+
+est un sous-ensemble de l'intelligence artificielle.
+
+Mais toute IA n'implique
+
+pas l'apprentissage automatique.
+
+L'apprentissage automatique
+
+peut être décomposé en trois types :
+
+l'apprentissage supervisé,
+
+non supervisé
+
+et par renforcement.
+
+On peut aller encore plus loin.
+
+Il existe des formes avancées de machine learning
+
+qui imitent la méthode d'apprentissage
+
+propre au cerveau humain.
+
+Elles prennent les concepts d'apprentissage
+
+supervisé, non supervisé et par renforcement
+
+et les appliquent à une échelle beaucoup plus grande.
+
+C'est ce que l'on appelle le deep learning.
+
+Tout comme
+
+les neurones du cerveau sont connectés
+
+pour former un vaste réseau, le deep learning
+
+utilise des réseaux neuronaux artificiels
+
+à plusieurs couches.
+
+D'où le terme profond, deep, en anglais.
+
+Ces réseaux peuvent apprendre et prendre des décisions
+
+eux-mêmes. Intrigant, n'est-ce-pas ?

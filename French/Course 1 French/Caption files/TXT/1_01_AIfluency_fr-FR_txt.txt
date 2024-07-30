@@ -1,0 +1,279 @@
+Qu'est-ce que l'intelligence artificielle ?
+
+L'intelligence artificielle,
+
+ou IA, est un terme courant qui se rencontre fréquemment
+
+sur les réseaux sociaux, dans les discussions
+
+ou même à la télévision.
+
+En fait,
+
+vous utilisez l'IA depuis des années,
+
+sans peut-être même le savoir.
+
+L'IA n'est pas
+
+qu'un phénomène de mode,
+
+c'est aussi un outil
+
+qui progresse depuis des décennies
+
+grâce aux apports de nombreux acteurs
+
+dans divers domaines.
+
+L’IA peut modifier notre vie,
+
+notre travail et nos relations.
+
+L'intelligence artificielle
+
+a un impact sur tout le monde,
+
+pas seulement sur ceux qui sont
+
+dans le domaine technologique.
+
+Mais alors,
+
+qu'est-ce que l'intelligence artificielle ?
+
+L'IA ou intelligence artificielle est la capacité
+
+d'un système informatique à apprendre
+
+des données et erreurs passées,
+
+tout en lui permettant de faire des prédictions
+
+de plus en plus précises sur les comportements futurs.
+
+Cela comprend un large éventail d'activités
+
+comme la résolution de problèmes,
+
+la reconnaissance vocale, l'apprentissage
+
+et la prise de décisions.
+
+Qu'est-ce qui rend l'IA intelligente ?
+
+L'essence même de l'IA,
+
+c'est une forme d'intelligence
+
+démontrée
+
+par des logiciels ou des machines
+
+dans l'exécution de tâches
+
+qui nécessitent généralement l'intelligence humaine.
+
+Ces tâches peuvent inclure
+
+la reconnaissance de formes,
+
+la résolution des problèmes ou la prise de décisions.
+
+Par exemple,
+
+lorsque vous interagissez
+
+avec Siri sur votre téléphone portable,
+
+son intelligence ne se manifeste pas de la même façon
+
+que celle d'un humain.
+
+Au lieu de cela, les humains l'ont plutôt programmé
+
+pour répondre à certaines requêtes
+
+et exécuter des fonctions
+
+comme obtenir
+
+le dernier bulletin météo de votre région
+
+ou bien les informations locales.
+
+Est-ce vraiment une forme d'intelligence
+
+ou simplement un entraînement à traiter vos demandes ?
+
+Imaginez un robot jouant aux échecs avec un humain.
+
+Nous l'observons faire des mouvements stratégiques.
+
+Mais cela signifie-t-il qu'il est intelligent
+
+au sens humain du terme ?
+
+La réponse est "non".
+
+Le robot ne fait que suivre les algorithmes
+
+et les stratégies
+
+pour lesquelles il a été programmé
+
+et il apprend des jeux passés,
+
+grâce au machine learning,
+
+nous approfondirons ceci plus tard,
+
+ce qui lui permet
+
+d'améliorer sa performance au fil du temps.
+
+La question de savoir si les actions
+
+d'un robot pendant une partie d'échecs équivalent
+
+à de l'intelligence
+
+ou s'il exécute
+
+juste un processus de programmation
+
+n'est pas nouvelle.
+
+En 1950, Alan Turing, mathématicien
+
+et informaticien de renom, a posé la question suivante :
+
+comment pouvons-nous déterminer
+
+si une machine est intelligente ou non ?
+
+Pour répondre à cette question,
+
+il a créé le fameux test de Turing.
+
+Le principe est qu'un être humain
+
+interagisse avec un humain ou un ordinateur, il détermine
+
+si c'était un ordinateur ou un être humain
+
+qui répondait.
+
+Que la réponse soit correcte ou non
+
+n'a pas d'importance.
+
+Par exemple,
+
+en posant une question comme
+
+quelle est la somme de 2 + 2 ?
+
+Turing n'a
+
+pas cherché à évaluer
+
+si la réponse était 4, mais plus précisément
+
+à évaluer
+
+si l'interlocuteur était une machine ou un humain.
+
+À l'époque, quand Turing a créé ce test,
+
+il essayait d'atteindre le point
+
+où il ne serait plus possible de distinguer
+
+les réponses des machines de celles des humains.
+
+Les machines seraient capables de répondre avec
+
+les mêmes aptitudes et nuances que les êtres humains.
+
+Et cette analyse des systèmes intelligents
+
+ne s'est pas arrêtée en 1950 avec Turing.
+
+L’IA a beaucoup progressé au
+
+fil des ans
+
+et est de plus en plus présente
+
+dans notre vie quotidienne.
+
+Par exemple,
+
+lorsque vous interagissez
+
+sur les réseaux sociaux comme Instagram, l'application
+
+utilise le machine learning, un sous-ensemble d'IA
+
+pour déterminer le contenu à afficher
+
+en fonction de votre activité récente.
+
+La même chose arrive quand vous terminez une série
+
+sur une application de streaming.
+
+L'IA peut parfois avoir une mauvaise image,
+
+par exemple dans les films d'Hollywood.
+
+Certains films décrivent l'IA
+
+comme ayant des sentiments
+
+ou étant supérieurs aux humains.
+
+Ces récits ont généralement pour but
+
+de faire réfléchir
+
+plutôt que de représenter
+
+précisément
+
+la façon dont les humains interagissent avec l'IA.
+
+Ces représentations
+
+sont des interprétations artistiques
+
+et ne reflètent pas
+
+les capacités extraordinaires de l'IA.
+
+Si l'IA peut imiter
+
+certains aspects de l'intelligence humaine,
+
+il est important de se rappeler
+
+qu'elle fonctionne
+
+très différemment de cette dernière.
+
+L'IA ne possède ni conscience, ni émotions,
+
+ni la capacité de comprendre le contexte
+
+de la même façon que les humains.
+
+C'est un outil créé et contrôlé par les humains
+
+et ses capacités
+
+sont limités à ce pour quoi il a été programmé.
+
+C'est pourquoi il est primordial de comprendre ce
+
+qu'est l'IA afin de discerner les faits de la fiction.

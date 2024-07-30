@@ -1,0 +1,267 @@
+﻿1
+00:00:00,100 --> 00:00:03,103
+l'IA en action
+
+2
+00:00:04,504 --> 00:00:05,839
+Le machine learning
+
+3
+00:00:05,839 --> 00:00:07,874
+ainsi que le deep learning sont des
+
+4
+00:00:07,874 --> 00:00:08,708
+sous-ensembles
+
+5
+00:00:08,708 --> 00:00:10,377
+de l'intelligence artificielle
+
+6
+00:00:10,377 --> 00:00:13,680
+qui utilisent des algorithmes spécifiques pour
+
+7
+00:00:13,680 --> 00:00:15,248
+assimiler de vastes quantités de données
+
+8
+00:00:15,248 --> 00:00:16,850
+et accomplir des tâches.
+
+9
+00:00:16,850 --> 00:00:17,951
+Qu'est-ce qui fait fonctionner
+
+10
+00:00:17,951 --> 00:00:19,886
+les systèmes d'intelligence artificielle
+
+11
+00:00:19,886 --> 00:00:20,820
+comme les robots,
+
+12
+00:00:20,820 --> 00:00:23,890
+l'Internet des objets, IoT ou Internet of Things ?
+
+13
+00:00:24,591 --> 00:00:27,160
+Ou bien encore les véhicules autonomes ?
+
+14
+00:00:27,160 --> 00:00:29,029
+Explorons cela de plus près.
+
+15
+00:00:29,029 --> 00:00:31,731
+Vous avez probablement déjà entendu parler de robots
+
+16
+00:00:31,731 --> 00:00:33,099
+et de voitures autonomes,
+
+17
+00:00:33,099 --> 00:00:35,368
+mais qu'en est-il de l'Internet des objets ?
+
+18
+00:00:35,368 --> 00:00:38,705
+Pour simplifier, l’IoT est un vaste réseau
+
+19
+00:00:38,705 --> 00:00:41,408
+d'appareils physiques d'objets ménagers ordinaires
+
+20
+00:00:41,408 --> 00:00:42,509
+tels que les montres,
+
+21
+00:00:42,509 --> 00:00:45,578
+serrures, thermostats ou autres gadgets intelligents.
+
+22
+00:00:45,945 --> 00:00:48,248
+Ces appareils sont connectés à Internet,
+
+23
+00:00:48,248 --> 00:00:50,417
+collectent et partagent des données.
+
+24
+00:00:50,417 --> 00:00:51,551
+Cette connectivité
+
+25
+00:00:51,551 --> 00:00:54,120
+permet à ces appareils de communiquer entre eux
+
+26
+00:00:54,120 --> 00:00:56,523
+et avec nous afin de nous simplifier la vie.
+
+27
+00:01:01,694 --> 00:01:03,296
+Maintenant, vous vous demandez
+
+28
+00:01:03,296 --> 00:01:04,097
+peut-être
+
+29
+00:01:04,097 --> 00:01:07,100
+quel est le lien entre tous ces dispositifs ?
+
+30
+00:01:07,500 --> 00:01:08,735
+On voit souvent des robots
+
+31
+00:01:08,735 --> 00:01:10,370
+faire des tâches répétitives
+
+32
+00:01:10,370 --> 00:01:12,238
+et interagir avec des humains.
+
+33
+00:01:12,238 --> 00:01:14,874
+Mais c'est aussi une mine d'or de données.
+
+34
+00:01:14,874 --> 00:01:18,378
+Chaque mouvement, chaque interaction et chaque tâche
+
+35
+00:01:18,378 --> 00:01:19,679
+qu'un robot accomplit
+
+36
+00:01:19,679 --> 00:01:22,682
+peuvent être convertis en données.
+
+37
+00:01:26,920 --> 00:01:29,089
+L’IoT ne concerne pas
+
+38
+00:01:29,089 --> 00:01:32,092
+juste votre smartphone ou votre ordinateur portable,
+
+39
+00:01:32,258 --> 00:01:33,960
+c'est beaucoup plus vaste.
+
+40
+00:01:33,960 --> 00:01:35,095
+Internet fait partie
+
+41
+00:01:35,095 --> 00:01:37,163
+intégrante de nos vies quotidiennes.
+
+42
+00:01:37,163 --> 00:01:39,599
+Des maisons connectées aux appareils intelligents,
+
+43
+00:01:39,599 --> 00:01:42,502
+l'Internet est partout.
+
+44
+00:01:42,502 --> 00:01:45,338
+Imaginez un réfrigérateur équipé de capteurs
+
+45
+00:01:45,338 --> 00:01:46,906
+qui savent exactement
+
+46
+00:01:46,906 --> 00:01:48,241
+quand vous manquez de lait
+
+47
+00:01:48,241 --> 00:01:49,843
+et vous envoient un rappel pour
+
+48
+00:01:49,843 --> 00:01:51,644
+en acheter en rentrant chez vous.
+
+49
+00:01:51,644 --> 00:01:54,147
+C'est le pouvoir de l'IoT.
+
+50
+00:01:54,147 --> 00:01:56,316
+Considérez aussi les voitures autonomes.
+
+51
+00:01:56,316 --> 00:01:57,050
+Ces véhicules
+
+52
+00:01:57,050 --> 00:01:58,952
+collectent de vastes quantités de données
+
+53
+00:01:58,952 --> 00:02:00,086
+sur leur environnement
+
+54
+00:02:00,086 --> 00:02:01,621
+et utilisent ces informations
+
+55
+00:02:01,621 --> 00:02:03,423
+pour naviguer sur les routes de manière
+
+56
+00:02:03,423 --> 00:02:04,958
+sûre et efficace.
+
+57
+00:02:04,958 --> 00:02:08,027
+Ces données enrichissent non seulement nos modèles IA,
+
+58
+00:02:08,361 --> 00:02:09,395
+mais nous permettent aussi
+
+59
+00:02:09,395 --> 00:02:12,398
+de stimuler l'innovation et l'efficacité.
+
+60
+00:02:12,599 --> 00:02:15,168
+La prochaine fois que vous pensez au monde physique
+
+61
+00:02:15,168 --> 00:02:17,003
+connecté au monde virtuel,
+
+62
+00:02:17,003 --> 00:02:17,971
+rappelez-vous,
+
+63
+00:02:17,971 --> 00:02:20,240
+il ne s'agit pas seulement de commodités.
+
+64
+00:02:20,240 --> 00:02:22,375
+Il s'agit d'exploiter le pouvoir
+
+65
+00:02:22,375 --> 00:02:22,909
+des données
+
+66
+00:02:22,909 --> 00:02:24,077
+pour rendre nos modèles
+
+67
+00:02:24,077 --> 00:02:26,713
+d'IA plus intelligents et nos vies meilleures.
