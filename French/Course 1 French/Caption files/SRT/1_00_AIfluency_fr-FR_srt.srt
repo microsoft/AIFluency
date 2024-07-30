@@ -1,0 +1,455 @@
+﻿1
+00:00:00,300 --> 00:00:03,303
+Brève histoire de l'IA
+
+2
+00:00:05,505 --> 00:00:07,540
+Avant l'ère numérique.
+
+3
+00:00:07,540 --> 00:00:10,543
+avant les cassettes et même avant les vinyles,
+
+4
+00:00:11,177 --> 00:00:14,047
+l'intelligence artificielle, connue sous le nom
+
+5
+00:00:14,047 --> 00:00:17,050
+d'IA, est née.
+
+6
+00:00:18,518 --> 00:00:21,221
+Souvent perçue comme une merveille contemporaine,
+
+7
+00:00:21,221 --> 00:00:22,389
+l'IA est en réalité
+
+8
+00:00:22,389 --> 00:00:25,025
+un concept vieux de plus de 70 ans.
+
+9
+00:00:25,025 --> 00:00:28,128
+En 1950, Alan Turing, pionnier
+
+10
+00:00:28,128 --> 00:00:31,131
+de l'informatique, a posé une question fondamentale
+
+11
+00:00:31,531 --> 00:00:34,534
+est-ce que les machines peuvent penser ?
+
+12
+00:00:36,002 --> 00:00:37,470
+Cela a marqué le début d'une
+
+13
+00:00:37,470 --> 00:00:39,105
+nouvelle ère technologique.
+
+14
+00:00:39,105 --> 00:00:40,707
+En 1956,
+
+15
+00:00:40,707 --> 00:00:42,542
+le "Logic Theorist",
+
+16
+00:00:42,542 --> 00:00:44,577
+considéré comme le premier programme
+
+17
+00:00:44,577 --> 00:00:47,580
+d'IA, a été développé.
+
+18
+00:00:50,216 --> 00:00:51,584
+Il permettait de prouver
+
+19
+00:00:51,584 --> 00:00:53,686
+certains théorèmes mathématiques.
+
+20
+00:00:53,686 --> 00:00:57,424
+Les années 60 et 70 ont été marquées par des progrès
+
+21
+00:00:57,424 --> 00:00:57,957
+en matière
+
+22
+00:00:57,957 --> 00:00:59,592
+de reconnaissance de formes
+
+23
+00:00:59,592 --> 00:01:01,394
+et d'algorithmes sophistiqués
+
+24
+00:01:01,394 --> 00:01:02,228
+qui ont préparé
+
+25
+00:01:02,228 --> 00:01:02,762
+le terrain
+
+26
+00:01:02,762 --> 00:01:05,765
+aux futures avancées technologiques de l'IA.
+
+27
+00:01:06,366 --> 00:01:08,501
+Vers la fin des années 90,
+
+28
+00:01:08,501 --> 00:01:11,671
+l'essor d'Internet a provoqué une explosion de données
+
+29
+00:01:11,771 --> 00:01:13,100
+fournissant la matière première
+
+30
+00:01:13,100 --> 00:01:15,909
+à des algorithmes d'IA plus avancés.
+
+31
+00:01:15,975 --> 00:01:17,710
+Avec cette abondance de données,
+
+32
+00:01:17,710 --> 00:01:19,946
+les algorithmes du machine learning
+
+33
+00:01:19,946 --> 00:01:21,815
+s'appuient sur une approche statistique
+
+34
+00:01:21,815 --> 00:01:23,817
+plutôt que fondée sur les connaissances.
+
+35
+00:01:25,385 --> 00:01:25,985
+Les années 2000
+
+36
+00:01:25,985 --> 00:01:27,754
+ont été une période charnière
+
+37
+00:01:27,754 --> 00:01:28,988
+avec l'essor de modèles IA
+
+38
+00:01:28,988 --> 00:01:31,057
+plus riches et plus complexes,
+
+39
+00:01:31,057 --> 00:01:34,594
+comme le deep learning. Dans les années 2010,
+
+40
+00:01:34,928 --> 00:01:37,897
+l’IA a fait son entrée dans notre vie quotidienne,
+
+41
+00:01:37,897 --> 00:01:40,867
+y compris avec l'intégration d'assistants virtuels
+
+42
+00:01:40,867 --> 00:01:41,901
+comme Cortana et Siri
+
+43
+00:01:41,901 --> 00:01:44,904
+dans nos ordinateurs et smartphones.
+
+44
+00:01:45,538 --> 00:01:47,140
+Jusqu'en 2021,
+
+45
+00:01:47,140 --> 00:01:49,342
+l'intelligence artificielle générative
+
+46
+00:01:49,342 --> 00:01:52,011
+a pris le devant de la scène.
+
+47
+00:01:52,011 --> 00:01:53,847
+Cette forme d'IA pouvait créer
+
+48
+00:01:53,847 --> 00:01:56,850
+du contenu écrit, visuel et sonore
+
+49
+00:01:57,183 --> 00:01:59,953
+à partir de données existantes, apprises
+
+50
+00:01:59,953 --> 00:02:01,754
+mais aussi nouvelles.
+
+51
+00:02:01,754 --> 00:02:03,123
+Cela a marqué le début
+
+52
+00:02:03,123 --> 00:02:03,990
+d'une interaction
+
+53
+00:02:03,990 --> 00:02:05,992
+plus personnalisée et humanisée
+
+54
+00:02:05,992 --> 00:02:08,995
+avec nos outils informatisés.
+
+55
+00:02:13,099 --> 00:02:16,402
+Le partenariat entre Microsoft et OpenAI
+
+56
+00:02:16,402 --> 00:02:19,472
+a contribué à cette révolution, créant trois modèles
+
+57
+00:02:19,472 --> 00:02:20,840
+d'IA ambitieux.
+
+58
+00:02:20,840 --> 00:02:22,909
+Le premier est GPT,
+
+59
+00:02:22,909 --> 00:02:25,678
+Generative Pre-trained Transformer,
+
+60
+00:02:25,678 --> 00:02:27,881
+un réseau neuronal artificiel conçu
+
+61
+00:02:27,881 --> 00:02:30,183
+pour fonctionner comme un cerveau humain.
+
+62
+00:02:30,183 --> 00:02:31,751
+Ce modèle de langage de machine
+
+63
+00:02:31,751 --> 00:02:33,319
+learning génère et comprend
+
+64
+00:02:33,319 --> 00:02:34,921
+du contenu conversationnel.
+
+65
+00:02:37,624 --> 00:02:39,993
+Le deuxième est DALL-E, un modèle
+
+66
+00:02:39,993 --> 00:02:42,195
+d'IA qui génère des images basées
+
+67
+00:02:42,195 --> 00:02:44,063
+sur des descriptions textuelles
+
+68
+00:02:44,063 --> 00:02:47,300
+comblant le fossé entre le langage et l'art visuel.
+
+69
+00:02:50,203 --> 00:02:52,238
+Le troisième est Whisper,
+
+70
+00:02:52,238 --> 00:02:55,341
+un système de reconnaissance automatique de la parole
+
+71
+00:02:55,708 --> 00:02:59,179
+ASR, Automatique Speech Recognition,
+
+72
+00:02:59,546 --> 00:03:01,981
+issu d'une très grande quantité de données
+
+73
+00:03:01,981 --> 00:03:05,451
+audio multilingues équivalente à 680.000
+
+74
+00:03:05,451 --> 00:03:08,454
+heures de contenu.
+
+75
+00:03:09,422 --> 00:03:10,890
+Ces prouesses technologiques
+
+76
+00:03:10,890 --> 00:03:12,458
+offrent de nouveaux débouchés,
+
+77
+00:03:12,458 --> 00:03:14,994
+notamment avec Microsoft Copilot,
+
+78
+00:03:14,994 --> 00:03:16,563
+un outil de productivité
+
+79
+00:03:16,563 --> 00:03:17,931
+alimenté par l'IA,
+
+80
+00:03:17,931 --> 00:03:20,533
+conçu pour améliorer la vie quotidienne.
+
+81
+00:03:20,533 --> 00:03:22,535
+Il exploite le pouvoir de l'IA
+
+82
+00:03:22,535 --> 00:03:26,639
+pour maximiser la productivité, libérer la créativité
+
+83
+00:03:26,639 --> 00:03:28,308
+et améliorer la compréhension
+
+84
+00:03:28,308 --> 00:03:31,411
+uniquement via un chat offrant aux utilisateurs
+
+85
+00:03:31,411 --> 00:03:32,912
+un compagnon de tous les jours
+
+86
+00:03:32,912 --> 00:03:34,247
+prêt à la conversation
+
+87
+00:03:34,247 --> 00:03:35,815
+pour répondre aux questions,
+
+88
+00:03:35,815 --> 00:03:37,617
+éveiller la créativité,
+
+89
+00:03:37,617 --> 00:03:40,119
+proposer de l'aide et bien plus encore.
+
+90
+00:03:40,119 --> 00:03:42,055
+Microsoft Copilot peut
+
+91
+00:03:42,055 --> 00:03:44,057
+non seulement vous aider quotidiennement,
+
+92
+00:03:44,057 --> 00:03:45,925
+mais grâce au pouvoir de DALL-E,
+
+93
+00:03:45,925 --> 00:03:48,027
+il peut aussi créer des images basées
+
+94
+00:03:48,027 --> 00:03:50,296
+sur la requête que vous lui donnez.
+
+95
+00:03:50,296 --> 00:03:53,032
+Copilot est aussi plus qu'un simple assistant.
+
+96
+00:03:53,032 --> 00:03:54,500
+Il ouvre de nombreuses portes
+
+97
+00:03:54,500 --> 00:03:56,302
+aux développeurs de logiciels.
+
+98
+00:03:56,302 --> 00:03:59,105
+Cet outil de programmation permet aux développeurs
+
+99
+00:03:59,105 --> 00:04:01,407
+de rédiger et d'évaluer des scénarios
+
+100
+00:04:01,407 --> 00:04:02,675
+par le biais de questions,
+
+101
+00:04:02,675 --> 00:04:05,678
+voix ou textes, avec un ton conversationnel.
+
+102
+00:04:13,720 --> 00:04:14,087
+Un long chemin
+
+103
+00:04:14,087 --> 00:04:17,257
+a été parcouru depuis l'étincelle de curiosité
+
+104
+00:04:17,257 --> 00:04:18,057
+qui a enflammé
+
+105
+00:04:18,057 --> 00:04:19,292
+l'esprit de Turing
+
+106
+00:04:19,292 --> 00:04:21,961
+à l'innovation des outils d'IA contemporains.
+
+107
+00:04:21,961 --> 00:04:23,630
+Et ce n'est que le début.
+
+108
+00:04:23,630 --> 00:04:25,531
+Alors que nous continuons à explorer
+
+109
+00:04:25,531 --> 00:04:27,000
+l'IA, il est crucial
+
+110
+00:04:27,000 --> 00:04:29,602
+que tout le monde en comprenne les fondamentaux,
+
+111
+00:04:29,602 --> 00:04:32,605
+comprendre ce qu'est l'IA et comment elle fonctionne,
+
+112
+00:04:32,639 --> 00:04:33,973
+nous permet d'exploiter
+
+113
+00:04:33,973 --> 00:04:36,209
+tout le potentiel de la technologie,
+
+114
+00:04:36,209 --> 00:04:38,411
+de favoriser l'innovation et le progrès.
