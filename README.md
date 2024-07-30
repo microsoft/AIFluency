@@ -33,7 +33,7 @@ Supplementary materials include:
 
 - Quizzes for knowledge assessment
 
-The content will be available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, and Bahasa Indonesia
+The content will be available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, and Indonesian
 
 To access the content, click on the localized language folder, and on the top right corner, click **download raw file**.
 
