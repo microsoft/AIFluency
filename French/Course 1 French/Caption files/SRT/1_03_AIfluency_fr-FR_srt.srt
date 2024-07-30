@@ -1,0 +1,327 @@
+﻿1
+00:00:00,200 --> 00:00:03,203
+Des données partout ?
+
+2
+00:00:04,371 --> 00:00:05,939
+Vous êtes-vous déjà demandé
+
+3
+00:00:05,939 --> 00:00:07,474
+combien de données mobiles
+
+4
+00:00:07,474 --> 00:00:08,875
+vous aviez vraiment besoin
+
+5
+00:00:08,875 --> 00:00:11,177
+sur votre forfait de téléphone portable
+
+6
+00:00:11,177 --> 00:00:13,513
+et pourquoi vous en aviez besoin ?
+
+7
+00:00:13,513 --> 00:00:15,482
+Les données sont la matière première
+
+8
+00:00:15,482 --> 00:00:16,750
+que les systèmes d'IA
+
+9
+00:00:16,750 --> 00:00:19,753
+utilisent pour analyser et faire des prédictions.
+
+10
+00:00:19,986 --> 00:00:21,688
+Vous produisez en fait beaucoup
+
+11
+00:00:21,688 --> 00:00:24,691
+plus de données que vous ne le pensez.
+
+12
+00:00:28,261 --> 00:00:31,398
+Dans les années 90, avec l'essor d'Internet,
+
+13
+00:00:31,631 --> 00:00:34,100
+l'accès aux données et l'utilisation de l'IA
+
+14
+00:00:34,100 --> 00:00:35,502
+ont vraiment décollé.
+
+15
+00:00:35,502 --> 00:00:36,002
+Aujourd'hui,
+
+16
+00:00:36,002 --> 00:00:36,970
+en particulier,
+
+17
+00:00:36,970 --> 00:00:38,238
+nous ne manquons pas de données
+
+18
+00:00:38,238 --> 00:00:39,906
+qui alimentent les analyses
+
+19
+00:00:39,906 --> 00:00:42,909
+et les processus de reconnaissance de formes.
+
+20
+00:00:45,612 --> 00:00:46,246
+Imaginez
+
+21
+00:00:46,246 --> 00:00:48,148
+combien de données sont créées
+
+22
+00:00:48,148 --> 00:00:50,817
+pendant que vous regardez cette vidéo.
+
+23
+00:00:50,817 --> 00:00:53,386
+Peut-être que vous envoyez un texto à un ami,
+
+24
+00:00:53,386 --> 00:00:54,154
+en même temps,
+
+25
+00:00:54,154 --> 00:00:56,489
+quelqu'un à côté de vous pourrait être en ligne.
+
+26
+00:00:56,489 --> 00:00:57,390
+Quelqu'un d'autre
+
+27
+00:00:57,390 --> 00:00:58,024
+vient de poster
+
+28
+00:00:58,024 --> 00:01:00,226
+une photo sur sa page de réseaux sociaux,
+
+29
+00:01:00,226 --> 00:01:02,896
+tandis qu'un autre vient de lancer une nouvelle vidéo
+
+30
+00:01:02,896 --> 00:01:04,397
+qui a suscité son intérêt
+
+31
+00:01:04,397 --> 00:01:06,266
+sur une application de streaming.
+
+32
+00:01:06,266 --> 00:01:08,535
+Toutes ces actions sont sauvegardées
+
+33
+00:01:08,535 --> 00:01:09,869
+et créent de nouvelles données.
+
+34
+00:01:13,540 --> 00:01:16,242
+La génération de données est sans fin.
+
+35
+00:01:16,242 --> 00:01:19,112
+Chaque seconde de nouvelles données sont créées,
+
+36
+00:01:19,112 --> 00:01:21,081
+mais elles doivent être affinées.
+
+37
+00:01:21,081 --> 00:01:23,049
+L'ensemble de données utilisées
+
+38
+00:01:23,049 --> 00:01:24,951
+pour former des algorithmes
+
+39
+00:01:24,951 --> 00:01:27,954
+influencent directement l’exactitude des modèles IA.
+
+40
+00:01:28,188 --> 00:01:31,191
+Cela signifie que des données de haute qualité,
+
+41
+00:01:31,291 --> 00:01:34,994
+diversifiées et représentatives seront essentielles
+
+42
+00:01:34,994 --> 00:01:37,997
+pour développer des modèles d'IA avancés.
+
+43
+00:01:41,167 --> 00:01:44,304
+Prenez l'exemple d'un service de streaming musical.
+
+44
+00:01:44,604 --> 00:01:47,440
+Il utilise les données de vos habitudes d'écoute :
+
+45
+00:01:47,440 --> 00:01:49,109
+les chansons que vous passez,
+
+46
+00:01:49,109 --> 00:01:50,944
+celles que vous écoutez en boucle
+
+47
+00:01:50,944 --> 00:01:52,545
+et les playlists que vous créez,
+
+48
+00:01:52,545 --> 00:01:55,215
+afin de partager votre musique préférée.
+
+49
+00:01:55,215 --> 00:01:56,583
+Ce cas pratique illustre
+
+50
+00:01:56,583 --> 00:01:57,684
+la façon dont les données
+
+51
+00:01:57,684 --> 00:01:59,319
+sont utilisées pour améliorer
+
+52
+00:01:59,319 --> 00:02:01,054
+nos expériences quotidiennes
+
+53
+00:02:01,054 --> 00:02:04,057
+et vous recommander de nouvelles chansons.
+
+54
+00:02:06,192 --> 00:02:07,994
+Et c'est pour cela que nous utilisons
+
+55
+00:02:07,994 --> 00:02:09,062
+le machine learning
+
+56
+00:02:09,062 --> 00:02:12,031
+qui collecte des informations à partir des données.
+
+57
+00:02:12,031 --> 00:02:14,234
+Une fois que nous avons ces informations,
+
+58
+00:02:14,234 --> 00:02:15,535
+nous pouvons les utiliser
+
+59
+00:02:15,535 --> 00:02:17,570
+pour former des modèles d'IA,
+
+60
+00:02:17,570 --> 00:02:19,706
+améliorer les produits et services,
+
+61
+00:02:19,706 --> 00:02:21,341
+faire des prédictions, voire
+
+62
+00:02:21,341 --> 00:02:23,843
+même en découvrir un nouvel usage.
+
+63
+00:02:23,843 --> 00:02:25,912
+Donc, comprendre les données
+
+64
+00:02:25,912 --> 00:02:28,248
+n'est pas seulement une question de quantité,
+
+65
+00:02:28,248 --> 00:02:31,251
+mais aussi de qualité et de diversité.
+
+66
+00:02:31,251 --> 00:02:33,219
+Il s'agit de reconnaître des modèles
+
+67
+00:02:33,219 --> 00:02:34,921
+et d'établir des liens qui pourraient
+
+68
+00:02:34,921 --> 00:02:36,890
+ne pas être immédiatement évidents.
+
+69
+00:02:36,890 --> 00:02:39,058
+Il s'agit d'utiliser ces modèles
+
+70
+00:02:39,058 --> 00:02:39,792
+pour prédire
+
+71
+00:02:39,792 --> 00:02:40,927
+des tendances,
+
+72
+00:02:40,927 --> 00:02:43,930
+des comportements et des résultats futurs.
+
+73
+00:02:44,130 --> 00:02:45,965
+La prochaine fois que vous utiliserez
+
+74
+00:02:45,965 --> 00:02:47,467
+votre téléphone portable,
+
+75
+00:02:47,467 --> 00:02:50,503
+souvenez vous que chaque action que vous entreprenez,
+
+76
+00:02:50,503 --> 00:02:51,738
+chaque morceau de données
+
+77
+00:02:51,738 --> 00:02:52,906
+que vous produisez,
+
+78
+00:02:52,906 --> 00:02:54,674
+contribuent à ce vaste réseau
+
+79
+00:02:54,674 --> 00:02:56,776
+d'informations interconnectées.
+
+80
+00:02:56,776 --> 00:02:59,212
+C'est en comprenant la nature de ces données
+
+81
+00:02:59,212 --> 00:03:01,014
+que nous pouvons vraiment débloquer
+
+82
+00:03:01,014 --> 00:03:02,448
+tout le potentiel de l'IA.
