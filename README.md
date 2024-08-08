@@ -35,7 +35,9 @@ Supplementary materials include:
 
 The content will be available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, and Indonesian
 
-To access the content, click on the localized language folder, and on the top right corner, click **download raw file**.
+To access the content, click on the localized language folder, and on the top right corner, click **download raw file**. 
+
+**For course files over 2GB, they have been broken into seperate files for download.**
 
 
 **Please note: Issues are not actively monitored, and any that are opened may not receive a response or action.**
