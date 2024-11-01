@@ -42,4 +42,4 @@ To access the content, click on the localized language folder, and on the top ri
 
 **Please note: Issues are not actively monitored, and any that are opened may not receive a response or action.**
 
-**Thank you, ILO, for your invaluable support with the Chinese files.
+Thank you, ILO, for your invaluable support with the Chinese files.
