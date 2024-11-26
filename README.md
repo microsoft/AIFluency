@@ -27,13 +27,15 @@ Supplementary materials include:
 
 - Caption files in TXT, SRT, VTT, and TTML formats
 
-- Audio description files in .mp3 format
+- Audio description files in .mp3 format 
 
 - Enhanced transcripts
 
 - Quizzes for knowledge assessment
 
 The content will be available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, Polish and Indonesian
+
+Coming soon December 2024: Italian, Castilian Spanish, & Thai 
 
 To access the content, click on the localized language folder, and on the top right corner, click **download raw file**. 
 
