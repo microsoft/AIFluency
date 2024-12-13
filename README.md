@@ -43,4 +43,4 @@ To access the content, click on the localized language folder, and on the top ri
 
 **Please note: Issues are not actively monitored, and any that are opened may not receive a response or action.**
 
-Acknowledgment is given to ILO for their invaluable support with the Chinese files. This assistance has been instrumental and is greatly appreciated.
+Acknowledgment is given to the International Labour Organization ‘Quality Apprenticeship and Lifelong Learning in China’ Project for their invaluable support with the simplified Chinese files. This assistance has been instrumental and is greatly appreciated.
