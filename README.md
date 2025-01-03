@@ -13,7 +13,7 @@ The AI fluency content is designed to educate individuals on the fundamentals of
 
 - Internet Search and beyond - This course explores the mechanics of internet search engines, discussing advanced search techniques and the future of search technology. It also highlights how recent developments in AI are reshaping the way we search for information. ​
 
-- Responsible AI - This course discusses the ethical and responsible use of AI technologies, considering aspects such as fairness, transparency, privacy, and accountability. It also covers current issues and strategies that companies are implementing to combat security threats.​
+- Responsible AI - This course discusses the responsible use of AI technologies, considering aspects such as fairness, transparency, privacy, and accountability. It also covers current issues and strategies that companies are implementing to combat security threats.​
 
 - Boost Your Productivity with Copilot - This course provides a guide on how to get started with Copilot, an AI companion. It includes real-life examples of how Copilot can enhance productivity by assisting with tasks such as planning, writing, and more, thereby making work more efficient and effective.​
 
@@ -33,9 +33,7 @@ Supplementary materials include:
 
 - Quizzes for knowledge assessment
 
-The content will be available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, Polish and Indonesian
-
-Coming soon December 2024: Italian, Castilian Spanish, & Thai 
+The content is available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, Polish, Italian, Castilian Spanish, Thai and Indonesian.
 
 To access the content, click on the localized language folder, and on the top right corner, click **download raw file**. 
 
@@ -43,4 +41,4 @@ To access the content, click on the localized language folder, and on the top ri
 
 **Please note: Issues are not actively monitored, and any that are opened may not receive a response or action.**
 
-Acknowledgment is given to ILO for their invaluable support with the Chinese files. This assistance has been instrumental and is greatly appreciated.
+Acknowledgment is given to the International Labour Organization ‘Quality Apprenticeship and Lifelong Learning in China’ Project for their invaluable support with the simplified Chinese files. This assistance has been instrumental and is greatly appreciated.
