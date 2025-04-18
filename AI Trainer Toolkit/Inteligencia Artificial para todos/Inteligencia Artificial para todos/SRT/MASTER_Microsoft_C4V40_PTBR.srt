@@ -1,0 +1,272 @@
+﻿1
+00:00:03,291 --> 00:00:06,041
+Imagine um mundo onde a
+tecnologia serve
+
+2
+00:00:06,041 --> 00:00:08,916
+como uma ponte para infinita
+ oportunidades.
+
+3
+00:00:09,208 --> 00:00:10,958
+Um mundo onde cada pessoa,
+
+4
+00:00:10,958 --> 00:00:13,500
+não importa quais sejam as
+suas habilidades,
+
+5
+00:00:13,500 --> 00:00:17,000
+possa desfrutar do poder da tecnologia
+para aprender, 
+
+6
+00:00:17,250 --> 00:00:20,541
+trabalhar, e se conectar com
+outras pessoas.
+
+7
+00:00:20,916 --> 00:00:23,708
+Essa visão está se tornando realidade,
+
+8
+00:00:23,708 --> 00:00:26,250
+graças aos avanços recentes na IA.
+
+9
+00:00:26,625 --> 00:00:29,625
+Através dos princípios universais do design,
+
+10
+00:00:29,666 --> 00:00:32,666
+a IA está redefinindo o nosso
+cenário digital,
+
+11
+00:00:32,916 --> 00:00:36,250
+tornando-o mais inclusivo
+e empoderando a todos.
+
+12
+00:00:37,250 --> 00:00:39,875
+Mas como a IA promove isso?
+
+13
+00:00:40,125 --> 00:00:42,291
+A IA está ampliando as possibilidades
+
+14
+00:00:42,291 --> 00:00:45,000
+do que podemos alcançar com 
+computadores.
+
+15
+00:00:45,541 --> 00:00:48,916
+A IA está criando novas interfaces
+para o usuário
+
+16
+00:00:48,916 --> 00:00:51,875
+e plataformas mais intuitivas
+e adaptáveis,
+
+17
+00:00:51,875 --> 00:00:54,291
+tornando a tecnologia mais acessível.
+
+18
+00:00:55,083 --> 00:00:57,208
+Vejamos alguns exemplos.
+
+19
+00:00:57,208 --> 00:01:02,083
+O projeto Hexis-Antara na Índia está
+melhorando a alfabetização em braille.
+
+20
+00:01:02,416 --> 00:01:06,541
+Ele envolve um dispositivo que converte
+conteúdo em braille sob demanda,
+
+21
+00:01:06,541 --> 00:01:10,125
+fazendo com que o conteúdo educativo
+seja mais acessível
+
+22
+00:01:10,125 --> 00:01:12,916
+para os alunos cegos ou com
+baixa visão.
+
+23
+00:01:13,250 --> 00:01:16,875
+A Mentra é uma rede de emprego
+especializada em melhorar
+
+24
+00:01:16,875 --> 00:01:20,625
+as oportunidades de emprego para
+pessoas neurodivergentes.
+
+25
+00:01:20,750 --> 00:01:24,833
+Ele usa IA para combinar os pontos
+fortes únicos do candidato
+
+26
+00:01:24,875 --> 00:01:26,750
+com carreiras recompensadoras,
+
+27
+00:01:26,750 --> 00:01:31,041
+contribuindo para ambientes de trabalho
+mais diversos e produtivos.
+
+28
+00:01:31,375 --> 00:01:32,875
+O DAISY Consortium
+
+29
+00:01:32,875 --> 00:01:34,833
+está desenvolvendo um aplicativo
+
+30
+00:01:34,833 --> 00:01:38,666
+que converte livros para serem usados
+em vários dispositivos,
+
+31
+00:01:38,875 --> 00:01:43,583
+nas mãos de pessoas com deficiência, 
+incluindo telefones, telas em braille,
+
+32
+00:01:43,875 --> 00:01:47,208
+e reprodutores de áudio a base de
+energia solar.
+
+33
+00:01:47,583 --> 00:01:50,583
+Isso também tornará os livros
+mais acessíveis,
+
+34
+00:01:50,708 --> 00:01:54,041
+especialmente em partes do mundo
+com poucos recursos.
+
+35
+00:01:54,291 --> 00:01:56,958
+A Northwest Evaluation Association
+
+36
+00:01:56,958 --> 00:01:59,000
+está fazendo provas de matemática
+
+37
+00:01:59,000 --> 00:02:02,458
+mais acessíveis para estudantes
+com deficiência visual.
+
+38
+00:02:02,916 --> 00:02:06,083
+Este projeto cuida das necessidades
+não atendidas
+
+39
+00:02:06,083 --> 00:02:10,583
+que podem excluir alunos de ter carreiras
+de nível superior em matemática
+
+40
+00:02:10,583 --> 00:02:12,250
+e outras ciências exatas.
+
+41
+00:02:12,625 --> 00:02:17,333
+O Rijksmuseum, em parceria com a comunidade
+de cegos e pessoas com baixa visão,
+
+42
+00:02:17,333 --> 00:02:19,666
+está tornando a arte mais acessível
+
+43
+00:02:19,666 --> 00:02:22,875
+através de descrições detalhadas em
+forma de texto
+
+44
+00:02:22,875 --> 00:02:27,750
+todas usando o Azure AI Computer Vision 
+e o Azure OpenAI.
+
+45
+00:02:28,333 --> 00:02:31,875
+O projeto usa a visão computacional
+do Azure AI
+
+46
+00:02:32,000 --> 00:02:35,250
+para analisar obras de arte e
+gerar descrições.
+
+47
+00:02:35,833 --> 00:02:40,041
+Essas descrições são então processadas
+pelo Azure OpenAI
+
+48
+00:02:40,041 --> 00:02:44,458
+que usa modelos de linguagem avançados
+para gerar texto semelhante ao humano
+
+49
+00:02:44,458 --> 00:02:48,166
+que podem ser lidos em voz alta
+ou traduzidos para braille.
+
+50
+00:02:48,625 --> 00:02:53,250
+Ao focar em designs universalmente inclusivos
+e usar o poder da IA,
+
+51
+00:02:53,666 --> 00:02:56,583
+um mundo mais equitativo está
+sendo criado
+
+52
+00:02:56,583 --> 00:02:59,250
+onde a tecnologia serve como ponte,
+
+53
+00:02:59,250 --> 00:03:02,333
+e não uma barreira, para as
+pessoas com deficiência.
+
+54
+00:03:02,791 --> 00:03:05,791
+Um mundo mais equitativo
+está sendo criado.
+
+55
+00:03:06,000 --> 00:03:08,833
+Acessibilidade não é apenas um recurso
+
+56
+00:03:08,833 --> 00:03:11,666
+é um direito fundamental dos 
+seres humanos,
+
+57
+00:03:11,666 --> 00:03:15,333
+e a IA generativa desempenha
+um papel fundamental
+
+58
+00:03:15,333 --> 00:03:18,416
+em tornar este direito universalmente
+atingível.

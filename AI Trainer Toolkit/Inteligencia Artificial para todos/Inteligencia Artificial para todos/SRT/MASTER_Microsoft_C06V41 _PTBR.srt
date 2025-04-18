@@ -1,0 +1,352 @@
+﻿1
+00:00:03,500 --> 00:00:05,208
+À medida que a IA evolui, 
+
+2
+00:00:05,208 --> 00:00:08,000
+ela não só muda a forma como
+fazemos as coisas,
+
+3
+00:00:08,250 --> 00:00:11,458
+mas também cria funções e processos
+inteiramente novos
+
+4
+00:00:11,458 --> 00:00:13,041
+que não existiam antes.
+
+5
+00:00:13,541 --> 00:00:16,208
+E o que isso significa para nós?
+
+6
+00:00:16,208 --> 00:00:19,208
+Significa que precisamos ser rápido
+em aprender, 
+
+7
+00:00:19,250 --> 00:00:21,916
+estarmos prontos para nos adaptarmos.
+
+8
+00:00:21,916 --> 00:00:26,083
+Isso vale tanto para quem busca qualificação
+para dominar novas técnicas,
+
+9
+00:00:26,250 --> 00:00:30,458
+quanto para conquistar novas habilidades
+para se adaptar ao novo cenário.
+
+10
+00:00:30,958 --> 00:00:32,875
+Isso já está acontecendo!
+
+11
+00:00:33,458 --> 00:00:36,291
+A IA está movimentando os setores
+financeiro,
+
+12
+00:00:36,375 --> 00:00:40,125
+ de saúde, as indústrias e muitos
+outros mercados.
+
+13
+00:00:40,916 --> 00:00:44,458
+Em finanças, a IA está ajudando
+com a detecção de fraude,
+
+14
+00:00:44,583 --> 00:00:48,166
+a gestão de riscos, e a melhoria das
+experiências do cliente.
+
+15
+00:00:48,541 --> 00:00:52,250
+Veja por exemplo, o Microsoft Copilot
+para finanças.
+
+16
+00:00:52,708 --> 00:00:54,208
+Este assistente de IA 
+
+17
+00:00:54,208 --> 00:00:56,375
+auxilia na automação de tarefas
+
+18
+00:00:56,375 --> 00:01:00,750
+e gera insights nos aplicativos
+Microsoft 365,
+
+19
+00:01:00,750 --> 00:01:06,416
+preenchendo a lacuna entre sistemas
+como o Dynamics 365 e o SAP.
+
+20
+00:01:07,458 --> 00:01:09,500
+Isso não apenas economiza tempo
+
+21
+00:01:09,500 --> 00:01:12,250
+mas também permite que as
+equipes financeiras
+
+22
+00:01:12,250 --> 00:01:14,583
+se concentrem no trabalho estratégico
+
+23
+00:01:14,583 --> 00:01:17,083
+que impulsiona o crescimento das
+empresas.
+
+24
+00:01:17,916 --> 00:01:19,583
+Falando da área de saúde,
+
+25
+00:01:19,583 --> 00:01:22,208
+a IA chega como um assistente confiável.
+
+26
+00:01:22,666 --> 00:01:25,583
+Ela simplifica sistemas, gestão de
+custos,
+
+27
+00:01:25,583 --> 00:01:28,583
+e serviços ao paciente que estão
+sobrecarregados.
+
+28
+00:01:29,250 --> 00:01:32,458
+Por exemplo, a IA está ajudando
+em diagnósticos,
+
+29
+00:01:32,458 --> 00:01:35,208
+tornando os exames médicos mais
+precisos, 
+
+30
+00:01:35,208 --> 00:01:38,000
+especialmente para aqueles que
+mais precisam.
+
+31
+00:01:38,125 --> 00:01:41,125
+Ela até detecta condições como
+a depressão,
+
+32
+00:01:41,125 --> 00:01:43,666
+através da análise dos padrões de fala. 
+
+33
+00:01:44,000 --> 00:01:45,750
+No setor de energia,
+
+34
+00:01:45,750 --> 00:01:49,125
+ a IA é uma força motriz para um
+futuro mais verde.
+
+35
+00:01:49,458 --> 00:01:52,416
+Parques eólicos equipados com
+sensores de IA
+
+36
+00:01:52,416 --> 00:01:54,208
+podem prever padrões de vento 
+
+37
+00:01:54,208 --> 00:01:56,291
+e ajustar os ângulos das turbinas
+
+38
+00:01:56,291 --> 00:01:58,916
+para captarem o máximo de
+energia eólica,
+
+39
+00:01:59,125 --> 00:02:03,333
+aumentando sua eficiência e também
+a vida útil das turbinas.
+
+40
+00:02:03,958 --> 00:02:07,500
+E na indústria, os sistemas de IA podem
+analisar dados
+
+41
+00:02:07,500 --> 00:02:10,625
+dos equipamentos para prever a falha
+de uma peça.
+
+42
+00:02:10,750 --> 00:02:12,958
+Isso permite agendar a manutenção
+
+43
+00:02:12,958 --> 00:02:14,708
+antes que ocorra uma avaria,
+
+44
+00:02:14,708 --> 00:02:18,416
+o que resulta na redução do tempo de 
+inatividade das máquinas, 
+
+45
+00:02:18,416 --> 00:02:19,958
+e na economia de custos.
+
+46
+00:02:20,458 --> 00:02:23,708
+A IA também pode ajudar a prever
+a demanda de um produto,
+
+47
+00:02:23,708 --> 00:02:27,458
+ajudando a manter a quantidade certa
+disponível em estoque.
+
+48
+00:02:27,625 --> 00:02:30,041
+Isso reduz os custos de armazenamento
+
+49
+00:02:30,041 --> 00:02:32,708
+e garante que os produtos estejam
+disponíveis
+
+50
+00:02:32,708 --> 00:02:34,958
+quando os clientes precisarem deles.
+
+51
+00:02:35,250 --> 00:02:37,250
+A IA também pode ajudar a prever
+
+52
+00:02:37,250 --> 00:02:41,000
+quando uma furadeira ou outra ferramenta
+vai deixar de funcionar.
+
+53
+00:02:41,375 --> 00:02:44,750
+Isso permite reparos ou substituições
+de peças
+
+54
+00:02:44,750 --> 00:02:46,458
+antes que ocorra um acidente 
+
+55
+00:02:46,458 --> 00:02:49,916
+que poderia causar danos ambientais
+ou a seres humanos.
+
+56
+00:02:50,250 --> 00:02:52,708
+Agora, imagine entrar em uma loja
+
+57
+00:02:52,708 --> 00:02:55,291
+onde tudo é personalizado para você.
+
+58
+00:02:55,375 --> 00:02:58,166
+É isso que a IA está fazendo no varejo.
+
+59
+00:02:58,166 --> 00:03:00,875
+Ela está transformando a experiência
+de compra
+
+60
+00:03:00,875 --> 00:03:03,416
+ao personalizar a jornada do comprador
+
+61
+00:03:03,416 --> 00:03:06,666
+e melhorar as experiências dos colaboradores
+da loja.
+
+62
+00:03:07,125 --> 00:03:08,500
+No setor público,
+
+63
+00:03:08,500 --> 00:03:11,375
+a IA é a ponte entre governos
+e cidadãos,
+
+64
+00:03:11,375 --> 00:03:13,708
+que enfrentam desafios sociais.
+
+65
+00:03:13,708 --> 00:03:17,583
+Vejamos iniciativas como a 
+AI for Good da Microsoft.
+
+66
+00:03:17,958 --> 00:03:21,583
+Elas promovem o uso responsável
+de IA no governo.
+
+67
+00:03:21,750 --> 00:03:26,083
+Podemos melhorar os serviços públicos e
+apoiar os trabalhadores deste setor
+
+68
+00:03:26,083 --> 00:03:29,208
+com novas ferramentas, e melhorar conexões.
+
+69
+00:03:29,375 --> 00:03:30,833
+No setor agrícola,
+
+70
+00:03:30,833 --> 00:03:34,250
+a IA é a assistente em que o agricultor
+pode confiar.
+
+71
+00:03:34,583 --> 00:03:37,666
+O Projeto FarmVibes é um excelente
+exemplo 
+
+72
+00:03:37,666 --> 00:03:41,208
+de uma iniciativa que está transformando
+dados em insights,
+
+73
+00:03:41,208 --> 00:03:43,833
+dos sensores de solo, até os satélites,
+
+74
+00:03:43,833 --> 00:03:47,708
+ajudando o agricultor a otimizar
+suas práticas agrícolas.
+
+75
+00:03:47,791 --> 00:03:52,166
+Como vimos nos exemplos, a IA não apenas
+está remodelando setores,
+
+76
+00:03:52,166 --> 00:03:54,333
+mas está melhorando o nosso trabalho
+
+77
+00:03:54,500 --> 00:03:57,333
+de um jeito que nos empodera
+ainda mais.
