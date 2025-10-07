@@ -35,8 +35,7 @@ Supplementary materials include:
 
 The content is available in the following languages: Arabic, Simplified Chinese (CN), Traditional Chinese (TW), British English (GB), Australian English (AU), Hindi, Korean, Brazilian Portuguese, Spanish, Swahili, English (US), French, German, Japanese, Polish, Italian, Castilian Spanish, Thai and Indonesian.
 
-AI Fluency Version 2 is now available in the following languages: English (US), French, Italian, Polish, Castilian Spanish, German, Hindi, Indonesian, Thai, Japanese, and Korean. This updated release includes refreshed Copilot tutorials and the latest feature enhancements**.
-Additionally, Brazilian Portuguese now offers a brand-new course focused on getting started with Copilot.
+AI Fluency Version 2 is now available in the following languages: English (US), French, Italian, Polish, Castilian Spanish, German, Hindi, Indonesian, Thai, Japanese, and Korean. This updated release includes refreshed Copilot tutorials and the latest feature enhancements. Additionally, Brazilian Portuguese now offers a brand-new course focused on getting started with Copilot.
 
 To access the content, click on the localized language folder, and on the top right corner, click **download raw file**. 
 
