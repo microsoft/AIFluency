@@ -42,5 +42,6 @@ To access the content, click on the localized language folder, and on the top ri
 **For course files over 2GB, they have been broken into seperate files for download.**
 
 **Please note: Issues are not actively monitored, and any that are opened may not receive a response or action.**
+This content is provided for general information and reflects our knowledge as of its release. With AI and technology evolving rapidly, it may become outdated — please use it responsibly, as Microsoft isn’t responsible for any issues from outdated or misused material.
 
 Acknowledgment is given to the International Labour Organization ‘Quality Apprenticeship and Lifelong Learning in China’ Project for their invaluable support with the simplified Chinese files. This assistance has been instrumental and is greatly appreciated.
