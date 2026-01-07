@@ -1,0 +1,257 @@
+﻿1
+00:00:04,916 --> 00:00:08,375
+Laten we eerlijk zijn, we hebben niet allemaal
+de vaardigheid voor beeldende kunst,
+
+2
+00:00:08,541 --> 00:00:10,291
+maar dat zou onze creativiteit
+niet moeten beperken.
+
+3
+00:00:10,916 --> 00:00:14,166
+Stel je bijvoorbeeld voor dat je
+een voedselinzameling organiseert
+
+4
+00:00:14,291 --> 00:00:16,791
+en je hebt toestemming gekregen
+om posters op te hangen
+
+5
+00:00:16,916 --> 00:00:19,708
+in plaatselijke supermarkten
+en gemeenschapscentra.
+
+6
+00:00:20,125 --> 00:00:21,625
+Je wilt een poster maken
+
+7
+00:00:21,833 --> 00:00:24,625
+die het doel van de voedselinzameling
+effectief communiceert,
+
+8
+00:00:25,083 --> 00:00:28,083
+maar je hebt er moeite mee
+illustraties voor je poster te maken.
+
+9
+00:00:29,000 --> 00:00:31,500
+Hier kan een
+tekst-naar-beeld-generator
+
+10
+00:00:31,625 --> 00:00:32,708
+helpen de kloof te overbruggen.
+
+11
+00:00:33,500 --> 00:00:35,250
+Deze generatoren maken gebruik
+van geavanceerde algoritmen
+
+12
+00:00:35,250 --> 00:00:38,083
+om je tekstbeschrijving te interpreteren
+en er een afbeelding van te maken.
+
+13
+00:00:38,333 --> 00:00:41,291
+DALL-E,
+een AI-model ontwikkeld door OpenAI,
+
+14
+00:00:41,458 --> 00:00:43,208
+is een voorbeeld van deze technologie.
+
+15
+00:00:43,791 --> 00:00:47,083
+Het kan gedetailleerde afbeeldingen
+genereren van eenvoudige beschrijvingen,
+
+16
+00:00:47,333 --> 00:00:50,708
+waarbij woorden effectief worden omgezet
+in visuele voorstellingen.
+
+17
+00:00:51,041 --> 00:00:54,791
+Dit AI-model is ook geïntegreerd
+in Microsoft Designer,
+
+18
+00:00:54,958 --> 00:00:58,083
+een functie binnen Image Creator
+in Microsoft Copilot.
+
+19
+00:00:58,958 --> 00:01:02,791
+Door een beschrijving in te voeren,
+maakt Microsoft Designer gebruik van DALL-E
+
+20
+00:01:02,958 --> 00:01:06,416
+om je conceptuele ideeën
+om te zetten in een virtuele werkelijkheid.
+
+21
+00:01:06,916 --> 00:01:07,958
+Laten we eens kijken hoe dit wordt gedaan.
+
+22
+00:01:09,875 --> 00:01:12,916
+Stel dat je een afbeelding wilt maken
+om te gebruiken op je poster
+
+23
+00:01:13,041 --> 00:01:14,166
+voor de voedselinzameling.
+
+24
+00:01:14,666 --> 00:01:16,291
+Je zou een beschrijving kunnen invoeren als:
+
+25
+00:01:16,750 --> 00:01:19,541
+"Maak een striptekening
+van een diverse groep mensen
+
+26
+00:01:19,750 --> 00:01:21,291
+die voedsel doneren aan een gemeenschap."
+
+27
+00:01:21,500 --> 00:01:22,750
+Het is belangrijk om te onthouden
+
+28
+00:01:22,958 --> 00:01:26,250
+dat je Microsoft Copilot precies moet vertellen
+wat je wilt dat het maakt.
+
+29
+00:01:26,875 --> 00:01:30,083
+Begin altijd met een zinsdeel
+als: "Maak een afbeelding van ...".
+
+30
+00:01:30,375 --> 00:01:33,125
+Anders weet het misschien niet
+of je een afbeelding wilt
+
+31
+00:01:33,333 --> 00:01:34,958
+of een antwoord als tekst.
+
+32
+00:01:35,791 --> 00:01:38,916
+Na het invoeren van je beschrijving,
+klik je op de knop 'Genereren'.
+
+33
+00:01:39,375 --> 00:01:42,000
+Microsoft Copilot
+gaat dan je invoer verwerken
+
+34
+00:01:42,166 --> 00:01:43,666
+en na een korte tijd
+
+35
+00:01:43,791 --> 00:01:46,625
+zie je een visuele weergave
+van je beschrijving.
+
+36
+00:01:47,541 --> 00:01:50,375
+Deze afbeelding kan dienen
+als inspiratiebron
+
+37
+00:01:50,541 --> 00:01:52,375
+of als uitgangspunt
+voor verdere ontwerpen.
+
+38
+00:01:53,041 --> 00:01:56,000
+Onthoud dat hoe gedetailleerder
+en duidelijker je omschrijving,
+
+39
+00:01:56,250 --> 00:01:58,541
+hoe nauwkeuriger
+de gegenereerde afbeelding zal zijn.
+
+40
+00:01:59,041 --> 00:02:03,250
+Aarzel dus niet om meer details toe te voegen
+over de afbeelding die je wilt maken.
+
+41
+00:02:04,750 --> 00:02:07,250
+Stel dat de afbeelding
+niet helemaal is wat je wilt.
+
+42
+00:02:08,500 --> 00:02:10,500
+Je wilt een afbeelding
+met een bepaalde achtergrond.
+
+43
+00:02:11,791 --> 00:02:14,666
+Je kunt Microsoft Copilot vragen
+om je afbeelding te bewerken.
+
+44
+00:02:15,000 --> 00:02:17,166
+Laten we dat eens proberen.
+"Voeg de achtergrond van een stad toe."
+
+45
+00:02:17,916 --> 00:02:20,916
+Zoals je kunt zien,
+maakt Microsoft Copilot een afbeelding
+
+46
+00:02:21,041 --> 00:02:22,791
+die overeenkomt met de nieuwe beschrijving.
+
+47
+00:02:23,500 --> 00:02:26,125
+Generatieve AI
+heeft praktische toepassingen
+
+48
+00:02:26,375 --> 00:02:29,166
+die variëren van productontwerp
+tot artistieke creatie,
+
+49
+00:02:29,416 --> 00:02:31,166
+en het potentieel ervan
+groeit met de dag.
+
+50
+00:02:31,791 --> 00:02:33,416
+Of je nu je huis verbouwt
+
+51
+00:02:33,666 --> 00:02:36,666
+of op zoek bent naar illustraties
+voor je nieuwste project,
+
+52
+00:02:37,041 --> 00:02:40,750
+AI-generatoren staan klaar om je te helpen
+beelden tot leven te brengen.
+
+53
+00:02:41,791 --> 00:02:43,750
+Dus de volgende keer
+dat je een afbeelding nodig hebt,
+
+54
+00:02:44,041 --> 00:02:47,958
+vergeet dan niet dat de kracht van AI
+slechts een beschrijving verwijderd is.

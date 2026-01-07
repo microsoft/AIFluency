@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="2.708s" xml:id="p0" end="6.958s">Microsoft Copilot verandert de manier<br />waarop we alledaagse taken aanpakken,</p>
+      <p begin="7.333s" xml:id="p1" end="9.458s">doordat ze voor iedereen<br />toegankelijker worden.</p>
+      <p begin="10.5s" xml:id="p2" end="14.458s">Door tijd en moeite te besparen die er<br />voor de diverse activiteiten nodig is,</p>
+      <p begin="14.75s" xml:id="p3" end="19.0s">stelt Copilot mensen,<br />waaronder die met een handicap,</p>
+      <p begin="19.208s" xml:id="p4" end="22.291s">in staat om meer tijd te besteden<br />aan hun interesses en hobby&#039;s.</p>
+      <p begin="22.625s" xml:id="p5" end="25.208s">Hoe helpt Microsoft<br />Copilot hierbij?</p>
+      <p begin="26.166s" xml:id="p6" end="28.625s">Bijvoorbeeld door<br />het verlagen van barrières,</p>
+      <p begin="28.958s" xml:id="p7" end="30.625s">hulp bij het schrijven</p>
+      <p begin="30.916s" xml:id="p8" end="33.416s">en het in enkele seconden<br />samenvatten van informatie.</p>
+      <p begin="33.583s" xml:id="p9" end="34.458s">Laten we enkele voorbeelden bekijken.</p>
+      <p begin="34.458s" xml:id="p10" end="35.333s">Laten we enkele voorbeelden bekijken.</p>
+      <p begin="35.666s" xml:id="p11" end="36.916s">Barrières verlagen.</p>
+      <p begin="37.125s" xml:id="p12" end="40.041s">Voor mensen<br />met een lichamelijke beperking</p>
+      <p begin="40.166s" xml:id="p13" end="43.166s">kan typen<br />aanzienlijke obstakels opleveren.</p>
+      <p begin="44.208s" xml:id="p14" end="47.833s">Microsoft Copilot is ontworpen<br />om deze uitdagingen te verlichten.</p>
+      <p begin="49.125s" xml:id="p15" end="51.916s">Met de mogelijkheid om<br />uitgebreide tekst te genereren</p>
+      <p begin="52.041s" xml:id="p16" end="53.416s">uit een korte beschrijving,</p>
+      <p begin="53.791s" xml:id="p17" end="57.375s">zorgt Copilot ervoor dat de noodzaak<br />van veel typwerk drastisch wordt beperkt.</p>
+      <p begin="58.083s" xml:id="p18" end="59.25s">Hulp bij het schrijven.</p>
+      <p begin="59.583s" xml:id="p19" end="62.5s">Copilot blinkt uit in het bieden<br />van hulp bij het schrijven.</p>
+      <p begin="63.0s" xml:id="p20" end="65.166s">Het geeft suggesties voor<br />complete zinnen</p>
+      <p begin="65.291s" xml:id="p21" end="68.791s">die helpen bij het opstellen van e-mails<br />en andere vormen van communicatie.</p>
+      <p begin="69.958s" xml:id="p22" end="73.333s">Deze functie is van onschatbare waarde<br />voor mensen met dyslexie</p>
+      <p begin="73.375s" xml:id="p23" end="75.333s">of andere leerstoornissen,</p>
+      <p begin="75.708s" xml:id="p24" end="79.583s">omdat het schriftelijke communicatie<br />toegankelijker en gemakkelijker maakt.</p>
+      <p begin="79.916s" xml:id="p25" end="81.916s">Iemand kan bijvoorbeeld typen:</p>
+      <p begin="82.208s" xml:id="p26" end="85.291s">&quot;Stel een concept op voor een<br />sollicitatiebrief voor een marketingfunctie.</p>
+      <p begin="86.333s" xml:id="p27" end="89.666s">Gebruik een professionele<br />maar toch informele toon</p>
+      <p begin="89.791s" xml:id="p28" end="92.916s">en benadruk mijn opleiding<br />en werkervaring.&quot;</p>
+      <p begin="96.291s" xml:id="p29" end="97.791s">Webnavigatie.</p>
+      <p begin="98.083s" xml:id="p30" end="100.0s">Navigeren op het web wordt eenvoudiger</p>
+      <p begin="100.083s" xml:id="p31" end="102.625s">omdat Copilot de mogelijkheid biedt<br />om beschrijvingen en samenvattingen</p>
+      <p begin="102.708s" xml:id="p32" end="105.208s">van online inhoud te geven.</p>
+      <p begin="105.875s" xml:id="p33" end="107.5s">Dit is vooral handig</p>
+      <p begin="107.625s" xml:id="p34" end="110.75s">voor blinden<br />of slechtzienden,</p>
+      <p begin="110.958s" xml:id="p35" end="113.083s">omdat het hen toegang<br />tot informatie verschaft</p>
+      <p begin="113.208s" xml:id="p36" end="115.291s">die voorheen<br />moeilijk te krijgen was.</p>
+      <p begin="115.833s" xml:id="p37" end="117.291s">Een gebruiker kan vragen:</p>
+      <p begin="117.5s" xml:id="p38" end="120.833s">&quot;Vat de meest recente vooruitgang<br />in AI-ontwikkeling samen</p>
+      <p begin="120.875s" xml:id="p39" end="122.25s">van de afgelopen maand.&quot;</p>
+      <p begin="122.625s" xml:id="p40" end="124.75s">Om het potentieel van<br />Copilot volledig te benutten,</p>
+      <p begin="124.833s" xml:id="p41" end="129.208s">kun je het gewoon het beste gaan gebruiken<br />en je feedback delen met Copilot.</p>
+      <p begin="130.041s" xml:id="p42" end="132.958s">Zo verbeter je<br />niet alleen je eigen ervaring</p>
+      <p begin="133.125s" xml:id="p43" end="136.333s">maar draag je ook bij aanhet verkleinen van de invaliditeitskloof.</p>
+      <p begin="137.25s" xml:id="p44" end="139.0s">Copilot is niet alleen een hulpmiddel,</p>
+      <p begin="139.125s" xml:id="p45" end="141.541s">het is een stap<br />naar een inclusieve toekomst</p>
+      <p begin="141.666s" xml:id="p46" end="146.041s">waarin technologie als brug dient<br />naar een wereld vol mogelijkheden.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.166s" xml:id="p0" end="6.416s">We weten allemaal hoe moeilijk het is<br />om wat tijd voor jezelf vrij te maken</p>
+      <p begin="6.541s" xml:id="p1" end="8.125s">te midden van ons drukke leven</p>
+      <p begin="8.291s" xml:id="p2" end="10.791s">gevuld met werk, verplichtingen<br />en andere bezigheden.</p>
+      <p begin="11.041s" xml:id="p3" end="13.416s">Dat is waar Microsoft Copilot<br />van pas komt.</p>
+      <p begin="13.541s" xml:id="p4" end="15.791s">Beschouw het als<br />jouw persoonlijke AI-metgezel,</p>
+      <p begin="15.916s" xml:id="p5" end="18.25s">die klaar staat om je te helpen<br />je dag in te plannen.</p>
+      <p begin="18.791s" xml:id="p6" end="20.791s">Laten we eens kijken<br />naar enkele manieren</p>
+      <p begin="20.875s" xml:id="p7" end="22.875s">waarop Copilot je kan helpen<br />je tijd effectief in te delen.</p>
+      <p begin="23.125s" xml:id="p8" end="26.416s">Ten eerste kan het helpen om je werk-<br />en persoonlijke agenda te optimaliseren.</p>
+      <p begin="27.166s" xml:id="p9" end="28.916s">Stel, je hebt een drukke dag<br />voor de boeg.</p>
+      <p begin="30.0s" xml:id="p10" end="31.5s">Je zou Copilot kunnen vragen:</p>
+      <p begin="31.875s" xml:id="p11" end="33.791s">&quot;Optimaliseer mijn agenda voor vandaag.</p>
+      <p begin="34.75s" xml:id="p12" end="36.041s">Ik word wakker om 6 uur</p>
+      <p begin="36.166s" xml:id="p13" end="39.0s">en heb een afspraak bij de tandarts<br />om 8 uur.</p>
+      <p begin="39.291s" xml:id="p14" end="41.25s">Dat is 10 minuten<br />van mijn kantoor vandaan.</p>
+      <p begin="42.416s" xml:id="p15" end="46.375s">Ik werk van 9 tot 17 uur<br />met een reistijd van 30 minuten.</p>
+      <p begin="47.416s" xml:id="p16" end="49.416s">Ik moet tussendoor één uur sporten,</p>
+      <p begin="49.541s" xml:id="p17" end="52.375s">een wekelijkse nieuwsbrief<br />van één pagina schrijven en verzenden,</p>
+      <p begin="52.666s" xml:id="p18" end="54.916s">en boodschappen doen<br />voor een gezin van vier.</p>
+      <p begin="55.041s" xml:id="p19" end="57.5s">Ik wil ook 30 minuten besteden<br />aan tijd voor mezelf.</p>
+      <p begin="58.75s" xml:id="p20" end="61.166s">Wat is de beste volgorde<br />om deze taken aan te pakken?&quot;</p>
+      <p begin="61.791s" xml:id="p21" end="64.291s">Copilot geeft je dan<br />een persoonlijk tijdschema,</p>
+      <p begin="64.666s" xml:id="p22" end="67.5s">ervoor zorgend dat je een productieve<br />en evenwichtige dag hebt.</p>
+      <p begin="67.916s" xml:id="p23" end="69.0s">Voor je werkdag</p>
+      <p begin="69.041s" xml:id="p24" end="71.875s">kan Copilot je taken<br />met precisie stroomlijnen.</p>
+      <p begin="72.541s" xml:id="p25" end="73.541s">Je zou kunnen vragen:</p>
+      <p begin="73.916s" xml:id="p26" end="76.041s">&quot;Organiseer mijn werkschema voor vandaag.</p>
+      <p begin="77.041s" xml:id="p27" end="80.75s">Ik begin om 6 uur en heb<br />om 9 uur een vergadering.</p>
+      <p begin="81.625s" xml:id="p28" end="84.541s">Ik moet om 13 uur<br />een projectvoorstel af hebben,</p>
+      <p begin="84.791s" xml:id="p29" end="89.791s">rapporten beoordelen, vanaf 10 uur<br />twee trainingssessies van een uur leiden</p>
+      <p begin="90.125s" xml:id="p30" end="92.375s">en om 14 uur een telefoontje<br />van een klant aannemen.</p>
+      <p begin="93.041s" xml:id="p31" end="96.916s">Ik heb om 12 uur lunchpauze<br />en mijn reistijd is 30 minuten.</p>
+      <p begin="98.041s" xml:id="p32" end="100.0s">Wat is de beste volgorde<br />voor deze taken?&quot;</p>
+      <p begin="100.375s" xml:id="p33" end="102.916s">Copilot stelt<br />een efficiënte workflow voor,</p>
+      <p begin="103.041s" xml:id="p34" end="105.875s">zodat je je verplichtingen<br />met gemak kunt afhandelen.</p>
+      <p begin="106.625s" xml:id="p35" end="109.416s">Het kan ook helpen bij het<br />opstellen van berichten en e-mails.</p>
+      <p begin="109.916s" xml:id="p36" end="111.416s">Je zou Copilot kunnen vragen:</p>
+      <p begin="111.541s" xml:id="p37" end="114.25s">&quot;Ik moet drie<br />bewerkingstaken delegeren</p>
+      <p begin="114.416s" xml:id="p38" end="116.916s">voor ons project dat vrijdag<br />om 17 uur klaar moet zijn.</p>
+      <p begin="117.75s" xml:id="p39" end="119.75s">Kun je me helpen bij het opstellen<br />van een bericht aan mijn team</p>
+      <p begin="119.791s" xml:id="p40" end="122.791s">dat professioneel en toch vriendelijk is<br />om het werk te verdelen?&quot;</p>
+      <p begin="123.375s" xml:id="p41" end="125.791s">Met behulp van Copilot<br />verstuur je een bericht</p>
+      <p begin="125.916s" xml:id="p42" end="128.75s">dat precies de juiste combinatie is<br />van professioneel en persoonlijk,</p>
+      <p begin="129.041s" xml:id="p43" end="132.875s">wat je tijd bespaart en je team<br />op schema en op de hoogte houdt.</p>
+      <p begin="133.875s" xml:id="p44" end="135.25s">De volgende stap is planning.</p>
+      <p begin="135.916s" xml:id="p45" end="139.75s">Of het nu gaat om een werkproject<br />of een persoonlijk doel, planning is cruciaal.</p>
+      <p begin="141.0s" xml:id="p46" end="143.5s">Hier is een voorbeeld van<br />hoe Copilot je hierbij kan helpen:</p>
+      <p begin="143.75s" xml:id="p47" end="145.791s">&quot;Ik leid een<br />softwareontwikkelingsproject</p>
+      <p begin="145.875s" xml:id="p48" end="148.541s">om een mobiele app te ontwerpen<br />met gebruikersverificatie,</p>
+      <p begin="148.875s" xml:id="p49" end="152.166s">betalingsintegratie<br />en realtime-meldingen.</p>
+      <p begin="153.416s" xml:id="p50" end="155.291s">We hebben vijf ontwikkelaars,</p>
+      <p begin="155.375s" xml:id="p51" end="159.166s">een budget van 80.000 dollar,<br />en een deadline van 13 juli.</p>
+      <p begin="160.166s" xml:id="p52" end="163.0s">Kun je me helpen bij het opstellen<br />van een projectplan met mijlpalen</p>
+      <p begin="163.041s" xml:id="p53" end="165.625s">en toewijzing van middelen<br />voor elke fase</p>
+      <p begin="165.666s" xml:id="p54" end="168.041s">als we het project starten<br />op 4 januari?&quot;</p>
+      <p begin="168.75s" xml:id="p55" end="170.916s">Copilot levert dan<br />een projectoverzicht,</p>
+      <p begin="171.041s" xml:id="p56" end="173.416s">dat je helpt om op schema<br />en binnen het budget te blijven.</p>
+      <p begin="174.166s" xml:id="p57" end="176.666s">Je kunt zelfs<br />vervolgvragen stellen zoals:</p>
+      <p begin="176.75s" xml:id="p58" end="179.416s">&quot;Is dit budget voldoende<br />voor de omvang van dit project?&quot;</p>
+      <p begin="179.916s" xml:id="p59" end="182.166s">of &quot;Is er genoeg tijd<br />om dit project te voltooien</p>
+      <p begin="182.25s" xml:id="p60" end="183.666s">binnen het gegeven tijdsbestek?&quot;</p>
+      <p begin="184.625s" xml:id="p61" end="186.666s">Copilot verstrekt<br />aanvullende informatie</p>
+      <p begin="186.791s" xml:id="p62" end="188.75s">om je te helpen ervoor te zorgen</p>
+      <p begin="189.0s" xml:id="p63" end="192.791s">dat je niet alleen nu je tijd goed besteedt,<br />maar ook in de toekomst.</p>
+      <p begin="193.291s" xml:id="p64" end="197.375s">Ook thuis kan Copilot je helpen<br />om je tijd optimaal in te delen.</p>
+      <p begin="198.291s" xml:id="p65" end="201.5s">Het kan bijvoorbeeld advies geven<br />over hoe je je ruimte kunt opruimen</p>
+      <p begin="201.666s" xml:id="p66" end="204.25s">en je takenlijsten<br />effectiever kunt beheren.</p>
+      <p begin="205.166s" xml:id="p67" end="206.166s">Vraag gewoon:</p>
+      <p begin="206.291s" xml:id="p68" end="210.416s">&quot;Copilot, mijn huis is rommelig<br />en mijn takenlijst is te lang.</p>
+      <p begin="211.375s" xml:id="p69" end="213.916s">Kun je me wat tips geven<br />om snel orde te scheppen</p>
+      <p begin="214.0s" xml:id="p70" end="215.416s">en mijn dag onder controle te krijgen?&quot;</p>
+      <p begin="216.166s" xml:id="p71" end="219.0s">Je krijgt dan praktisch advies<br />over hoe je je ruimte kunt opruimen</p>
+      <p begin="219.25s" xml:id="p72" end="221.166s">en tips over het prioriteren van taken.</p>
+      <p begin="221.625s" xml:id="p73" end="224.291s">Als je een verkoopmanager bent die zich<br />voorbereidt op een gesprek met een klant,</p>
+      <p begin="224.541s" xml:id="p74" end="227.125s">kan Copilot je helpen je notities<br />te structureren en ordenen</p>
+      <p begin="227.291s" xml:id="p75" end="229.375s">of je advies geven<br />over hoe je dit kunt doen.</p>
+      <p begin="230.416s" xml:id="p76" end="231.791s">Vraag gewoon:</p>
+      <p begin="232.291s" xml:id="p77" end="234.25s">&quot;Ik heb zo<br />diverse gesprekken met klanten</p>
+      <p begin="234.291s" xml:id="p78" end="236.0s">en moet mijn aantekeningen organiseren.</p>
+      <p begin="237.041s" xml:id="p79" end="239.416s">Kun je me erbij helpen<br />dit gestructureerd aan te pakken?&quot;</p>
+      <p begin="240.041s" xml:id="p80" end="242.416s">Copilot begeleidt je bij het<br />organiseren van je aantekeningen,</p>
+      <p begin="242.666s" xml:id="p81" end="245.541s">zodat je je volledig op de gesprekken kunt richten<br />om er een succes van te maken</p>
+      <p begin="245.75s" xml:id="p82" end="246.916s">en ook nog eens tijd bespaart.</p>
+      <p begin="247.541s" xml:id="p83" end="250.291s">Beschouw Copilot<br />als jouw eigen tijdplanner,</p>
+      <p begin="250.541s" xml:id="p84" end="253.375s">die altijd bij de hand is om je te helpen<br />bij het organiseren van je dag</p>
+      <p begin="253.625s" xml:id="p85" end="255.916s">en het stellen van prioriteiten,<br />en om je te helpen tijd te vinden</p>
+      <p begin="256.041s" xml:id="p86" end="257.5s">voor de dingen die je vreugde brengen.</p>
+      <p begin="258.416s" xml:id="p87" end="261.291s">Of je nu wilt beginnen aan een nieuw boek,<br />het buitenleven wilt verkennen</p>
+      <p begin="261.541s" xml:id="p88" end="263.125s">of gewoon wilt ontspannen en opladen,</p>
+      <p begin="263.416s" xml:id="p89" end="265.791s">je kunt erop rekenen<br />dat Copilot voor je klaarstaat</p>
+      <p begin="265.916s" xml:id="p90" end="268.25s">om je dagelijkse agenda<br />gestroomlijnd te houden,</p>
+      <p begin="268.416s" xml:id="p91" end="271.0s">zodat je tijd hebt om te doen<br />wat je het liefst doet.</p>
+    </div>
+  </body>
+</tt>

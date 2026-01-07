@@ -1,0 +1,226 @@
+﻿1
+00:00:03,250 --> 00:00:07,750
+Microsoft Copilot is een meertalige
+AI-metgezel ontworpen om taalbarrières
+
+2
+00:00:07,750 --> 00:00:12,291
+te doorbreken en toegang tot informatie
+over de hele wereld gemakkelijker te maken.
+
+3
+00:00:12,875 --> 00:00:15,916
+Het ondersteunt momenteel
+meerdere talen
+
+4
+00:00:16,125 --> 00:00:21,291
+waaronder Vereenvoudigd Chinees,
+Engels, Frans, Duits, Italiaans,
+
+5
+00:00:21,500 --> 00:00:24,250
+Japans, Braziliaans
+Portugees en Spaans.
+
+6
+00:00:25,083 --> 00:00:28,083
+Als je een foutmelding tegenkomt
+die aangeeft dat een taal
+
+7
+00:00:28,208 --> 00:00:32,083
+niet wordt ondersteund door Copilot,
+kan dit als een verrassing komen,
+
+8
+00:00:32,083 --> 00:00:35,583
+vooral als Bing wel gewoon
+beschikbaar is in jouw taal.
+
+9
+00:00:36,041 --> 00:00:38,666
+Dit kan gebeuren
+omdat de taalondersteuning voor Copilot
+
+10
+00:00:38,875 --> 00:00:42,458
+nog niet zo ver gaat
+als de taalondersteuning van Bing.
+
+11
+00:00:44,625 --> 00:00:47,625
+Om de taalinstellingen aan te passen
+in Microsoft Copilot,
+
+12
+00:00:47,708 --> 00:00:49,916
+klik je op het pictogram
+in de rechterbovenhoek.
+
+13
+00:00:52,750 --> 00:00:55,541
+In het menu met instellingen
+ga je naar 'Taal'
+
+14
+00:00:55,750 --> 00:00:58,000
+om je voorkeurstaal
+voor Bing in te stellen.
+
+15
+00:00:58,166 --> 00:01:01,291
+Hier kun je ook de taal instellen
+die Copilot moet gebruiken
+
+16
+00:01:01,375 --> 00:01:03,250
+voor zoekresultaten en antwoorden.
+
+17
+00:01:03,750 --> 00:01:07,375
+Het is belangrijk op te merken
+dat Copilot momenteel alleen
+
+18
+00:01:07,500 --> 00:01:09,958
+prompts in de eerder
+genoemde talen accepteert.
+
+19
+00:01:10,041 --> 00:01:12,875
+Als je een prompt verzendt
+in een taal die niet wordt ondersteund,
+
+20
+00:01:13,041 --> 00:01:15,750
+brengt Copilot je hiervan op de hoogte
+door middel van een foutmelding.
+
+21
+00:01:17,500 --> 00:01:18,791
+Naast talen, is
+
+22
+00:01:19,000 --> 00:01:21,875
+Copilot ook gebouwd met
+het oog op toegankelijkheid.
+
+23
+00:01:22,291 --> 00:01:24,291
+Copilot-spraak is een functie
+die je gesprekken
+
+24
+00:01:24,416 --> 00:01:27,125
+gemakkelijker
+en efficiënter maakt.
+
+25
+00:01:27,583 --> 00:01:31,125
+Het is perfect voor die momenten
+wanneer typen niet de beste optie is,
+
+26
+00:01:31,250 --> 00:01:34,458
+of voor gebruikers die spreken
+gemakkelijker vinden dan schrijven.
+
+27
+00:01:35,000 --> 00:01:37,750
+Laten we eens kijken hoe
+je toegang krijgt tot Copilot-spraak.
+
+28
+00:01:38,500 --> 00:01:41,000
+Open eerst Copilot op je apparaat.
+
+29
+00:01:41,416 --> 00:01:44,958
+Klik vervolgens op het pictogram van
+een microfoon en praat in je apparaat.
+
+30
+00:01:45,916 --> 00:01:49,666
+Copilot luistert dan en antwoordt,
+allemaal in realtime.
+
+31
+00:01:50,833 --> 00:01:53,041
+Visueel zoeken is
+een andere functie waarmee je
+
+32
+00:01:53,208 --> 00:01:56,583
+de wereld om je heen
+kunt ontdekken en leren begrijpen.
+
+33
+00:01:57,166 --> 00:02:00,291
+Of je nu nieuwsgierig bent naar
+een mysterieuze plant in je tuin
+
+34
+00:02:00,416 --> 00:02:03,166
+of de soort vogel
+die voor je raam zit,
+
+35
+00:02:03,541 --> 00:02:05,291
+visueel zoeken is er om je te helpen.
+
+36
+00:02:06,083 --> 00:02:09,083
+Met een eenvoudige afbeelding,
+wordt Copilot je gids,
+
+37
+00:02:09,291 --> 00:02:11,333
+die beelden omzet in kennis.
+
+38
+00:02:12,250 --> 00:02:13,250
+Dit werkt als volgt.
+
+39
+00:02:13,750 --> 00:02:17,375
+Tik met Copilot open op je apparaat,
+op het camerapictogram
+
+40
+00:02:17,500 --> 00:02:20,083
+en upload een afbeelding
+of maak een nieuwe foto.
+
+41
+00:02:20,541 --> 00:02:23,333
+Begin dan een gesprek
+over je afbeelding.
+
+42
+00:02:24,500 --> 00:02:27,083
+Als je klaar bent,
+klik je op het pictogram voor verzenden.
+
+43
+00:02:27,625 --> 00:02:30,625
+Copilot analyseert dan de afbeelding
+en biedt inzichten
+
+44
+00:02:30,750 --> 00:02:32,250
+gebaseerd op je vraag.
+
+45
+00:02:32,583 --> 00:02:35,000
+Deze functies zorgen ervoor dat
+de weg wordt vrijgemaakt naar een toekomst
+
+46
+00:02:35,208 --> 00:02:36,958
+waarin kennis geen grenzen kent,
+
+47
+00:02:37,125 --> 00:02:39,666
+en leren binnen ieders
+bereik ligt.

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.291s" xml:id="p0" end="6.166s">Microsoft Edge heeft een<br />grote sprong voorwaarts gemaakt</p>
+      <p begin="6.25s" xml:id="p1" end="9.541s">door Copilot direct<br />in de browser te integreren.</p>
+      <p begin="10.375s" xml:id="p2" end="13.541s">Deze AI-functie verbetert<br />je ervaring bij het browsen,</p>
+      <p begin="13.791s" xml:id="p3" end="17.75s">doordat je op nieuwe en dynamische<br />manieren met websites kunt omgaan.</p>
+      <p begin="17.958s" xml:id="p4" end="20.083s">Of je nu berichten<br />wilt schrijven,</p>
+      <p begin="20.333s" xml:id="p5" end="22.083s">webpagina&#039;s wilt samenvatten,</p>
+      <p begin="22.291s" xml:id="p6" end="25.208s">of hulp wilt krijgen bij verschillende<br />taken tijdens het browsen,</p>
+      <p begin="25.291s" xml:id="p7" end="29.208s">Copilot in Edge is ontworpen om je<br />handelingen op het web te stroomlijnen.</p>
+      <p begin="30.083s" xml:id="p8" end="32.083s">Om aan de slag te gaan<br />met Copilot in Edge,</p>
+      <p begin="32.208s" xml:id="p9" end="35.625s">moet je eerst de<br />Microsoft Edge-browser downloaden.</p>
+      <p begin="36.083s" xml:id="p10" end="37.458s">Dat doe je als volgt:</p>
+      <p begin="37.666s" xml:id="p11" end="40.083s">Bezoek de officiële<br />Microsoft Edge-webpagina</p>
+      <p begin="40.166s" xml:id="p12" end="45.625s">op microsoft.com/nl-nl/edge.</p>
+      <p begin="45.875s" xml:id="p13" end="48.708s">Bovenaan de pagina<br />zie je het woord &#039;Downloaden&#039;.</p>
+      <p begin="49.083s" xml:id="p14" end="52.083s">Klik erop en het brengt je<br />naar de downloadpagina.</p>
+      <p begin="52.458s" xml:id="p15" end="55.166s">Op deze pagina<br />zie je verschillende versies.</p>
+      <p begin="56.208s" xml:id="p16" end="59.291s">Kies de versie die compatibel is<br />met je besturingssysteem.</p>
+      <p begin="59.666s" xml:id="p17" end="62.583s">Klik op de knop &#039;Downloaden&#039;<br />en volg de instructies op het scherm</p>
+      <p begin="62.708s" xml:id="p18" end="64.375s">om de browser te installeren.</p>
+      <p begin="64.583s" xml:id="p19" end="68.708s">Zodra je Edge hebt geïnstalleerd,<br />is de toegang tot Copilot eenvoudig:</p>
+      <p begin="68.958s" xml:id="p20" end="71.708s">Stap 1: Open de Microsoft Edge-browser.</p>
+      <p begin="72.083s" xml:id="p21" end="74.458s">Stap 2: Zoek het Copilot-pictogram,</p>
+      <p begin="74.541s" xml:id="p22" end="78.5s">dat doorgaans in de rechterbovenhoek<br />van het browservenster te vinden is.</p>
+      <p begin="78.541s" xml:id="p23" end="83.166s">Stap 3: Klik op het Copilot-pictogram om<br />de functie in je browser te openen.</p>
+      <p begin="83.666s" xml:id="p24" end="85.583s">Copilot in Edge<br />biedt diverse functies</p>
+      <p begin="85.791s" xml:id="p25" end="87.833s">om je ervaring bij het browsen<br />te verbeteren.</p>
+      <p begin="89.083s" xml:id="p26" end="90.208s">Laten we er een paar bekijken.</p>
+      <p begin="90.625s" xml:id="p27" end="92.875s">We zullen eerst de chatfunctie<br />eens wat nader bekijken.</p>
+      <p begin="93.166s" xml:id="p28" end="95.458s">Je kunt meekijken door naar<br />de pagina voor digitale skills</p>
+      <p begin="95.458s" xml:id="p29" end="98.541s">rondom Corporate Social<br />Responsibility te gaan:</p>
+      <p begin="98.583s" xml:id="p30" end="112.625s">https://www.microsoft.com/en-us/<br />corporate-responsibility/digital-skills.</p>
+      <p begin="113.041s" xml:id="p31" end="115.791s">Met de webpagina open,<br />klik je rechtsboven</p>
+      <p begin="115.958s" xml:id="p32" end="117.041s">op het Copilot-pictogram.</p>
+      <p begin="117.125s" xml:id="p33" end="118.75s">Als je het pictogram niet ziet,</p>
+      <p begin="118.75s" xml:id="p34" end="121.875s">controleer dan of je<br />de nieuwste versie van Edge hebt</p>
+      <p begin="122.083s" xml:id="p35" end="124.125s">en of je bent aangemeld<br />op je Microsoft-account.</p>
+      <p begin="124.625s" xml:id="p36" end="126.625s">Zodra Copilot in Edge open is,</p>
+      <p begin="126.833s" xml:id="p37" end="128.583s">ga je naar het tekstveld onderaan.</p>
+      <p begin="128.708s" xml:id="p38" end="132.125s">Vraag Copilot: &quot;Geef een samenvatting<br />van deze pagina.&quot;</p>
+      <p begin="132.708s" xml:id="p39" end="135.166s">Copilot vat de inhoud<br />onmiddellijk samen.</p>
+      <p begin="135.583s" xml:id="p40" end="138.833s">Je kunt ook vervolgvragen stellen<br />voor meer duidelijkheid.</p>
+      <p begin="139.625s" xml:id="p41" end="141.208s">Vraag bijvoorbeeld:</p>
+      <p begin="141.25s" xml:id="p42" end="143.916s">&quot;Welke opleidingsbronnen<br />biedt deze pagina?&quot;</p>
+      <p begin="144.041s" xml:id="p43" end="146.291s">en Copilot<br />haalt deze informatie op.</p>
+      <p begin="146.583s" xml:id="p44" end="149.25s">Stel dat je hulp nodig hebt om<br />een e-mail naar je baas op te stellen</p>
+      <p begin="149.333s" xml:id="p45" end="153.041s">over de weekenddienst die je net<br />hebt gekregen en niet kunt draaien.</p>
+      <p begin="153.166s" xml:id="p46" end="154.541s">Copilot kan hierbij helpen.</p>
+      <p begin="155.291s" xml:id="p47" end="157.166s">Open eerst een nieuwe chat.</p>
+      <p begin="157.333s" xml:id="p48" end="161.291s">Geef dan instructies en context<br />voor de e-mail.</p>
+      <p begin="161.5s" xml:id="p49" end="164.5s">Bijvoorbeeld: &quot;Schrijf een e-mail<br />naar mijn baas, Jamie,</p>
+      <p begin="164.75s" xml:id="p50" end="167.958s">om haar te informeren dat ik de<br />weekenddienst in de dierenwinkel</p>
+      <p begin="168.0s" xml:id="p51" end="170.125s">niet kan draaien omdat ik al<br />persoonlijke verplichtingen heb.&quot;</p>
+      <p begin="170.833s" xml:id="p52" end="173.5s">Copilot maakt dan een<br />concept-e-mail voor je,</p>
+      <p begin="173.541s" xml:id="p53" end="176.75s">die je kunt bewerken,<br />kopiëren en versturen.</p>
+      <p begin="177.041s" xml:id="p54" end="181.083s">Je kunt Copilot ook gebruiken<br />om je te helpen met schrijven,</p>
+      <p begin="181.083s" xml:id="p55" end="184.458s">opsommingen samenstellen,<br />LinkedIn-posts maken,</p>
+      <p begin="184.666s" xml:id="p56" end="187.833s">informatie samenvatten<br />of zelfs rapporten genereren.</p>
+      <p begin="188.041s" xml:id="p57" end="189.958s">Laten we nu eens kijken<br />naar een andere functie.</p>
+      <p begin="190.208s" xml:id="p58" end="194.708s">Copilot kan pdf&#039;s samenvatten<br />en vertalen in Edge.</p>
+      <p begin="194.916s" xml:id="p59" end="199.291s">Laten we bijvoorbeeld eens kijken<br />naar de AI Trainer Toolkit Guide:</p>
+      <p begin="199.666s" xml:id="p60" end="204.75s">Je kunt meekijken door naar<br />aka.ms/AITrainerToolkit te gaan.</p>
+      <p begin="205.166s" xml:id="p61" end="209.75s">Met de pdf open, klik je linksboven<br />op de knop &#039;Copilot vragen&#039;.</p>
+      <p begin="209.916s" xml:id="p62" end="213.291s">Als Copilot al open is,<br />kun je deze stap overslaan.</p>
+      <p begin="213.333s" xml:id="p63" end="216.125s">Zodra Copilot is geopend,<br />kun je ermee communiceren</p>
+      <p begin="216.25s" xml:id="p64" end="218.583s">door een vraag te stellen<br />over de pdf,</p>
+      <p begin="218.75s" xml:id="p65" end="221.291s">zoals “Geef een samenvatting<br />van de pdf.”</p>
+      <p begin="221.541s" xml:id="p66" end="225.291s">Copilot geeft dan een samenvatting<br />en suggesties voor vervolgvragen,</p>
+      <p begin="225.458s" xml:id="p67" end="230.166s">zoals “Hoe kan ik effectief<br />AI-tools in lesgeven implementeren?”</p>
+      <p begin="230.458s" xml:id="p68" end="232.041s">Als je op deze vraag klikt,</p>
+      <p begin="232.208s" xml:id="p69" end="235.333s">word je doorgeleid om te begrijpen<br />hoe belangrijk het is dat leraren</p>
+      <p begin="235.458s" xml:id="p70" end="238.416s">de noodzakelijke vaardigheden bezitten<br />om anderen effectief les te geven.</p>
+      <p begin="239.375s" xml:id="p71" end="243.375s">Rechts van de knop &#039;Copilot vragen&#039;<br />vind je drie zwarte stippen.</p>
+      <p begin="243.666s" xml:id="p72" end="245.833s">Als je daarop klikt,<br />zie je een meerkeuzemenu</p>
+      <p begin="245.958s" xml:id="p73" end="249.875s">met opties als ‘Vertalen’<br />en ‘Voorlezen’.</p>
+      <p begin="250.041s" xml:id="p74" end="255.125s">Je kunt nu direct pdf’s vertalen in Edge<br />en ze zelfs voor je laten oplezen.</p>
+      <p begin="255.291s" xml:id="p75" end="256.666s">Laten we dat eens proberen.</p>
+      <p begin="256.791s" xml:id="p76" end="258.458s">Klik op ‘Voorlezen’</p>
+      <p begin="258.583s" xml:id="p77" end="261.708s">en de pdf wordt<br />automatisch voorgelezen.</p>
+      <p begin="263.666s" xml:id="p78" end="266.083s">Aan de rechterkant is er<br />een menu &#039;Spraakopties&#039;,</p>
+      <p begin="266.208s" xml:id="p79" end="269.25s">waarmee je de leessnelheid kunt<br />aanpassen en een stem kunt selecteren.</p>
+      <p begin="272.958s" xml:id="p80" end="274.5s">Als je klikt op ‘Vertalen’,</p>
+      <p begin="274.541s" xml:id="p81" end="277.25s">zijn er diverse talen<br />om te kiezen.</p>
+      <p begin="277.541s" xml:id="p82" end="279.666s">Laten we bijvoorbeeld Frans kiezen.</p>
+      <p begin="280.0s" xml:id="p83" end="284.041s">Markeer de tekst in de pdf<br />die je wilt laten vertalen,</p>
+      <p begin="284.041s" xml:id="p84" end="287.291s">en deze wordt automatisch<br />vertaald in het tekstveld.</p>
+      <p begin="287.541s" xml:id="p85" end="290.541s">Je kunt ook rechtstreeks in Edge<br />een schermafbeelding maken</p>
+      <p begin="290.75s" xml:id="p86" end="293.666s">en deze delen met Copilot<br />om de afbeelding te laten beschrijven.</p>
+      <p begin="293.833s" xml:id="p87" end="299.75s">Je hebt ook gratis toegang tot<br />AI-functies zoals GPT-4 en Dall-E 3.</p>
+      <p begin="300.166s" xml:id="p88" end="305.25s">Klik nu op Windows+Shift +S<br />om de Snipping Tools-app te openen.</p>
+      <p begin="305.458s" xml:id="p89" end="309.541s">Sleep de cursor over het gedeelte van<br />het scherm dat Copilot moet analyseren.</p>
+      <p begin="309.666s" xml:id="p90" end="311.416s">Als je wilt dat Copilot<br />alleen het gedeelte</p>
+      <p begin="311.458s" xml:id="p91" end="314.458s">&#039;Wat is inbegrepen<br />in de Toolkit&#039; analyseert,</p>
+      <p begin="314.583s" xml:id="p92" end="316.625s">neem je een screenshot van die sectie.</p>
+      <p begin="317.083s" xml:id="p93" end="322.375s">Ga dan naar Copilot en klik op<br />CONTROL + V om dit te plakken.</p>
+      <p begin="322.708s" xml:id="p94" end="325.041s">Zodra de schermafbeelding<br />in Copilot verschijnt,</p>
+      <p begin="325.083s" xml:id="p95" end="327.125s">kun je er een prompt voor typen.</p>
+      <p begin="327.375s" xml:id="p96" end="328.375s">Bijvoorbeeld:</p>
+      <p begin="328.5s" xml:id="p97" end="330.958s">&quot;Analyseer de afbeelding<br />en vertel me in twee zinnen</p>
+      <p begin="331.125s" xml:id="p98" end="333.625s">wat er in de AI Trainer Toolkit<br />is inbegrepen.&quot;</p>
+      <p begin="334.541s" xml:id="p99" end="337.041s">Copilot geeft dan, zoals gevraagd,<br />in twee zinnen een samenvatting</p>
+      <p begin="337.166s" xml:id="p100" end="339.5s">van de schermafbeelding.</p>
+      <p begin="339.791s" xml:id="p101" end="344.416s">Copilot biedt ook mogelijkheden voor<br />tekst-naar-spraak en spraak-naar-tekst</p>
+      <p begin="344.666s" xml:id="p102" end="346.541s">voor een meer toegankelijke ervaring.</p>
+      <p begin="347.166s" xml:id="p103" end="349.916s">Met Copilot geïntegreerd<br />in Microsoft Edge</p>
+      <p begin="350.166s" xml:id="p104" end="353.041s">heb je een veelzijdige<br />AI-metgezel binnen handbereik,</p>
+      <p begin="353.125s" xml:id="p105" end="355.666s">die klaar staat om je te helpen<br />met een breed scala aan taken,</p>
+      <p begin="355.916s" xml:id="p106" end="359.291s">van het samenvatten van webinhoud<br />tot het opstellen van berichten.</p>
+      <p begin="359.833s" xml:id="p107" end="361.958s">De naadloze integratie<br />in de Edge-browser</p>
+      <p begin="362.041s" xml:id="p108" end="365.625s">garandeert een productieve<br />online ervaring.</p>
+    </div>
+  </body>
+</tt>

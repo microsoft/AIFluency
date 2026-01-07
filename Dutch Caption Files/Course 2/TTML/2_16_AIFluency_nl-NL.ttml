@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.291s" xml:id="p0" end="5.5s">Door de geschiedenis heen hebben<br />technologische ontwikkelingen</p>
+      <p begin="5.666s" xml:id="p1" end="8.375s">voortdurend<br />de beroepsbevolking veranderd,</p>
+      <p begin="8.541s" xml:id="p2" end="10.916s">nieuwe kansen gecreëerd<br />en zelfs nieuwe rollen.</p>
+      <p begin="12.416s" xml:id="p3" end="15.291s">Denk bijvoorbeeld eens<br />aan de historische overgang</p>
+      <p begin="15.416s" xml:id="p4" end="18.0s">van paard en wagen<br />naar de auto.</p>
+      <p begin="18.791s" xml:id="p5" end="22.125s">Vandaag de dag is AI<br />de nieuwste katalysator voor verandering.</p>
+      <p begin="22.791s" xml:id="p6" end="26.291s">Generatieve AI baant<br />nieuwe wegen in creativiteit,</p>
+      <p begin="26.416s" xml:id="p7" end="28.75s">probleemoplossing, empathie<br />en leiderschap,</p>
+      <p begin="28.916s" xml:id="p8" end="33.125s">gebieden waar menselijke capaciteiten<br />uitblinken en machines tekortschieten.</p>
+      <p begin="34.166s" xml:id="p9" end="38.625s">Onze arbeidsmarkt, van oudsher vol<br />inefficiëntie en ongelijkheid,</p>
+      <p begin="38.791s" xml:id="p10" end="41.541s">staat aan de vooravond van<br />een door AI aangedreven revolutie.</p>
+      <p begin="42.416s" xml:id="p11" end="46.166s">Deze verandering heeft het potentieel<br />om ongelijkheden te corrigeren</p>
+      <p begin="46.291s" xml:id="p12" end="49.041s">en een nieuwe definitie te geven aan<br />de structuur van economische kansen.</p>
+      <p begin="49.5s" xml:id="p13" end="52.875s">Hoe schept AI dan<br />meer kansen?</p>
+      <p begin="53.541s" xml:id="p14" end="54.541s">Laten we eens kijken:</p>
+      <p begin="55.375s" xml:id="p15" end="57.875s">AI werkt als een kompas<br />voor je carrière,</p>
+      <p begin="58.041s" xml:id="p16" end="60.625s">die je door de wendingen<br />van de arbeidsmarkt leidt.</p>
+      <p begin="61.625s" xml:id="p17" end="64.416s">Je kunt het gebruiken als hulpmiddel<br />om beschikbare vacatures te analyseren</p>
+      <p begin="64.625s" xml:id="p18" end="66.0s">en de vaardigheden die ze vereisen.</p>
+      <p begin="66.5s" xml:id="p19" end="69.125s">Dan kun je uitzoeken<br />wat je erbij moet leren.</p>
+      <p begin="70.041s" xml:id="p20" end="72.791s">Stel bijvoorbeeld dat<br />je een softwareontwikkelaar bent.</p>
+      <p begin="73.916s" xml:id="p21" end="76.0s">Je bent al<br />vijf jaar in je functie,</p>
+      <p begin="76.166s" xml:id="p22" end="78.916s">en je begint te voelen<br />dat het tijd is voor een carrièreswitch.</p>
+      <p begin="80.416s" xml:id="p23" end="83.125s">Je hebt altijd al manager<br />willen worden,</p>
+      <p begin="83.291s" xml:id="p24" end="85.25s">maar je weet niet precies<br />welke vaardigheden er nodig zijn</p>
+      <p begin="85.416s" xml:id="p25" end="87.416s">om over te stappen<br />naar een leidinggevende functie.</p>
+      <p begin="88.5s" xml:id="p26" end="91.291s">Dus je opent Microsoft Copilot,<br />en je typt:</p>
+      <p begin="91.666s" xml:id="p27" end="95.125s">&quot;Ik ben een softwareontwikkelaar<br />en ik wil manager worden.</p>
+      <p begin="95.791s" xml:id="p28" end="97.291s">Welke vaardigheden heb ik nodig?&quot;</p>
+      <p begin="97.875s" xml:id="p29" end="100.0s">Je bekijkt de lijst met vaardigheden<br />en je beseft dat</p>
+      <p begin="100.291s" xml:id="p30" end="102.916s">je niet veel ervaring hebt<br />met projectmanagement,</p>
+      <p begin="103.125s" xml:id="p31" end="105.166s">en dat dit een vaardigheid is<br />waar je aan wilt werken.</p>
+      <p begin="106.291s" xml:id="p32" end="108.416s">Dus vraag je aan Microsoft Copilot:</p>
+      <p begin="108.541s" xml:id="p33" end="111.541s">&quot;Welke cursussen zijn er beschikbaar<br />op Microsoft of LinkedIn</p>
+      <p begin="111.666s" xml:id="p34" end="113.916s">over het ontwikkelen van<br />vaardigheden in projectmanagement?&quot;</p>
+      <p begin="114.875s" xml:id="p35" end="117.625s">Microsoft Copilot geeft je<br />een lijst met cursussen</p>
+      <p begin="117.791s" xml:id="p36" end="120.125s">om uit te kiezen<br />met links ernaartoe.</p>
+      <p begin="120.375s" xml:id="p37" end="122.666s">Je bent nu op de juiste plek<br />om nieuwe vaardigheden te leren</p>
+      <p begin="122.875s" xml:id="p38" end="124.541s">voor je potentiële nieuwe loopbaan.</p>
+      <p begin="125.666s" xml:id="p39" end="126.916s">Dit is een gamechanger</p>
+      <p begin="127.041s" xml:id="p40" end="130.916s">omdat het dit soort advies toegankelijk<br />maakt voor iedereen, op elk moment.</p>
+      <p begin="131.75s" xml:id="p41" end="135.666s">Dit hulpmiddel stelt je in staat om<br />met AI te praten over je carrière,</p>
+      <p begin="135.875s" xml:id="p42" end="138.416s">en is sneller in het geven van antwoorden<br />en het bieden van hulpmiddelen.</p>
+      <p begin="139.666s" xml:id="p43" end="142.75s">Het gaat erom dat je over<br />het juiste gereedschap beschikt</p>
+      <p begin="142.916s" xml:id="p44" end="144.416s">om de carrière op te bouwen die je wilt.</p>
+      <p begin="145.125s" xml:id="p45" end="147.416s">AI is niet alleen een hulpmiddel<br />voor automatisering,</p>
+      <p begin="147.625s" xml:id="p46" end="150.291s">het is een platform<br />voor innovatie en kansen.</p>
+      <p begin="150.791s" xml:id="p47" end="152.75s">Het verandert de manier waarop we leren</p>
+      <p begin="152.916s" xml:id="p48" end="156.166s">door het aanbieden van<br />toegesneden educatieve ervaringen</p>
+      <p begin="156.375s" xml:id="p49" end="159.791s">en toegang tot informatie op een schaal<br />die nog nooit eerder is vertoond.</p>
+      <p begin="160.541s" xml:id="p50" end="163.791s">Met AI wordt leren<br />interactiever, flexibeler,</p>
+      <p begin="164.0s" xml:id="p51" end="166.291s">en afgestemd op individuele<br />behoeften en interesses.</p>
+      <p begin="167.291s" xml:id="p52" end="170.541s">Naarmate we het concept<br />van levenslang leren omarmen,</p>
+      <p begin="170.666s" xml:id="p53" end="174.416s">ontsluit AI nieuwe wegen<br />voor persoonlijke en professionele groei.</p>
+      <p begin="175.625s" xml:id="p54" end="179.75s">Het kan hiaten in onze kennis identificeren<br />en middelen voorstellen om deze te vullen.</p>
+      <p begin="179.916s" xml:id="p55" end="183.416s">Het kan ons verbinden met experts<br />en mentoren over de hele wereld,</p>
+      <p begin="183.625s" xml:id="p56" end="186.75s">en ons zelfs helpen om nieuwe passies<br />en carrièrepaden te ontdekken.</p>
+      <p begin="187.416s" xml:id="p57" end="189.666s">Voor mensen die zich altijd<br />hebben moeten aanpassen</p>
+      <p begin="189.875s" xml:id="p58" end="191.916s">en leren om uitdagingen<br />te overwinnen,</p>
+      <p begin="192.166s" xml:id="p59" end="194.041s">is AI een machtige bondgenoot.</p>
+      <p begin="195.166s" xml:id="p60" end="198.166s">Het maakt het speelveld gelijk<br />door iedereen toegang te geven</p>
+      <p begin="198.291s" xml:id="p61" end="201.416s">tot dezelfde kwaliteitsmiddelen<br />en -kansen,</p>
+      <p begin="201.625s" xml:id="p62" end="204.0s">ongeacht<br />achtergrond of omstandigheden.</p>
+      <p begin="204.625s" xml:id="p63" end="206.541s">In deze tijd van constante verandering</p>
+      <p begin="206.75s" xml:id="p64" end="210.416s">zorgt AI ervoor dat ons leertraject<br />niet alleen een pad is dat we volgen,</p>
+      <p begin="210.625s" xml:id="p65" end="212.416s">maar een weg die we voor onszelf plaveien,</p>
+      <p begin="212.625s" xml:id="p66" end="215.541s">die leidt naar een toekomst waarin<br />alle mensen de kans hebben</p>
+      <p begin="215.666s" xml:id="p67" end="217.25s">om hun volledige potentieel te bereiken.</p>
+    </div>
+  </body>
+</tt>

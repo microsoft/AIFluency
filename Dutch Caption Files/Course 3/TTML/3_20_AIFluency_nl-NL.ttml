@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.166s" xml:id="p0" end="7.166s">Microsoft Copilot verandert de manier waarop<br />waarop we omgaan met digitale informatie</p>
+      <p begin="8.25s" xml:id="p1" end="12.416s">en maakt van de traditionele<br />zoekervaring iets allesomvattends.</p>
+      <p begin="12.875s" xml:id="p2" end="15.625s">Copilot combineert de kracht<br />van een groot taalmodel</p>
+      <p begin="15.875s" xml:id="p3" end="17.791s">met de uitgebreide kennis van het internet.</p>
+      <p begin="19.166s" xml:id="p4" end="22.041s">Deze methode, de zogenaamde &#039;retrieval-augmented generation&#039;,</p>
+      <p begin="22.291s" xml:id="p5" end="25.041s">zorgt ervoor dat je tijdens het zoeken<br />de beste hulp krijgt.</p>
+      <p begin="25.541s" xml:id="p6" end="28.75s">Als een AI-gestuurde metgezel,<br />past hij zich aan jouw behoeften aan,</p>
+      <p begin="29.0s" xml:id="p7" end="32.041s">zodat jij slimmer<br />en sneller kunt werken.</p>
+      <p begin="32.541s" xml:id="p8" end="36.416s">Benieuwd hoe Microsoft Copilot<br />jouw zoekervaring kan verbeteren?</p>
+      <p begin="37.541s" xml:id="p9" end="38.916s">Laten we eens kijken wat het allemaal kan.</p>
+      <p begin="39.875s" xml:id="p10" end="42.791s">Microsoft Copilot gaat verder dan<br />het vergelijken van trefwoorden</p>
+      <p begin="42.875s" xml:id="p11" end="46.541s">om inzicht te krijgen in de context<br />en de intentie achter je zoekopdrachten.</p>
+      <p begin="47.625s" xml:id="p12" end="50.875s">Dit betekent dat het resultaten kan leveren<br />die niet alleen relevant zijn</p>
+      <p begin="51.166s" xml:id="p13" end="53.541s">maar toegesneden zijn op<br />de betreffende specifieke taak.</p>
+      <p begin="53.666s" xml:id="p14" end="55.916s">Het kan je bijvoorbeeld helpen bij<br />het plannen van een reis.</p>
+      <p begin="56.541s" xml:id="p15" end="59.791s">Ik typ in: Ik plan in het voorjaar<br />een reis naar Japan.</p>
+      <p begin="60.0s" xml:id="p16" end="63.0s">Wat moet ik vóór mijn bezoek<br />weten over de lente in Japan?</p>
+      <p begin="63.208s" xml:id="p17" end="66.583s">Het lijkt erop dat ik geluk heb en<br />tijdens mijn reis kersenbloesem ga zien.</p>
+      <p begin="67.0s" xml:id="p18" end="70.333s">De lente in Japan is beroemd<br />om de kersenbloesems.</p>
+      <p begin="70.333s" xml:id="p19" end="72.583s">Het is een geweldige tijd<br />om parken en tempels te bezoeken</p>
+      <p begin="72.958s" xml:id="p20" end="74.958s">en deel te nemen aan Hanami-festivals.</p>
+      <p begin="75.583s" xml:id="p21" end="77.375s">Door geavanceerde AI-modellen<br />te gebruiken,</p>
+      <p begin="77.625s" xml:id="p22" end="80.5s">levert Microsoft Copilot<br />resultaten die correct zijn</p>
+      <p begin="80.875s" xml:id="p23" end="82.833s">en direct verband houden<br />met je zoekopdracht,</p>
+      <p begin="82.916s" xml:id="p24" end="86.208s">zodat je precies<br />de benodigde informatie krijgt.</p>
+      <p begin="86.458s" xml:id="p25" end="87.458s">Stel dat je bijvoorbeeld</p>
+      <p begin="87.583s" xml:id="p26" end="90.458s">overweegt om zonnepanelen<br />op je huis te plaatsen,</p>
+      <p begin="90.958s" xml:id="p27" end="94.791s">maar je wilt meer informatie over het actuele<br />onderzoek naar de efficiëntie van zonne-energie.</p>
+      <p begin="95.083s" xml:id="p28" end="96.458s">Je kunt een vraag stellen als:</p>
+      <p begin="96.833s" xml:id="p29" end="99.916s">&quot;Wat is het meest actuele onderzoek<br />naar de efficiëntie van zonne-energie?&quot;</p>
+      <p begin="100.083s" xml:id="p30" end="104.666s">Copilot biedt je dan het laatste nieuws<br />over de efficiëntie van zonne-energie.</p>
+      <p begin="104.75s" xml:id="p31" end="106.416s">Informatie is niet alleen nauwkeurig,</p>
+      <p begin="106.75s" xml:id="p32" end="110.541s">maar wordt ook gepresenteerd op een manier<br />die gemakkelijk te begrijpen en op te volgen is.</p>
+      <p begin="110.916s" xml:id="p33" end="112.875s">Of het nu gaat om gegevens uit een spreadsheet</p>
+      <p begin="113.166s" xml:id="p34" end="114.875s">of een samenvatting van een lang document,</p>
+      <p begin="115.416s" xml:id="p35" end="119.041s">Copilot organiseert het in een visueel<br />aantrekkelijk en logisch formaat.</p>
+      <p begin="119.958s" xml:id="p36" end="122.083s">Na een vergadering</p>
+      <p begin="122.333s" xml:id="p37" end="124.958s">kan Copilot bijvoorbeeld je notities<br />voor je samenvatten.</p>
+      <p begin="125.541s" xml:id="p38" end="128.541s">Stel dat je wat rommelige notities hebt gemaakt<br />en er wel wat hulp bij kan gebruiken.</p>
+      <p begin="128.791s" xml:id="p39" end="132.291s">Geef Copilot dan je notities<br />en typ een instructie als:</p>
+      <p begin="132.666s" xml:id="p40" end="136.166s">&quot;Vat de belangrijkste punten samen<br />van de vergadering op 13 juli.&quot;</p>
+      <p begin="136.375s" xml:id="p41" end="138.791s">In een handomdraai<br />zijn je notities georganiseerd</p>
+      <p begin="138.791s" xml:id="p42" end="140.75s">en kunnen ze met anderen worden gedeeld.</p>
+      <p begin="141.083s" xml:id="p43" end="144.208s">Heb je een gedicht, een verhaal<br />of zelfs een stukje code nodig?</p>
+      <p begin="144.583s" xml:id="p44" end="147.958s">Microsoft Copilot kan deze genereren<br />met een eenvoudige instructie.</p>
+      <p begin="148.208s" xml:id="p45" end="150.208s">Stel dat je hulp nodig hebt<br />met programmeren.</p>
+      <p begin="150.375s" xml:id="p46" end="151.541s">Je moet in Python een functie maken</p>
+      <p begin="151.666s" xml:id="p47" end="154.375s">om een Fibonacci-reeks te genereren.</p>
+      <p begin="154.708s" xml:id="p48" end="155.875s">Dat kun je aan Copilot vragen:</p>
+      <p begin="156.208s" xml:id="p49" end="159.75s">&quot;Maak in Python een functie om<br />een Fibonacci-reeks te genereren.&quot;</p>
+      <p begin="160.25s" xml:id="p50" end="162.5s">Copilot geeft je vervolgens de code.</p>
+      <p begin="163.041s" xml:id="p51" end="165.541s">Als je bestaande tekst hebt<br />die moet worden verbeterd,</p>
+      <p begin="166.0s" xml:id="p52" end="169.166s">dan kan Copilot je helpen<br />bij het herschrijven of optimaliseren ervan,</p>
+      <p begin="169.375s" xml:id="p53" end="172.166s">en ervoor zorgen dat je boodschap<br />duidelijk en effectief is.</p>
+      <p begin="172.583s" xml:id="p54" end="174.708s">Stel dat het je als auteur<br />aan inspiratie ontbreekt,</p>
+      <p begin="175.083s" xml:id="p55" end="178.083s">en je hebt hulp nodig<br />om een zin krachtiger te maken.</p>
+      <p begin="178.25s" xml:id="p56" end="179.583s">Ga dan naar Copilot en typ:</p>
+      <p begin="179.958s" xml:id="p57" end="183.125s">Verander de zin<br />&#039;Ons bedrijf verkoopt goede producten&#039;</p>
+      <p begin="183.291s" xml:id="p58" end="185.041s">naar een zin die meer impact heeft.</p>
+      <p begin="185.708s" xml:id="p59" end="188.583s">Copilot geeft je dan<br />een tekst met meer impact.</p>
+      <p begin="189.333s" xml:id="p60" end="193.583s">Copilot kan grote hoeveelheden<br />informatie beknopt samenvatten,</p>
+      <p begin="193.958s" xml:id="p61" end="197.833s">wat jou tijd bespaart en je helpt om snel<br />inzicht te krijgen in de belangrijkste punten</p>
+      <p begin="197.958s" xml:id="p62" end="200.083s">van documenten, e-mails en meer.</p>
+      <p begin="200.458s" xml:id="p63" end="202.458s">Wanneer je een onderzoeksrapport<br />voorgeschoteld krijgt,</p>
+      <p begin="202.583s" xml:id="p64" end="205.375s">kan Copilot een samenvatting maken<br />waarin de belangrijkste punten worden benadrukt,</p>
+      <p begin="205.625s" xml:id="p65" end="209.291s">Je geeft Copilot bijvoorbeeld<br />het betreffende onderzoeksrapport,</p>
+      <p begin="209.625s" xml:id="p66" end="212.5s">en vraagt Copilot dan om een<br />beknopte samenvatting te maken</p>
+      <p begin="212.5s" xml:id="p67" end="213.541s">waarbij de belangrijkste punten<br />worden benadrukt</p>
+      <p begin="213.541s" xml:id="p68" end="216.541s">met betrekking tot de gevolgen<br />van klimaatverandering op de landbouw</p>
+      <p begin="216.541s" xml:id="p69" end="218.708s">en de noodzaak<br />van duurzame praktijken.</p>
+      <p begin="219.333s" xml:id="p70" end="220.958s">Het vat de informatie samen,</p>
+      <p begin="221.041s" xml:id="p71" end="223.708s">zodat je de informatie die je zoekt<br />sneller kunt vinden.</p>
+      <p begin="224.458s" xml:id="p72" end="227.708s">Van eenvoudige feitelijke vragen tot<br />het oplossen van complexe problemen,</p>
+      <p begin="228.208s" xml:id="p73" end="230.625s">Copilot kan duidelijke en<br />nauwkeurige antwoorden geven,</p>
+      <p begin="231.0s" xml:id="p74" end="233.625s">zodat je in staat bent sneller<br />weloverwogen beslissingen te nemen.</p>
+      <p begin="234.25s" xml:id="p75" end="236.5s">Misschien heb je onlangs<br />een zonsverduistering gezien</p>
+      <p begin="236.75s" xml:id="p76" end="239.125s">en ben je nu nieuwsgierig<br />naar de snelheid van het licht.</p>
+      <p begin="239.125s" xml:id="p77" end="240.458s">Dat kun je aan Copilot vragen:</p>
+      <p begin="240.75s" xml:id="p78" end="243.625s">&quot;Hoelang duurt het voordat het licht<br />van de zon de aarde bereikt?&quot;</p>
+      <p begin="244.25s" xml:id="p79" end="246.5s">Copilot kan helpen<br />bij allerlei problemen</p>
+      <p begin="246.958s" xml:id="p80" end="248.75s">en oplossingen bieden die logisch zijn</p>
+      <p begin="249.0s" xml:id="p81" end="251.208s">en gebaseerd<br />op de meest actuele informatie.</p>
+      <p begin="251.875s" xml:id="p82" end="254.25s">Stel dat je onlangs<br />je eigen bedrijf bent begonnen</p>
+      <p begin="254.25s" xml:id="p83" end="257.125s">en je bent benieuwd hoe je<br />bezoekers naar je website trekt.</p>
+      <p begin="257.416s" xml:id="p84" end="258.708s">Je zou een instructie kunnen typen als:</p>
+      <p begin="259.041s" xml:id="p85" end="261.208s">&quot;Ik wil meer verkeer naar mijn website.</p>
+      <p begin="261.333s" xml:id="p86" end="263.958s">Kun je wat strategieën aandragen<br />om dit te bereiken?&quot;</p>
+      <p begin="268.291s" xml:id="p87" end="272.25s">Als je niet weet hoe je toegang krijgt<br />tot de statistieken van je website of deze moet duiden,</p>
+      <p begin="272.75s" xml:id="p88" end="274.791s">kan Copilot je ook hierbij helpen.</p>
+      <p begin="275.166s" xml:id="p89" end="278.541s">Je kunt bijvoorbeeld<br />de volgende vraag stellen:</p>
+      <p begin="279.0s" xml:id="p90" end="281.5s">&quot;Ik heb mijn website opgezet<br />met Power Pages.</p>
+      <p begin="281.5s" xml:id="p91" end="283.75s">Hoe krijg ik toegang<br />tot de statistieken van de website</p>
+      <p begin="284.125s" xml:id="p92" end="286.375s">en waar moet ik vooral op letten?&quot;</p>
+      <p begin="286.75s" xml:id="p93" end="289.583s">Copilot geeft je dan<br />stapsgewijze instructies</p>
+      <p begin="289.625s" xml:id="p94" end="291.333s">en de gegevens waarop je je moet richten.</p>
+      <p begin="292.083s" xml:id="p95" end="294.583s">Visuele inzichten en inspirerende ideeën.</p>
+      <p begin="295.083s" xml:id="p96" end="297.0s">Copilot is niet beperkt tot tekst.</p>
+      <p begin="297.125s" xml:id="p97" end="300.625s">Het kan ook afbeeldingen creëren<br />en analyseren, inzichten verschaffen</p>
+      <p begin="300.875s" xml:id="p98" end="303.708s">en visuele inhoud genereren<br />die past bij jouw doelstellingen.</p>
+      <p begin="304.625s" xml:id="p99" end="307.125s">Stel dat je wat inspiratie wilt</p>
+      <p begin="307.208s" xml:id="p100" end="309.583s">voor een nieuw kunstproject<br />over stadsgezichten.</p>
+      <p begin="310.291s" xml:id="p101" end="313.416s">Je wilt een modern gebouw schilderen<br />midden in een stadslandschap,</p>
+      <p begin="313.916s" xml:id="p102" end="316.916s">maar je wilt ook dat het aan het water ligt,<br />met bergen eromheen,</p>
+      <p begin="317.041s" xml:id="p103" end="318.541s">zoals Vancouver in Canada.&quot;</p>
+      <p begin="318.666s" xml:id="p104" end="320.125s">Voordat je begint met schilderen,</p>
+      <p begin="320.541s" xml:id="p105" end="323.291s">kun je Copilot vragen om je te helpen<br />bij het plannen van deze visie:</p>
+      <p begin="323.666s" xml:id="p106" end="325.916s">&quot;Geef richtlijnen<br />hoe je een stadsgezicht schildert</p>
+      <p begin="326.041s" xml:id="p107" end="329.916s">met een modernistisch gebouw dat<br />de architectuur van de 20e eeuw belichaamt.</p>
+      <p begin="330.25s" xml:id="p108" end="332.291s">Het gebouw<br />moet abstracte vormen hebben</p>
+      <p begin="332.416s" xml:id="p109" end="334.541s">en gebruikmaken van gewapend beton.</p>
+      <p begin="335.041s" xml:id="p110" end="338.375s">Het ontwerp moet eerder rondingen<br />hebben dan rechte lijnen,</p>
+      <p begin="338.791s" xml:id="p111" end="340.875s">waardoor het gebouw eruitziet<br />als een beeldhouwwerk.</p>
+      <p begin="341.916s" xml:id="p112" end="345.291s">Ik wil dat het stadslandschap<br />aan het water ligt, met bergen eromheen,</p>
+      <p begin="345.5s" xml:id="p113" end="346.875s">zoals Vancouver in Canada.&quot;</p>
+      <p begin="347.166s" xml:id="p114" end="349.166s">Copilot geeft dan enkele ideeën<br />in de vorm van tekst</p>
+      <p begin="349.25s" xml:id="p115" end="351.416s">om je te helpen het stadslandschap te schilderen.</p>
+      <p begin="352.041s" xml:id="p116" end="355.166s">Dit is weliswaar nuttig,<br />maar je wilt het ook visueel zien.</p>
+      <p begin="355.291s" xml:id="p117" end="356.958s">Dus vraag je aan Copilot:</p>
+      <p begin="356.958s" xml:id="p118" end="359.25s">&quot;Creëer een stadsgezicht<br />met een modernistisch gebouw</p>
+      <p begin="359.375s" xml:id="p119" end="361.583s">dat de 20e-eeuwse architectuur<br />belichaamt.</p>
+      <p begin="361.708s" xml:id="p120" end="363.625s">Het gebouw<br />moet abstracte vormen hebben</p>
+      <p begin="363.875s" xml:id="p121" end="366.125s">en gebruikmaken<br />van gewapend beton.</p>
+      <p begin="366.208s" xml:id="p122" end="369.375s">Het ontwerp moet eerder rondingen<br />hebben dan rechte lijnen,</p>
+      <p begin="369.833s" xml:id="p123" end="371.75s">waardoor het gebouw eruitziet<br />als een beeldhouwwerk.</p>
+      <p begin="371.958s" xml:id="p124" end="375.333s">Ik wil dat het stadslandschap<br />aan het water ligt, met bergen eromheen,</p>
+      <p begin="375.375s" xml:id="p125" end="376.75s">zoals Vancouver in Canada.&quot;</p>
+      <p begin="377.458s" xml:id="p126" end="380.125s">Copilot produceert dan<br />een aantal voorbeelden</p>
+      <p begin="380.25s" xml:id="p127" end="382.25s">om je te helpen in je creatieve proces.</p>
+      <p begin="383.333s" xml:id="p128" end="385.75s">Deze voorbeelden laten zien<br />hoe Microsoft Copilot</p>
+      <p begin="385.875s" xml:id="p129" end="387.875s">je in verschillende scenario&#039;s kan helpen,</p>
+      <p begin="387.958s" xml:id="p130" end="390.25s">en je op maat gemaakte en<br />creatieve oplossingen kan bieden</p>
+      <p begin="390.291s" xml:id="p131" end="393.791s">om je productiviteit te verhogen<br />en je creatieve proces op gang te brengen.</p>
+      <p begin="394.583s" xml:id="p132" end="396.125s">Of je nu een e-mail opstelt,</p>
+      <p begin="396.583s" xml:id="p133" end="399.125s">een ontwerp maakt,<br />of gegevens analyseert,</p>
+      <p begin="399.166s" xml:id="p134" end="402.166s">Microsoft Copilot is er<br />om je inspanningen te ondersteunen</p>
+      <p begin="402.291s" xml:id="p135" end="405.041s">en elke taak eenvoudiger<br />en efficiënter te maken.</p>
+      <p begin="405.5s" xml:id="p136" end="408.708s">Het is een AI-gestuurde metgezel<br />die zich aanpast aan jouw behoeften,</p>
+      <p begin="408.916s" xml:id="p137" end="411.583s">zodat jij slimmer<br />en sneller kunt werken.</p>
+    </div>
+  </body>
+</tt>

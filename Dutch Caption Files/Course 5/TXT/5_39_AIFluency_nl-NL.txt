@@ -1,0 +1,302 @@
+Microsoft Edge heeft een
+grote sprong voorwaarts gemaakt
+
+door Copilot direct
+in de browser te integreren.
+
+Deze AI-functie verbetert
+je ervaring bij het browsen,
+
+doordat je op nieuwe en dynamische
+manieren met websites kunt omgaan.
+
+Of je nu berichten
+wilt schrijven,
+
+webpagina's wilt samenvatten,
+
+of hulp wilt krijgen bij verschillende
+taken tijdens het browsen,
+
+Copilot in Edge is ontworpen om je
+handelingen op het web te stroomlijnen.
+
+Om aan de slag te gaan
+met Copilot in Edge,
+
+moet je eerst de
+Microsoft Edge-browser downloaden.
+
+Dat doe je als volgt:
+
+Bezoek de officiële
+Microsoft Edge-webpagina
+
+op microsoft.com/nl-nl/edge.
+
+Bovenaan de pagina
+zie je het woord 'Downloaden'.
+
+Klik erop en het brengt je
+naar de downloadpagina.
+
+Op deze pagina
+zie je verschillende versies.
+
+Kies de versie die compatibel is
+met je besturingssysteem.
+
+Klik op de knop 'Downloaden'
+en volg de instructies op het scherm
+
+om de browser te installeren.
+
+Zodra je Edge hebt geïnstalleerd,
+is de toegang tot Copilot eenvoudig:
+
+Stap 1: Open de Microsoft Edge-browser.
+
+Stap 2: Zoek het Copilot-pictogram,
+
+dat doorgaans in de rechterbovenhoek
+van het browservenster te vinden is.
+
+Stap 3: Klik op het Copilot-pictogram om
+de functie in je browser te openen.
+
+Copilot in Edge
+biedt diverse functies
+
+om je ervaring bij het browsen
+te verbeteren.
+
+Laten we er een paar bekijken.
+
+We zullen eerst de chatfunctie
+eens wat nader bekijken.
+
+Je kunt meekijken door naar
+de pagina voor digitale skills
+
+rondom Corporate Social
+Responsibility te gaan:
+
+https://www.microsoft.com/en-us/
+corporate-responsibility/digital-skills.
+
+Met de webpagina open,
+klik je rechtsboven
+
+op het Copilot-pictogram.
+
+Als je het pictogram niet ziet,
+
+controleer dan of je
+de nieuwste versie van Edge hebt
+
+en of je bent aangemeld
+op je Microsoft-account.
+
+Zodra Copilot in Edge open is,
+
+ga je naar het tekstveld onderaan.
+
+Vraag Copilot: "Geef een samenvatting
+van deze pagina."
+
+Copilot vat de inhoud
+onmiddellijk samen.
+
+Je kunt ook vervolgvragen stellen
+voor meer duidelijkheid.
+
+Vraag bijvoorbeeld:
+
+"Welke opleidingsbronnen
+biedt deze pagina?"
+
+en Copilot
+haalt deze informatie op.
+
+Stel dat je hulp nodig hebt om
+een e-mail naar je baas op te stellen
+
+over de weekenddienst die je net
+hebt gekregen en niet kunt draaien.
+
+Copilot kan hierbij helpen.
+
+Open eerst een nieuwe chat.
+
+Geef dan instructies en context
+voor de e-mail.
+
+Bijvoorbeeld: "Schrijf een e-mail
+naar mijn baas, Jamie,
+
+om haar te informeren dat ik de
+weekenddienst in de dierenwinkel
+
+niet kan draaien omdat ik al
+persoonlijke verplichtingen heb."
+
+Copilot maakt dan een
+concept-e-mail voor je,
+
+die je kunt bewerken,
+kopiëren en versturen.
+
+Je kunt Copilot ook gebruiken
+om je te helpen met schrijven,
+
+opsommingen samenstellen,
+LinkedIn-posts maken,
+
+informatie samenvatten
+of zelfs rapporten genereren.
+
+Laten we nu eens kijken
+naar een andere functie.
+
+Copilot kan pdf's samenvatten
+en vertalen in Edge.
+
+Laten we bijvoorbeeld eens kijken
+naar de AI Trainer Toolkit Guide:
+
+Je kunt meekijken door naar
+aka.ms/AITrainerToolkit te gaan.
+
+Met de pdf open, klik je linksboven
+op de knop 'Copilot vragen'.
+
+Als Copilot al open is,
+kun je deze stap overslaan.
+
+Zodra Copilot is geopend,
+kun je ermee communiceren
+
+door een vraag te stellen
+over de pdf,
+
+zoals “Geef een samenvatting
+van de pdf.”
+
+Copilot geeft dan een samenvatting
+en suggesties voor vervolgvragen,
+
+zoals “Hoe kan ik effectief
+AI-tools in lesgeven implementeren?”
+
+Als je op deze vraag klikt,
+
+word je doorgeleid om te begrijpen
+hoe belangrijk het is dat leraren
+
+de noodzakelijke vaardigheden bezitten
+om anderen effectief les te geven.
+
+Rechts van de knop 'Copilot vragen'
+vind je drie zwarte stippen.
+
+Als je daarop klikt,
+zie je een meerkeuzemenu
+
+met opties als ‘Vertalen’
+en ‘Voorlezen’.
+
+Je kunt nu direct pdf’s vertalen in Edge
+en ze zelfs voor je laten oplezen.
+
+Laten we dat eens proberen.
+
+Klik op ‘Voorlezen’
+
+en de pdf wordt
+automatisch voorgelezen.
+
+Aan de rechterkant is er
+een menu 'Spraakopties',
+
+waarmee je de leessnelheid kunt
+aanpassen en een stem kunt selecteren.
+
+Als je klikt op ‘Vertalen’,
+
+zijn er diverse talen
+om te kiezen.
+
+Laten we bijvoorbeeld Frans kiezen.
+
+Markeer de tekst in de pdf
+die je wilt laten vertalen,
+
+en deze wordt automatisch
+vertaald in het tekstveld.
+
+Je kunt ook rechtstreeks in Edge
+een schermafbeelding maken
+
+en deze delen met Copilot
+om de afbeelding te laten beschrijven.
+
+Je hebt ook gratis toegang tot
+AI-functies zoals GPT-4 en Dall-E 3.
+
+Klik nu op Windows+Shift +S
+om de Snipping Tools-app te openen.
+
+Sleep de cursor over het gedeelte van
+het scherm dat Copilot moet analyseren.
+
+Als je wilt dat Copilot
+alleen het gedeelte
+
+'Wat is inbegrepen
+in de Toolkit' analyseert,
+
+neem je een screenshot van die sectie.
+
+Ga dan naar Copilot en klik op
+CONTROL + V om dit te plakken.
+
+Zodra de schermafbeelding
+in Copilot verschijnt,
+
+kun je er een prompt voor typen.
+
+Bijvoorbeeld:
+
+"Analyseer de afbeelding
+en vertel me in twee zinnen
+
+wat er in de AI Trainer Toolkit
+is inbegrepen."
+
+Copilot geeft dan, zoals gevraagd,
+in twee zinnen een samenvatting
+
+van de schermafbeelding.
+
+Copilot biedt ook mogelijkheden voor
+tekst-naar-spraak en spraak-naar-tekst
+
+voor een meer toegankelijke ervaring.
+
+Met Copilot geïntegreerd
+in Microsoft Edge
+
+heb je een veelzijdige
+AI-metgezel binnen handbereik,
+
+die klaar staat om je te helpen
+met een breed scala aan taken,
+
+van het samenvatten van webinhoud
+tot het opstellen van berichten.
+
+De naadloze integratie
+in de Edge-browser
+
+garandeert een productieve
+online ervaring.

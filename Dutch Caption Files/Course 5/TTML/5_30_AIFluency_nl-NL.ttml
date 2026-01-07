@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.25s" xml:id="p0" end="7.75s">Microsoft Copilot is een meertalige<br />AI-metgezel ontworpen om taalbarrières</p>
+      <p begin="7.75s" xml:id="p1" end="12.291s">te doorbreken en toegang tot informatie<br />over de hele wereld gemakkelijker te maken.</p>
+      <p begin="12.875s" xml:id="p2" end="15.916s">Het ondersteunt momenteel<br />meerdere talen</p>
+      <p begin="16.125s" xml:id="p3" end="21.291s">waaronder Vereenvoudigd Chinees,<br />Engels, Frans, Duits, Italiaans,</p>
+      <p begin="21.5s" xml:id="p4" end="24.25s">Japans, Braziliaans<br />Portugees en Spaans.</p>
+      <p begin="25.083s" xml:id="p5" end="28.083s">Als je een foutmelding tegenkomt<br />die aangeeft dat een taal</p>
+      <p begin="28.208s" xml:id="p6" end="32.083s">niet wordt ondersteund door Copilot,<br />kan dit als een verrassing komen,</p>
+      <p begin="32.083s" xml:id="p7" end="35.583s">vooral als Bing wel gewoon<br />beschikbaar is in jouw taal.</p>
+      <p begin="36.041s" xml:id="p8" end="38.666s">Dit kan gebeuren<br />omdat de taalondersteuning voor Copilot</p>
+      <p begin="38.875s" xml:id="p9" end="42.458s">nog niet zo ver gaat<br />als de taalondersteuning van Bing.</p>
+      <p begin="44.625s" xml:id="p10" end="47.625s">Om de taalinstellingen aan te passen<br />in Microsoft Copilot,</p>
+      <p begin="47.708s" xml:id="p11" end="49.916s">klik je op het pictogram<br />in de rechterbovenhoek.</p>
+      <p begin="52.75s" xml:id="p12" end="55.541s">In het menu met instellingen<br />ga je naar &#039;Taal&#039;</p>
+      <p begin="55.75s" xml:id="p13" end="58.0s">om je voorkeurstaal<br />voor Bing in te stellen.</p>
+      <p begin="58.166s" xml:id="p14" end="61.291s">Hier kun je ook de taal instellen<br />die Copilot moet gebruiken</p>
+      <p begin="61.375s" xml:id="p15" end="63.25s">voor zoekresultaten en antwoorden.</p>
+      <p begin="63.75s" xml:id="p16" end="67.375s">Het is belangrijk op te merken<br />dat Copilot momenteel alleen</p>
+      <p begin="67.5s" xml:id="p17" end="69.958s">prompts in de eerder<br />genoemde talen accepteert.</p>
+      <p begin="70.041s" xml:id="p18" end="72.875s">Als je een prompt verzendt<br />in een taal die niet wordt ondersteund,</p>
+      <p begin="73.041s" xml:id="p19" end="75.75s">brengt Copilot je hiervan op de hoogte<br />door middel van een foutmelding.</p>
+      <p begin="77.5s" xml:id="p20" end="78.791s">Naast talen, is</p>
+      <p begin="79.0s" xml:id="p21" end="81.875s">Copilot ook gebouwd met<br />het oog op toegankelijkheid.</p>
+      <p begin="82.291s" xml:id="p22" end="84.291s">Copilot-spraak is een functie<br />die je gesprekken</p>
+      <p begin="84.416s" xml:id="p23" end="87.125s">gemakkelijker<br />en efficiënter maakt.</p>
+      <p begin="87.583s" xml:id="p24" end="91.125s">Het is perfect voor die momenten<br />wanneer typen niet de beste optie is,</p>
+      <p begin="91.25s" xml:id="p25" end="94.458s">of voor gebruikers die spreken<br />gemakkelijker vinden dan schrijven.</p>
+      <p begin="95.0s" xml:id="p26" end="97.75s">Laten we eens kijken hoe<br />je toegang krijgt tot Copilot-spraak.</p>
+      <p begin="98.5s" xml:id="p27" end="101.0s">Open eerst Copilot op je apparaat.</p>
+      <p begin="101.416s" xml:id="p28" end="104.958s">Klik vervolgens op het pictogram van<br />een microfoon en praat in je apparaat.</p>
+      <p begin="105.916s" xml:id="p29" end="109.666s">Copilot luistert dan en antwoordt,<br />allemaal in realtime.</p>
+      <p begin="110.833s" xml:id="p30" end="113.041s">Visueel zoeken is<br />een andere functie waarmee je</p>
+      <p begin="113.208s" xml:id="p31" end="116.583s">de wereld om je heen<br />kunt ontdekken en leren begrijpen.</p>
+      <p begin="117.166s" xml:id="p32" end="120.291s">Of je nu nieuwsgierig bent naar<br />een mysterieuze plant in je tuin</p>
+      <p begin="120.416s" xml:id="p33" end="123.166s">of de soort vogel<br />die voor je raam zit,</p>
+      <p begin="123.541s" xml:id="p34" end="125.291s">visueel zoeken is er om je te helpen.</p>
+      <p begin="126.083s" xml:id="p35" end="129.083s">Met een eenvoudige afbeelding,<br />wordt Copilot je gids,</p>
+      <p begin="129.291s" xml:id="p36" end="131.333s">die beelden omzet in kennis.</p>
+      <p begin="132.25s" xml:id="p37" end="133.25s">Dit werkt als volgt.</p>
+      <p begin="133.75s" xml:id="p38" end="137.375s">Tik met Copilot open op je apparaat,<br />op het camerapictogram</p>
+      <p begin="137.5s" xml:id="p39" end="140.083s">en upload een afbeelding<br />of maak een nieuwe foto.</p>
+      <p begin="140.541s" xml:id="p40" end="143.333s">Begin dan een gesprek<br />over je afbeelding.</p>
+      <p begin="144.5s" xml:id="p41" end="147.083s">Als je klaar bent,<br />klik je op het pictogram voor verzenden.</p>
+      <p begin="147.625s" xml:id="p42" end="150.625s">Copilot analyseert dan de afbeelding<br />en biedt inzichten</p>
+      <p begin="150.75s" xml:id="p43" end="152.25s">gebaseerd op je vraag.</p>
+      <p begin="152.583s" xml:id="p44" end="155.0s">Deze functies zorgen ervoor dat<br />de weg wordt vrijgemaakt naar een toekomst</p>
+      <p begin="155.208s" xml:id="p45" end="156.958s">waarin kennis geen grenzen kent,</p>
+      <p begin="157.125s" xml:id="p46" end="159.666s">en leren binnen ieders<br />bereik ligt.</p>
+    </div>
+  </body>
+</tt>

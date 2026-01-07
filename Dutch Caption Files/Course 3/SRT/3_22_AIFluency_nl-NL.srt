@@ -1,0 +1,275 @@
+﻿1
+00:00:03,166 --> 00:00:05,166
+Je vaardigheden in het schrijven
+van prompts verbeteren,
+
+2
+00:00:05,375 --> 00:00:07,875
+kan je effectiviteit met
+Microsoft Copilot verhogen.
+
+3
+00:00:08,625 --> 00:00:10,916
+Het begint allemaal
+met een duidelijk doel.
+
+4
+00:00:12,000 --> 00:00:14,541
+Dan gevolgd door het geven van
+de noodzakelijke context,
+
+5
+00:00:14,875 --> 00:00:17,541
+het uiten van verwachtingen
+voor het gewenste resultaat
+
+6
+00:00:17,750 --> 00:00:19,625
+en het volgen van best practices.
+
+7
+00:00:21,166 --> 00:00:22,500
+Je vraagt je misschien af,
+
+8
+00:00:22,541 --> 00:00:25,166
+wat zijn dan die best practices
+voor het schrijven van een prompt?
+
+9
+00:00:25,666 --> 00:00:27,291
+Ten eerste, wees specifiek.
+
+10
+00:00:27,750 --> 00:00:29,041
+Hoe meer details je geeft,
+
+11
+00:00:29,166 --> 00:00:32,291
+hoe beter Copilot zijn resultaat
+kan afstemmen op jouw behoeften.
+
+12
+00:00:33,541 --> 00:00:36,791
+Als je bijvoorbeeld vraagt om
+een afbeelding van een draak,
+
+13
+00:00:37,041 --> 00:00:39,166
+typ dan niet alleen 'Maak een draak'
+
+14
+00:00:39,291 --> 00:00:42,875
+maar beschrijf de kleur, hoe groot deze is
+en de omgeving waarin die leeft.
+
+15
+00:00:43,916 --> 00:00:46,291
+Zit deze boven op een berg
+bij zonsondergang?
+
+16
+00:00:47,041 --> 00:00:50,666
+Elk detail draagt bij aan de nauwkeurigheid
+en de levendigheid van het resultaat.
+
+17
+00:00:51,541 --> 00:00:53,041
+Geef prioriteit aan nauwkeurigheid.
+
+18
+00:00:53,291 --> 00:00:54,791
+Wanneer precisie belangrijk is,
+
+19
+00:00:54,916 --> 00:00:58,541
+zorg er dan voor dat je Copilot
+duidelijke en beknopte aanwijzingen geeft.
+
+20
+00:01:00,125 --> 00:01:02,875
+Of het nu gaat om het samenvatten van
+een bepaald artikel of het uitleggen van
+
+21
+00:01:03,000 --> 00:01:07,250
+een ingewikkeld concept, de juiste prompt
+zorgt voor een nauwkeurig antwoord.
+
+22
+00:01:08,708 --> 00:01:10,250
+Pas je ervaring aan.
+
+23
+00:01:10,708 --> 00:01:15,083
+Copilot is veelzijdig en geschikt
+voor zowel beginners als experts.
+
+24
+00:01:16,208 --> 00:01:19,000
+Stel je vragen zo op
+dat ze aansluiten bij je begripsniveau,
+
+25
+00:01:19,208 --> 00:01:22,833
+van eenvoudige uitleg tot
+meer ingewikkelde onderwerpen.
+
+26
+00:01:23,958 --> 00:01:25,208
+Van onderwerp veranderen.
+
+27
+00:01:25,375 --> 00:01:29,833
+Als je het onderwerp verandert, selecteer
+dan gewoon 'Nieuw onderwerp' in Copilot.
+
+28
+00:01:30,750 --> 00:01:33,125
+Met deze functie begint
+Copilot helemaal opnieuw,
+
+29
+00:01:33,333 --> 00:01:36,708
+wat je gesprekken ter zake
+en vrij van verwarring houdt.
+
+30
+00:01:37,875 --> 00:01:39,000
+Controleer de lengte.
+
+31
+00:01:39,625 --> 00:01:42,958
+Jij hebt de mogelijkheid om
+de lengte van de antwoorden in te stellen.
+
+32
+00:01:43,958 --> 00:01:48,333
+Als je meer informatie nodig hebt,
+vraag Copilot daar dan om.
+
+33
+00:01:49,333 --> 00:01:50,875
+Omarm afwisseling.
+
+34
+00:01:51,375 --> 00:01:53,625
+Copilot is niet beperkt tot tekst.
+
+35
+00:01:54,500 --> 00:01:58,750
+Het kan informatie presenteren in tabellen,
+overzichten en zelfs diagrammen,
+
+36
+00:01:58,875 --> 00:02:01,375
+waardoor je ervaring wordt verrijkt
+met een visuele dimensie
+
+37
+00:02:01,500 --> 00:02:03,250
+die verder gaat dan alleen woorden.
+
+38
+00:02:04,583 --> 00:02:05,958
+Laten we eens kijken hoe dit werkt.
+
+39
+00:02:06,583 --> 00:02:08,375
+Stel dat je een e-mail
+wilt sturen
+
+40
+00:02:08,583 --> 00:02:10,833
+naar je team
+over een update van een project.
+
+41
+00:02:11,750 --> 00:02:13,875
+Je komt tijd te kort
+en kunt best
+
+42
+00:02:14,083 --> 00:02:16,625
+wat hulp gebruiken
+bij het opstellen ervan.
+
+43
+00:02:17,250 --> 00:02:20,500
+Dus open je Microsoft Copilot
+om je hierbij te helpen.
+
+44
+00:02:21,333 --> 00:02:23,708
+Vervolgens maak je een
+duidelijke, specifieke prompt.
+
+45
+00:02:24,583 --> 00:02:28,708
+"Schrijf een beknopte, professionele
+en waarderende e-mail naar mijn team.
+
+46
+00:02:28,875 --> 00:02:32,000
+De e-mail moet de voltooiing vieren
+van de ontwerpfase,
+
+47
+00:02:32,250 --> 00:02:34,333
+de overgang aankondigen
+naar de ontwikkelingsfase
+
+48
+00:02:34,500 --> 00:02:38,250
+van ons mobiele app-project en mensen
+aanmoedigen hard te blijven werken.
+
+49
+00:02:38,250 --> 00:02:39,916
+Houd het ter zake."
+
+50
+00:02:39,958 --> 00:02:41,208
+In slechts enkele seconden,
+
+51
+00:02:41,333 --> 00:02:44,333
+kun je een concept-e-mail hebben
+om naar je team te sturen.
+
+52
+00:02:44,416 --> 00:02:47,041
+Tijdens een drukke dag
+bespaart dit je niet alleen tijd,
+
+53
+00:02:47,208 --> 00:02:50,583
+maar stelt je ook in staat om je aandacht
+op andere dingen te richten.
+
+54
+00:02:52,083 --> 00:02:55,833
+Onthoud dat een effectieve prompt
+geworteld is in de duidelijkheid,
+
+55
+00:02:56,041 --> 00:02:57,083
+specificiteit en de doordachte opbouw
+
+56
+00:02:57,208 --> 00:03:00,083
+van je vragen.
+
+57
+00:03:00,958 --> 00:03:02,333
+Met deze best practices
+
+58
+00:03:02,541 --> 00:03:05,583
+benut je het volledige potentieel
+van Microsoft Copilot,
+
+59
+00:03:05,833 --> 00:03:09,125
+wat elke interactie
+productiever en prettiger maakt.

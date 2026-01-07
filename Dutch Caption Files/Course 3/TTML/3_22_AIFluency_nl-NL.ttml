@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.166s" xml:id="p0" end="5.166s">Je vaardigheden in het schrijven<br />van prompts verbeteren,</p>
+      <p begin="5.375s" xml:id="p1" end="7.875s">kan je effectiviteit met<br />Microsoft Copilot verhogen.</p>
+      <p begin="8.625s" xml:id="p2" end="10.916s">Het begint allemaal<br />met een duidelijk doel.</p>
+      <p begin="12.0s" xml:id="p3" end="14.541s">Dan gevolgd door het geven van<br />de noodzakelijke context,</p>
+      <p begin="14.875s" xml:id="p4" end="17.541s">het uiten van verwachtingen<br />voor het gewenste resultaat</p>
+      <p begin="17.75s" xml:id="p5" end="19.625s">en het volgen van best practices.</p>
+      <p begin="21.166s" xml:id="p6" end="22.5s">Je vraagt je misschien af,</p>
+      <p begin="22.541s" xml:id="p7" end="25.166s">wat zijn dan die best practices<br />voor het schrijven van een prompt?</p>
+      <p begin="25.666s" xml:id="p8" end="27.291s">Ten eerste, wees specifiek.</p>
+      <p begin="27.75s" xml:id="p9" end="29.041s">Hoe meer details je geeft,</p>
+      <p begin="29.166s" xml:id="p10" end="32.291s">hoe beter Copilot zijn resultaat<br />kan afstemmen op jouw behoeften.</p>
+      <p begin="33.541s" xml:id="p11" end="36.791s">Als je bijvoorbeeld vraagt om<br />een afbeelding van een draak,</p>
+      <p begin="37.041s" xml:id="p12" end="39.166s">typ dan niet alleen &#039;Maak een draak&#039;</p>
+      <p begin="39.291s" xml:id="p13" end="42.875s">maar beschrijf de kleur, hoe groot deze is<br />en de omgeving waarin die leeft.</p>
+      <p begin="43.916s" xml:id="p14" end="46.291s">Zit deze boven op een berg<br />bij zonsondergang?</p>
+      <p begin="47.041s" xml:id="p15" end="50.666s">Elk detail draagt bij aan de nauwkeurigheid<br />en de levendigheid van het resultaat.</p>
+      <p begin="51.541s" xml:id="p16" end="53.041s">Geef prioriteit aan nauwkeurigheid.</p>
+      <p begin="53.291s" xml:id="p17" end="54.791s">Wanneer precisie belangrijk is,</p>
+      <p begin="54.916s" xml:id="p18" end="58.541s">zorg er dan voor dat je Copilot<br />duidelijke en beknopte aanwijzingen geeft.</p>
+      <p begin="60.125s" xml:id="p19" end="62.875s">Of het nu gaat om het samenvatten van<br />een bepaald artikel of het uitleggen van</p>
+      <p begin="63.0s" xml:id="p20" end="67.25s">een ingewikkeld concept, de juiste prompt<br />zorgt voor een nauwkeurig antwoord.</p>
+      <p begin="68.708s" xml:id="p21" end="70.25s">Pas je ervaring aan.</p>
+      <p begin="70.708s" xml:id="p22" end="75.083s">Copilot is veelzijdig en geschikt<br />voor zowel beginners als experts.</p>
+      <p begin="76.208s" xml:id="p23" end="79.0s">Stel je vragen zo op<br />dat ze aansluiten bij je begripsniveau,</p>
+      <p begin="79.208s" xml:id="p24" end="82.833s">van eenvoudige uitleg tot<br />meer ingewikkelde onderwerpen.</p>
+      <p begin="83.958s" xml:id="p25" end="85.208s">Van onderwerp veranderen.</p>
+      <p begin="85.375s" xml:id="p26" end="89.833s">Als je het onderwerp verandert, selecteer<br />dan gewoon &#039;Nieuw onderwerp&#039; in Copilot.</p>
+      <p begin="90.75s" xml:id="p27" end="93.125s">Met deze functie begint<br />Copilot helemaal opnieuw,</p>
+      <p begin="93.333s" xml:id="p28" end="96.708s">wat je gesprekken ter zake<br />en vrij van verwarring houdt.</p>
+      <p begin="97.875s" xml:id="p29" end="99.0s">Controleer de lengte.</p>
+      <p begin="99.625s" xml:id="p30" end="102.958s">Jij hebt de mogelijkheid om<br />de lengte van de antwoorden in te stellen.</p>
+      <p begin="103.958s" xml:id="p31" end="108.333s">Als je meer informatie nodig hebt,<br />vraag Copilot daar dan om.</p>
+      <p begin="109.333s" xml:id="p32" end="110.875s">Omarm afwisseling.</p>
+      <p begin="111.375s" xml:id="p33" end="113.625s">Copilot is niet beperkt tot tekst.</p>
+      <p begin="114.5s" xml:id="p34" end="118.75s">Het kan informatie presenteren in tabellen,<br />overzichten en zelfs diagrammen,</p>
+      <p begin="118.875s" xml:id="p35" end="121.375s">waardoor je ervaring wordt verrijkt<br />met een visuele dimensie</p>
+      <p begin="121.5s" xml:id="p36" end="123.25s">die verder gaat dan alleen woorden.</p>
+      <p begin="124.583s" xml:id="p37" end="125.958s">Laten we eens kijken hoe dit werkt.</p>
+      <p begin="126.583s" xml:id="p38" end="128.375s">Stel dat je een e-mail<br />wilt sturen</p>
+      <p begin="128.583s" xml:id="p39" end="130.833s">naar je team<br />over een update van een project.</p>
+      <p begin="131.75s" xml:id="p40" end="133.875s">Je komt tijd te kort<br />en kunt best</p>
+      <p begin="134.083s" xml:id="p41" end="136.625s">wat hulp gebruiken<br />bij het opstellen ervan.</p>
+      <p begin="137.25s" xml:id="p42" end="140.5s">Dus open je Microsoft Copilot<br />om je hierbij te helpen.</p>
+      <p begin="141.333s" xml:id="p43" end="143.708s">Vervolgens maak je een<br />duidelijke, specifieke prompt.</p>
+      <p begin="144.583s" xml:id="p44" end="148.708s">&quot;Schrijf een beknopte, professionele<br />en waarderende e-mail naar mijn team.</p>
+      <p begin="148.875s" xml:id="p45" end="152.0s">De e-mail moet de voltooiing vieren<br />van de ontwerpfase,</p>
+      <p begin="152.25s" xml:id="p46" end="154.333s">de overgang aankondigen<br />naar de ontwikkelingsfase</p>
+      <p begin="154.5s" xml:id="p47" end="158.25s">van ons mobiele app-project en mensen<br />aanmoedigen hard te blijven werken.</p>
+      <p begin="158.25s" xml:id="p48" end="159.916s">Houd het ter zake.&quot;</p>
+      <p begin="159.958s" xml:id="p49" end="161.208s">In slechts enkele seconden,</p>
+      <p begin="161.333s" xml:id="p50" end="164.333s">kun je een concept-e-mail hebben<br />om naar je team te sturen.</p>
+      <p begin="164.416s" xml:id="p51" end="167.041s">Tijdens een drukke dag<br />bespaart dit je niet alleen tijd,</p>
+      <p begin="167.208s" xml:id="p52" end="170.583s">maar stelt je ook in staat om je aandacht<br />op andere dingen te richten.</p>
+      <p begin="172.083s" xml:id="p53" end="175.833s">Onthoud dat een effectieve prompt<br />geworteld is in de duidelijkheid,</p>
+      <p begin="176.041s" xml:id="p54" end="177.083s">specificiteit en de doordachte opbouw</p>
+      <p begin="177.208s" xml:id="p55" end="180.083s">van je vragen.</p>
+      <p begin="180.958s" xml:id="p56" end="182.333s">Met deze best practices</p>
+      <p begin="182.541s" xml:id="p57" end="185.583s">benut je het volledige potentieel<br />van Microsoft Copilot,</p>
+      <p begin="185.833s" xml:id="p58" end="189.125s">wat elke interactie<br />productiever en prettiger maakt.</p>
+    </div>
+  </body>
+</tt>

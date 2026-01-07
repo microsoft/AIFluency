@@ -1,0 +1,266 @@
+﻿1
+00:00:03,166 --> 00:00:06,625
+Vóór het internet, als iemand een vraag had,
+konden ze zich niet gewoon
+
+2
+00:00:06,791 --> 00:00:09,541
+tot hun mobiele telefoon of computer
+wenden voor een antwoord.
+
+3
+00:00:10,875 --> 00:00:13,666
+In plaats daarvan moesten ze
+echte boeken doorzoeken
+
+4
+00:00:13,875 --> 00:00:15,916
+om betrouwbare informatie te vinden.
+
+5
+00:00:16,041 --> 00:00:17,541
+Deze taak kon uren duren,
+
+6
+00:00:18,166 --> 00:00:20,541
+afhankelijk van hoe dichtbij
+de plaatselijke bibliotheek was
+
+7
+00:00:20,875 --> 00:00:23,250
+en of men thuis
+toegang had tot boeken.
+
+8
+00:00:23,791 --> 00:00:26,791
+Tegenwoordig hebben we binnen
+enkele seconden toegang tot informatie.
+
+9
+00:00:27,000 --> 00:00:29,500
+En dat is allemaal te danken
+aan de evolutie van zoeken.
+
+10
+00:00:30,916 --> 00:00:33,000
+Laten we eens teruggaan naar de jaren 70.
+
+11
+00:00:33,166 --> 00:00:35,791
+Microsoft begon met de visie
+om een computer te plaatsen
+
+12
+00:00:35,916 --> 00:00:37,916
+op elk bureau
+en in elk huis.
+
+13
+00:00:38,500 --> 00:00:40,416
+Dit was het begin
+van de 'personal computer',
+
+14
+00:00:40,750 --> 00:00:43,250
+die de weg baande
+voor de toekomst van zoeken.
+
+15
+00:00:43,416 --> 00:00:47,375
+Twee decennia later,
+ontstond het Microsoft-netwerk MSN,
+
+16
+00:00:47,625 --> 00:00:49,791
+wat een nieuw digitaal tijdperk inluidde.
+
+17
+00:00:50,041 --> 00:00:53,291
+In 1996 vond er toen
+een belangrijke doorbraak plaats
+
+18
+00:00:53,416 --> 00:00:56,041
+met de lancering van Windows NT 4.0,
+
+19
+00:00:56,375 --> 00:00:58,416
+en daarmee de introductie van
+de indexing-service.
+
+20
+00:00:59,500 --> 00:01:03,666
+Deze innovatie maakt de indexering van
+zoeken in webinhoud en tekst mogelijk
+
+21
+00:01:03,791 --> 00:01:07,875
+via Internet Information
+Services, of IIS-servers.
+
+22
+00:01:08,791 --> 00:01:13,041
+IIS-servers zijn flexibele, veilige
+en beheerbare webservers
+
+23
+00:01:13,416 --> 00:01:15,750
+voor het hosten
+van allerlei webinhoud.
+
+24
+00:01:16,041 --> 00:01:19,625
+Dit betekende een grote stap in de richting
+van een efficiëntere zoekervaring.
+
+25
+00:01:19,833 --> 00:01:21,208
+Begin jaren 2000 begon
+
+26
+00:01:21,541 --> 00:01:24,541
+MSN Search zijn eigen
+zoekalgoritmen te gebruiken,
+
+27
+00:01:24,625 --> 00:01:28,625
+en in 2004 begon het zijn eigen
+zoekresultaten weer te geven.
+
+28
+00:01:30,208 --> 00:01:33,208
+Het tempo van de vooruitgang versnelde
+en in 2009 onthulde Microsoft
+
+29
+00:01:33,458 --> 00:01:35,833
+de zoekmachine Bing.
+
+30
+00:01:36,125 --> 00:01:39,125
+Deze was ontworpen om gebruikers
+niet alleen online informatie
+
+31
+00:01:39,458 --> 00:01:42,000
+te laten vinden
+maar ook te laten begrijpen.
+
+32
+00:01:42,583 --> 00:01:44,583
+Zoeken op Bing
+is eenvoudig.
+
+33
+00:01:44,750 --> 00:01:47,458
+Je typt gewoon een zoekopdracht
+en Bing doorzoekt het web
+
+34
+00:01:47,500 --> 00:01:50,750
+voor overeenkomende resultaten
+en presenteert ze in een oogwenk.
+
+35
+00:01:51,875 --> 00:01:56,750
+Open bijvoorbeeld Microsoft Edge,
+navigeer naar bing.com en vraag:
+
+36
+00:01:57,083 --> 00:01:59,125
+"Hoe is vandaag het weer
+in New York City?"
+
+37
+00:02:00,125 --> 00:02:01,958
+Bing haalt prompt het antwoord op.
+
+38
+00:02:02,708 --> 00:02:05,708
+Je bent hierbij getuige van
+het nieuwe zoeken. 
+
+39
+00:02:05,833 --> 00:02:08,375
+Heb je het nieuwe pictogram
+naast je zoekopdracht opgemerkt?
+
+40
+00:02:09,750 --> 00:02:11,541
+Dat is het pictogram voor Copilot.
+
+41
+00:02:12,708 --> 00:02:17,458
+Een eenvoudige klik hierop brengt
+je naar de Microsoft Copilot-interface.
+
+42
+00:02:18,208 --> 00:02:20,958
+Hier worden je vragen
+behandeld in tekstformaat,
+
+43
+00:02:21,125 --> 00:02:24,833
+vaak vergezeld van links voor
+verdere ontdekking en referentie.
+
+44
+00:02:25,458 --> 00:02:28,083
+Microsoft Copilot is
+meer dan een zoekmachine,
+
+45
+00:02:28,291 --> 00:02:29,583
+het is een redeneermachine.
+
+46
+00:02:30,458 --> 00:02:32,958
+Het biedt zoekresultaten,
+uitgebreide antwoorden
+
+47
+00:02:33,083 --> 00:02:35,083
+en een innovatieve chatervaring,
+
+48
+00:02:35,333 --> 00:02:38,708
+allemaal ontworpen om sneller
+de antwoorden te geven die je nodig hebt.
+
+49
+00:02:39,750 --> 00:02:44,291
+Van encyclopedieën tot een generatieve
+AI-gestuurde ervaring zoals Copilot,
+
+50
+00:02:44,500 --> 00:02:46,125
+de reis van het zoeken
+
+51
+00:02:46,250 --> 00:02:48,666
+getuigt van menselijke innovatie
+en onze zoektocht naar kennis.
+
+52
+00:02:49,166 --> 00:02:51,750
+En als je je afvraagt
+hoe dit verschilt van het verleden,
+
+53
+00:02:52,250 --> 00:02:55,791
+overweeg dan eens het onderscheid tussen
+een zoekmachine en een redeneermachine.
+
+54
+00:02:56,291 --> 00:02:58,000
+De eerste vindt informatie
+
+55
+00:02:58,250 --> 00:03:01,250
+en de laatste begrijpt
+en interpreteert informatie,
+
+56
+00:03:01,666 --> 00:03:05,666
+en maakt zo de weg vrij voor een meer 
+intelligente en interactieve toekomst van zoeken.

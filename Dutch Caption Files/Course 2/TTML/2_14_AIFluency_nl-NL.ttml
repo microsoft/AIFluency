@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="4.916s" xml:id="p0" end="8.375s">Laten we eerlijk zijn, we hebben niet allemaal<br />de vaardigheid voor beeldende kunst,</p>
+      <p begin="8.541s" xml:id="p1" end="10.291s">maar dat zou onze creativiteit<br />niet moeten beperken.</p>
+      <p begin="10.916s" xml:id="p2" end="14.166s">Stel je bijvoorbeeld voor dat je<br />een voedselinzameling organiseert</p>
+      <p begin="14.291s" xml:id="p3" end="16.791s">en je hebt toestemming gekregen<br />om posters op te hangen</p>
+      <p begin="16.916s" xml:id="p4" end="19.708s">in plaatselijke supermarkten<br />en gemeenschapscentra.</p>
+      <p begin="20.125s" xml:id="p5" end="21.625s">Je wilt een poster maken</p>
+      <p begin="21.833s" xml:id="p6" end="24.625s">die het doel van de voedselinzameling<br />effectief communiceert,</p>
+      <p begin="25.083s" xml:id="p7" end="28.083s">maar je hebt er moeite mee<br />illustraties voor je poster te maken.</p>
+      <p begin="29.0s" xml:id="p8" end="31.5s">Hier kan een<br />tekst-naar-beeld-generator</p>
+      <p begin="31.625s" xml:id="p9" end="32.708s">helpen de kloof te overbruggen.</p>
+      <p begin="33.5s" xml:id="p10" end="35.25s">Deze generatoren maken gebruik<br />van geavanceerde algoritmen</p>
+      <p begin="35.25s" xml:id="p11" end="38.083s">om je tekstbeschrijving te interpreteren<br />en er een afbeelding van te maken.</p>
+      <p begin="38.333s" xml:id="p12" end="41.291s">DALL-E,<br />een AI-model ontwikkeld door OpenAI,</p>
+      <p begin="41.458s" xml:id="p13" end="43.208s">is een voorbeeld van deze technologie.</p>
+      <p begin="43.791s" xml:id="p14" end="47.083s">Het kan gedetailleerde afbeeldingen<br />genereren van eenvoudige beschrijvingen,</p>
+      <p begin="47.333s" xml:id="p15" end="50.708s">waarbij woorden effectief worden omgezet<br />in visuele voorstellingen.</p>
+      <p begin="51.041s" xml:id="p16" end="54.791s">Dit AI-model is ook geïntegreerd<br />in Microsoft Designer,</p>
+      <p begin="54.958s" xml:id="p17" end="58.083s">een functie binnen Image Creator<br />in Microsoft Copilot.</p>
+      <p begin="58.958s" xml:id="p18" end="62.791s">Door een beschrijving in te voeren,<br />maakt Microsoft Designer gebruik van DALL-E</p>
+      <p begin="62.958s" xml:id="p19" end="66.416s">om je conceptuele ideeën<br />om te zetten in een virtuele werkelijkheid.</p>
+      <p begin="66.916s" xml:id="p20" end="67.958s">Laten we eens kijken hoe dit wordt gedaan.</p>
+      <p begin="69.875s" xml:id="p21" end="72.916s">Stel dat je een afbeelding wilt maken<br />om te gebruiken op je poster</p>
+      <p begin="73.041s" xml:id="p22" end="74.166s">voor de voedselinzameling.</p>
+      <p begin="74.666s" xml:id="p23" end="76.291s">Je zou een beschrijving kunnen invoeren als:</p>
+      <p begin="76.75s" xml:id="p24" end="79.541s">&quot;Maak een striptekening<br />van een diverse groep mensen</p>
+      <p begin="79.75s" xml:id="p25" end="81.291s">die voedsel doneren aan een gemeenschap.&quot;</p>
+      <p begin="81.5s" xml:id="p26" end="82.75s">Het is belangrijk om te onthouden</p>
+      <p begin="82.958s" xml:id="p27" end="86.25s">dat je Microsoft Copilot precies moet vertellen<br />wat je wilt dat het maakt.</p>
+      <p begin="86.875s" xml:id="p28" end="90.083s">Begin altijd met een zinsdeel<br />als: &quot;Maak een afbeelding van ...&quot;.</p>
+      <p begin="90.375s" xml:id="p29" end="93.125s">Anders weet het misschien niet<br />of je een afbeelding wilt</p>
+      <p begin="93.333s" xml:id="p30" end="94.958s">of een antwoord als tekst.</p>
+      <p begin="95.791s" xml:id="p31" end="98.916s">Na het invoeren van je beschrijving,<br />klik je op de knop &#039;Genereren&#039;.</p>
+      <p begin="99.375s" xml:id="p32" end="102.0s">Microsoft Copilot<br />gaat dan je invoer verwerken</p>
+      <p begin="102.166s" xml:id="p33" end="103.666s">en na een korte tijd</p>
+      <p begin="103.791s" xml:id="p34" end="106.625s">zie je een visuele weergave<br />van je beschrijving.</p>
+      <p begin="107.541s" xml:id="p35" end="110.375s">Deze afbeelding kan dienen<br />als inspiratiebron</p>
+      <p begin="110.541s" xml:id="p36" end="112.375s">of als uitgangspunt<br />voor verdere ontwerpen.</p>
+      <p begin="113.041s" xml:id="p37" end="116.0s">Onthoud dat hoe gedetailleerder<br />en duidelijker je omschrijving,</p>
+      <p begin="116.25s" xml:id="p38" end="118.541s">hoe nauwkeuriger<br />de gegenereerde afbeelding zal zijn.</p>
+      <p begin="119.041s" xml:id="p39" end="123.25s">Aarzel dus niet om meer details toe te voegen<br />over de afbeelding die je wilt maken.</p>
+      <p begin="124.75s" xml:id="p40" end="127.25s">Stel dat de afbeelding<br />niet helemaal is wat je wilt.</p>
+      <p begin="128.5s" xml:id="p41" end="130.5s">Je wilt een afbeelding<br />met een bepaalde achtergrond.</p>
+      <p begin="131.791s" xml:id="p42" end="134.666s">Je kunt Microsoft Copilot vragen<br />om je afbeelding te bewerken.</p>
+      <p begin="135.0s" xml:id="p43" end="137.166s">Laten we dat eens proberen.<br />&quot;Voeg de achtergrond van een stad toe.&quot;</p>
+      <p begin="137.916s" xml:id="p44" end="140.916s">Zoals je kunt zien,<br />maakt Microsoft Copilot een afbeelding</p>
+      <p begin="141.041s" xml:id="p45" end="142.791s">die overeenkomt met de nieuwe beschrijving.</p>
+      <p begin="143.5s" xml:id="p46" end="146.125s">Generatieve AI<br />heeft praktische toepassingen</p>
+      <p begin="146.375s" xml:id="p47" end="149.166s">die variëren van productontwerp<br />tot artistieke creatie,</p>
+      <p begin="149.416s" xml:id="p48" end="151.166s">en het potentieel ervan<br />groeit met de dag.</p>
+      <p begin="151.791s" xml:id="p49" end="153.416s">Of je nu je huis verbouwt</p>
+      <p begin="153.666s" xml:id="p50" end="156.666s">of op zoek bent naar illustraties<br />voor je nieuwste project,</p>
+      <p begin="157.041s" xml:id="p51" end="160.75s">AI-generatoren staan klaar om je te helpen<br />beelden tot leven te brengen.</p>
+      <p begin="161.791s" xml:id="p52" end="163.75s">Dus de volgende keer<br />dat je een afbeelding nodig hebt,</p>
+      <p begin="164.041s" xml:id="p53" end="167.958s">vergeet dan niet dat de kracht van AI<br />slechts een beschrijving verwijderd is.</p>
+    </div>
+  </body>
+</tt>

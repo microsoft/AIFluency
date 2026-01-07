@@ -1,0 +1,350 @@
+﻿1
+00:00:02,583 --> 00:00:04,208
+Je hebt met succes
+een account aangemaakt
+
+2
+00:00:04,333 --> 00:00:07,083
+en bent bij Microsoft Copilot
+terechtgekomen.
+
+3
+00:00:08,250 --> 00:00:11,458
+Je hebt misschien zelfs
+je taalvoorkeuren aangepast.
+
+4
+00:00:12,250 --> 00:00:13,625
+Nu vraag je je misschien af:
+
+5
+00:00:13,750 --> 00:00:16,750
+"Hoe kan ik Copilot
+effectief gebruiken?"
+
+6
+00:00:17,958 --> 00:00:20,041
+Het begint allemaal
+met het begrijpen van
+
+7
+00:00:20,083 --> 00:00:22,458
+de gespreksstijlen
+die je ter beschikking staan.
+
+8
+00:00:22,625 --> 00:00:23,750
+Laten we ermee aan de slag gaan.
+
+9
+00:00:24,333 --> 00:00:27,125
+Bovenaan de pagina
+vind je voorbeelden van prompts
+
+10
+00:00:27,333 --> 00:00:30,208
+die je allerlei manieren laten zien
+om met Copilot te werken.
+
+11
+00:00:30,666 --> 00:00:33,916
+Deze prompts zijn er om je creativiteit
+aan te wakkeren en je uit te leggen
+
+12
+00:00:34,041 --> 00:00:37,750
+hoe je met Copilot omgaat,
+zodat je er het meeste uit kunt halen.
+
+13
+00:00:38,041 --> 00:00:40,666
+Laten we kijken naar mogelijke 
+prompts om van start te gaan.
+
+14
+00:00:41,125 --> 00:00:44,916
+Copilot kan bijvoorbeeld helpen 
+met activiteiten voor teambuilding.
+
+15
+00:00:45,041 --> 00:00:46,958
+Een voorbeeld van een prompt kan zijn:
+
+16
+00:00:47,041 --> 00:00:50,833
+"Ontwerp activiteiten die de teamgeest
+en samenwerking bevorderen,
+
+17
+00:00:51,083 --> 00:00:53,833
+met een thema-evenement,
+interactieve uitdagingen
+
+18
+00:00:54,083 --> 00:00:56,458
+en beloningen afgestemd
+op de missie van het bedrijf
+
+19
+00:00:56,708 --> 00:00:58,708
+en de verschillende belangen
+van het personeel."
+
+20
+00:00:59,083 --> 00:01:02,000
+Deze aanpak kan je helpen
+activiteiten te creëren
+
+21
+00:01:02,125 --> 00:01:04,500
+die een positieve
+werksfeer bevorderen.
+
+22
+00:01:05,916 --> 00:01:08,916
+Misschien heb je heldere,
+nauwkeurige informatie nodig. 
+
+23
+00:01:09,166 --> 00:01:14,041
+Copilot kan een goede AI-kameraad
+zijn bij info over academisch onderzoek,
+
+24
+00:01:14,125 --> 00:01:19,291
+of elke context waarin details
+en nauwkeurigheid belangrijk zijn.
+
+25
+00:01:19,791 --> 00:01:21,750
+Een prompt hierbij
+zou kunnen zijn:
+
+26
+00:01:21,875 --> 00:01:23,958
+"Maak een samenvatting van
+het recente academische onderzoek
+
+27
+00:01:24,125 --> 00:01:27,250
+naar de migratiepatronen van pinguïns,
+met de nadruk op de effecten
+
+28
+00:01:27,458 --> 00:01:30,833
+van veranderingen in het milieu
+op hun reisroutes en gedrag."
+
+29
+00:01:31,250 --> 00:01:35,375
+Deze prompt is bedoeld om precieze informatie
+te verzamelen uit wetenschappelijk onderzoek.
+
+30
+00:01:35,666 --> 00:01:37,458
+Misschien heb je een 
+perfecte harmonie nodig 
+
+31
+00:01:37,458 --> 00:01:40,875
+tussen informatieve inhoud
+en creatieve expressie.
+
+32
+00:01:41,000 --> 00:01:42,875
+Ook hier kan Copilot bij helpen.
+
+33
+00:01:43,041 --> 00:01:44,583
+Een voorbeeld van een prompt kan zijn:
+
+34
+00:01:44,833 --> 00:01:48,416
+"Maak een plan voor een maand om mijn
+sociale vaardigheden op het werk te verbeteren,
+
+35
+00:01:48,583 --> 00:01:51,833
+met specifieke doelstellingen,
+verbeteringsstrategieën en
+
+36
+00:01:52,041 --> 00:01:53,791
+methoden om de vooruitgang te meten."
+
+37
+00:01:54,291 --> 00:01:55,291
+Met deze prompt
+
+38
+00:01:55,333 --> 00:01:58,333
+helpt Copilot je bij het maken van
+een persoonlijk ontwikkelingsplan
+
+39
+00:01:58,583 --> 00:02:00,458
+gericht op essentiële sociale vaardigheden.
+
+40
+00:02:01,083 --> 00:02:03,666
+Laten we dit voorbeeld gebruiken
+om te laten zien hoe het werkt.
+
+41
+00:02:03,875 --> 00:02:06,916
+De eerste stap is de prompt in 
+het tekstveld te schrijven of
+
+42
+00:02:07,041 --> 00:02:11,250
+als je deze liever inspreekt,
+klik dan gewoon op het pictogram.
+
+43
+00:02:11,916 --> 00:02:14,416
+Copilot zal gelijk antwoorden. 
+
+44
+00:02:14,750 --> 00:02:16,375
+Bij het bekijken van het antwoord,
+
+45
+00:02:16,625 --> 00:02:19,208
+zul je zien dat de informatie
+is gerangschikt op onderwerp.
+
+46
+00:02:19,333 --> 00:02:22,000
+Als dit niet is hoe je de informatie
+gerangschikt wilt hebben,
+
+47
+00:02:22,125 --> 00:02:24,250
+kun je de resultaten verder verfijnen.
+
+48
+00:02:24,583 --> 00:02:27,458
+Als je de informatie
+bijvoorbeeld
+
+49
+00:02:27,625 --> 00:02:30,625
+in de vorm van een tabel wilt zien,
+ga dan terug naar het tekstveld en typ:
+
+50
+00:02:30,833 --> 00:02:32,625
+"Kun je dit in een tabel zetten?"
+
+51
+00:02:33,500 --> 00:02:36,666
+Omdat Copilot begrijpt
+dat 'dit' naar het plan verwijst,
+
+52
+00:02:36,791 --> 00:02:39,416
+wordt er een tabel gegenereerd
+om de onderwerpen weer te geven.
+
+53
+00:02:40,041 --> 00:02:44,083
+Zodra je klaar bent met een gesprek,
+klik je gewoon op het Copilot-pictogram
+
+54
+00:02:44,291 --> 00:02:45,666
+om de pagina te wissen.
+
+55
+00:02:46,208 --> 00:02:48,166
+Om ervoor te zorgen dat
+je gesprek met Copilot
+
+56
+00:02:48,333 --> 00:02:51,833
+zowel interessant als effectief is,
+houd dan deze tips in het achterhoofd:
+
+57
+00:02:52,333 --> 00:02:55,166
+1. Wees specifiek
+met je vragen of prompts
+
+58
+00:02:55,333 --> 00:02:58,833
+om meer toegesneden en relevante
+antwoorden van Copilot te ontvangen.
+
+59
+00:02:59,416 --> 00:03:02,250
+2. Stel open vragen
+om tot meer gedetailleerde
+
+60
+00:03:02,416 --> 00:03:05,000
+en informatieve antwoorden
+aan te zetten.
+
+61
+00:03:05,291 --> 00:03:07,666
+3. Als een antwoord je interesseert,
+
+62
+00:03:07,791 --> 00:03:11,166
+vraag dan gerust naar meer
+details of verduidelijking.
+
+63
+00:03:11,791 --> 00:03:15,875
+4. Geef feedback als een antwoord
+niet aan je verwachtingen voldoet,
+
+64
+00:03:15,875 --> 00:03:18,625
+omdat dit Copilot helpt antwoorden
+in de toekomst te verbeteren.
+
+65
+00:03:19,666 --> 00:03:24,375
+5. Omarm creativiteit door unieke
+of hypothetische vragen te stellen.
+
+66
+00:03:24,500 --> 00:03:27,375
+Copilot kan een breed scala
+aan onderwerpen hanteren.
+
+67
+00:03:27,916 --> 00:03:31,291
+6. Maak gebruik van de suggesties
+of gerelateerde onderwerpen
+
+68
+00:03:31,291 --> 00:03:35,250
+die door Copilot worden aangeboden,
+omdat ze tot rijke discussies kunnen leiden.
+
+69
+00:03:35,416 --> 00:03:40,125
+7. Houd een respectvolle toon aan
+voor een positieve ervaring.
+
+70
+00:03:40,458 --> 00:03:43,708
+Copilot is er om je te steunen
+wanneer je dat nodig hebt.
+
+71
+00:03:43,750 --> 00:03:48,375
+Dus houd het gesprek gerust gaande,
+stel vragen en blijf betrokken.
+
+72
+00:03:48,541 --> 00:03:49,791
+Elk gesprek met Copilot
+helpt je erbij
+
+73
+00:03:49,916 --> 00:03:53,291
+iets te leren en te ontdekken
+over de wereld om je heen.

@@ -1,0 +1,105 @@
+Generatieve vooraf getrainde
+transformators of GPT’s,
+
+zijn geavanceerde AI-modellen die
+ons begrip en gebruik van AI veranderen.
+
+Eenmaal getraind, kunnen deze
+modellen taal interpreteren en genereren.
+
+De 'G' in GPT benadrukt hun
+vermogen om originele inhoud te genereren.
+
+De 'P' in GPT staat voor 'pre-training',
+een verschuiving van
+
+probleemspecifieke modellen naar
+modellen die zijn afgestemd
+
+op verschillende toepassingen, zoals het
+voorspellen van het volgende woord in een zin.
+
+De 'T' staat voor 'transformer',
+
+een architectuur die grootschalige
+taalmodellen in staat stelt
+
+om enorm grote datasets te verwerken
+en niveaus van complexiteit
+
+en vaardigheid te creëren
+die we nog niet eerder hebben gezien.
+
+Copilot wordt aangedreven
+door een variant van het GPT-model.
+
+Deze versies,
+de zogenaamde Copilot GPT's,
+
+zijn aangepast om je te helpen
+bij specifieke taken.
+
+Laten we eens kijken hoe deze
+technologie je kan helpen.
+
+Copilot kan ondersteunen
+bij allerlei onderwerpen,
+
+waaronder designgerelateerde
+onderwerpen als afbeeldingen maken.
+
+En zelfs bij het plannen van
+je volgende vakantie.
+
+Het kan bestemmingen bedenken,
+vluchtprijzen geven en veel meer.
+
+Hulp nodig in de keuken?
+
+Copilot kan je helpen
+bij het koken,
+
+zoals het opdoen van ideeën voor
+of het vinden van recepten.
+
+Misschien wil je een nieuwe oefening proberen,
+maar weet je niet waar je moet beginnen.
+
+Het kan je helpen met dingen
+die met fitness te maken hebben,
+
+zoals op maat gemaakte work-outs
+of het geven van fitness-tips.
+
+Laten we een voorbeeld bekijken.
+
+Bovenaan vind je als leidraad
+een aantal voorbeeldprompts.
+
+Of je kunt je eigen
+prompt invoeren, zoals
+
+"Ingrediënten en instructies
+om vegetarische bibimbap te maken."
+
+Copilot verstrekt vervolgens een
+lijst met ingrediënten en de stappen.
+
+Voor een betere leesbaarheid, kun je
+vragen om een tabel.
+
+Laten we dat eens proberen.
+
+"Zet deze informatie
+in een tabel."
+
+Zodra de tabel is gemaakt,
+
+kun je deze ook bewerken
+in Excel, kopiëren of delen.
+
+GPT-technologie maakt
+je ervaring
+
+met Copilot een stuk
+persoonlijker.

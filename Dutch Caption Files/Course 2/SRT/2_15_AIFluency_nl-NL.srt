@@ -1,0 +1,345 @@
+﻿1
+00:00:03,166 --> 00:00:06,875
+Generatieve AI verandert de manier
+waarop we omgaan met digitale inhoud.
+
+2
+00:00:07,916 --> 00:00:10,250
+Het is een combinatie van kunst en wetenschap,
+
+3
+00:00:10,416 --> 00:00:13,166
+waarbij algoritmen en data
+samenwerken om te creëren.
+
+4
+00:00:13,541 --> 00:00:15,666
+Er zijn verschillende soorten
+generatieve AI.
+
+5
+00:00:16,041 --> 00:00:18,375
+Eén daarvan is tekstgebaseerde generatieve AI.
+
+6
+00:00:18,875 --> 00:00:21,541
+Deze technologie
+maakt gebruik van geavanceerde AI-modellen
+
+7
+00:00:21,750 --> 00:00:25,916
+om samenhangende en contextueel relevante
+tekstgebaseerde antwoorden te genereren.
+
+8
+00:00:27,041 --> 00:00:30,041
+Het is alsof je een virtuele assistent
+binnen handbereik hebt,
+
+9
+00:00:30,416 --> 00:00:33,625
+die je kan helpen
+bij het schrijven van e-mails en artikelen,
+
+10
+00:00:33,916 --> 00:00:36,416
+of zelfs bij het vinden van
+de beste restaurants in je omgeving.
+
+11
+00:00:37,375 --> 00:00:40,916
+Je kunt tekstgebaseerde antwoorden krijgen
+met behulp van Microsoft Copilot.
+
+12
+00:00:41,416 --> 00:00:44,625
+Laten we zeggen dat je manieren wilt vinden
+om terug te geven aan je gemeenschap.
+
+13
+00:00:45,750 --> 00:00:48,541
+Je houdt van vrijwilligerswerk,
+vooral om anderen te helpen.
+
+14
+00:00:49,000 --> 00:00:53,000
+Je zoekt op internet maar raakt overweldigd
+door de hoeveelheid beschikbare informatie.
+
+15
+00:00:54,750 --> 00:00:58,750
+Dus ga je naar Microsoft Copilot
+om het zoekproces te versnellen.
+
+16
+00:01:00,041 --> 00:01:04,125
+Je vraagt Microsoft Copilot om vijf
+non-profitorganisaties voor je te vinden
+
+17
+00:01:04,291 --> 00:01:07,625
+die mensen in jouw stad ondersteunen
+die blind zijn of slecht kunnen zien.
+
+18
+00:01:08,416 --> 00:01:11,666
+En nu heb je een goede lijst
+met non-profitorganisaties
+
+19
+00:01:11,875 --> 00:01:14,750
+die je kunt benaderen
+over mogelijkheden voor vrijwilligerswerk.
+
+20
+00:01:15,416 --> 00:01:17,500
+Nu je een ideale non-profit
+hebt gevonden,
+
+21
+00:01:17,791 --> 00:01:21,041
+wil je een e-mail schrijven
+waarin je jezelf voorstelt
+
+22
+00:01:21,291 --> 00:01:23,041
+en ze vraagt
+hoe je vrijwilliger kunt worden.
+
+23
+00:01:23,625 --> 00:01:26,250
+Ook daar kan Microsoft Copilot
+je bij helpen.
+
+24
+00:01:27,750 --> 00:01:31,541
+Je typt gewoon: "Ik wil een e-mail schrijven
+waarin ik mezelf voorstel aan de non-profit
+
+25
+00:01:31,875 --> 00:01:34,666
+en ik wil informeren naar hun
+procedure voor vrijwilligerswerk.
+
+26
+00:01:36,291 --> 00:01:37,875
+Kun je me helpen deze e-mail te schrijven?"
+
+27
+00:01:38,041 --> 00:01:38,916
+En in een handomdraai
+
+28
+00:01:39,041 --> 00:01:42,625
+helpt Copilot je met een concept-e-mail
+die je kunt bewerken en aanpassen,
+
+29
+00:01:42,875 --> 00:01:45,416
+waardoor je tijd bespaart en jij je
+op andere dingen kunt richten.
+
+30
+00:01:45,875 --> 00:01:48,791
+Een ander soort generatieve AI
+is tekst-naar-beeld.
+
+31
+00:01:49,125 --> 00:01:51,416
+Stel je voor dat je een scène 
+beschrijft door middel van tekst
+
+32
+00:01:51,625 --> 00:01:54,041
+en dat AI het visueel
+tot leven brengt.
+
+33
+00:01:54,916 --> 00:01:58,791
+Dit type AI interpreteert
+tekstbeschrijvingen om beelden te creëren
+
+34
+00:01:59,125 --> 00:02:02,166
+waardoor het een hulpmiddel van onschatbare
+waarde is voor de alledaagse verbeelding.
+
+35
+00:02:03,041 --> 00:02:05,791
+Je bent bijvoorbeeld
+een uitnodiging aan het maken
+
+36
+00:02:06,000 --> 00:02:08,166
+voor de aanstaande vijfde verjaardag
+van je kind.
+
+37
+00:02:09,166 --> 00:02:12,166
+Als je je kind dan vraagt,
+"Waar moet je feestje over gaan?"
+
+38
+00:02:12,416 --> 00:02:14,666
+antwoordt die met
+'regenbooggiraffen'!
+
+39
+00:02:15,875 --> 00:02:18,000
+Dat is nou niet bepaald
+het antwoord dat je zocht.
+
+40
+00:02:18,166 --> 00:02:19,750
+Je weet tenslotte heel goed
+dat het moeilijk wordt om
+
+41
+00:02:19,916 --> 00:02:22,666
+versieringen te vinden in
+een regenbooggiraffemotief,
+
+42
+00:02:22,875 --> 00:02:24,125
+maar toch kun je er iets mee.
+
+43
+00:02:25,041 --> 00:02:26,750
+Je gaat naar Microsoft Copilot
+
+44
+00:02:26,750 --> 00:02:30,500
+en typt: "Maak een afbeelding
+van een regenbooggiraffe met het getal 5."
+
+45
+00:02:30,916 --> 00:02:32,041
+En in een handomdraai
+
+46
+00:02:32,166 --> 00:02:35,041
+heb je een afbeelding
+voor je uitnodiging.
+
+47
+00:02:35,666 --> 00:02:37,541
+Dan is er nog generatieve AI voor audio.
+
+48
+00:02:39,166 --> 00:02:43,666
+Deze vorm van AI kan muziek componeren
+of realistische geluidseffecten genereren.
+
+49
+00:02:44,166 --> 00:02:48,666
+Het kan zelfs menselijke stemmen nabootsen
+voor podcasts of virtuele assistenten,
+
+50
+00:02:48,875 --> 00:02:51,541
+allemaal op basis van een reeks parameters
+of een stuk tekst.
+
+51
+00:02:53,875 --> 00:02:56,375
+Nieuwe apps stellen gebruikers
+bijvoorbeeld in staat
+
+52
+00:02:56,541 --> 00:02:58,916
+om een stukje van hun eigen stem
+op te nemen.
+
+53
+00:02:59,625 --> 00:03:01,500
+Door deze te uploaden naar het model,
+
+54
+00:03:01,666 --> 00:03:04,291
+kan het systeem
+hun stem nauwkeurig nabootsen,
+
+55
+00:03:04,666 --> 00:03:07,666
+waardoor het mogelijk is om
+langere geluidsfragmenten
+
+56
+00:03:07,791 --> 00:03:09,041
+of zelfs hele liedjes te genereren.
+
+57
+00:03:09,916 --> 00:03:12,166
+Stel je eens een persoonlijke karaoke-app voor
+
+58
+00:03:12,291 --> 00:03:14,541
+waarbij je een kort stukje
+van je favoriete liedje zingt.
+
+59
+00:03:15,291 --> 00:03:19,125
+Vervolgens genereert het AI-model
+van de app een volledige versie van het liedje,
+
+60
+00:03:19,375 --> 00:03:21,291
+compleet met jouw unieke zangstijl.
+
+61
+00:03:22,041 --> 00:03:24,375
+Tot slot is er nog generatieve
+AI voor video.
+
+62
+00:03:25,416 --> 00:03:30,041
+Deze technologie kan video's creëren
+door te leren van bestaand beeldmateriaal.
+
+63
+00:03:30,791 --> 00:03:33,750
+Het kan personages animeren,
+omgevingen nabootsen,
+
+64
+00:03:34,041 --> 00:03:36,541
+en zelfs educatieve
+instructievideo's maken.
+
+65
+00:03:38,000 --> 00:03:40,041
+Stel, je hebt een video
+uit je kindertijd.
+
+66
+00:03:40,916 --> 00:03:45,291
+De video is overgezet
+van een oude videoband naar een .mp4-indeling,
+
+67
+00:03:45,541 --> 00:03:47,541
+maar de videokwaliteit laat te wensen over.
+
+68
+00:03:48,916 --> 00:03:52,500
+Met generatieve AI kan die video
+in een handomdraai worden geremasterd,
+
+69
+00:03:52,750 --> 00:03:55,416
+zodat je je herinneringen
+kunt delen met dierbaren.
+
+70
+00:03:56,125 --> 00:04:00,500
+Generatieve AI verandert de manier waarop
+we content creëren en ermee omgaan.
+
+71
+00:04:02,291 --> 00:04:05,041
+Van tekst naar beeld,
+en van audio naar video,
+
+72
+00:04:05,166 --> 00:04:07,708
+de mogelijkheden zijn werkelijk eindeloos.

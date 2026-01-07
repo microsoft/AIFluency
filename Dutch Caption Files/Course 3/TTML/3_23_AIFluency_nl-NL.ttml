@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.25s" xml:id="p0" end="6.166s">Stel je voor dat je een artikel<br />schrijft of een project begint,</p>
+      <p begin="6.25s" xml:id="p1" end="8.625s">en je hebt<br />Microsoft Copilot binnen handbereik</p>
+      <p begin="8.833s" xml:id="p2" end="10.583s">om je door dit proces heen te helpen.</p>
+      <p begin="12.625s" xml:id="p3" end="14.375s">Het is handig en nuttig.</p>
+      <p begin="14.625s" xml:id="p4" end="16.916s">Maar het is cruciaal<br />om even stil te staan en na te denken:</p>
+      <p begin="17.25s" xml:id="p5" end="19.5s">hoe blader je door<br />de suggesties van Copilot</p>
+      <p begin="19.541s" xml:id="p6" end="21.791s">om de juweeltjes van waarheid<br />en relevantie te vinden?</p>
+      <p begin="22.291s" xml:id="p7" end="24.166s">Door kritisch te denken.</p>
+      <p begin="24.291s" xml:id="p8" end="27.166s">Kritisch denken is de kunst<br />van het analyseren en evalueren</p>
+      <p begin="27.25s" xml:id="p9" end="29.625s">van informatie om betere<br />beslissingen te nemen.</p>
+      <p begin="30.125s" xml:id="p10" end="34.5s">Of je nu het nieuws leest,<br />online winkelt of Copilot gebruikt,</p>
+      <p begin="34.791s" xml:id="p11" end="37.875s">kritisch denken helpt ons wegwijs<br />te worden uit de stortvloed aan informatie.</p>
+      <p begin="38.5s" xml:id="p12" end="40.291s">Zelfs met een goed ontworpen prompt,</p>
+      <p begin="40.375s" xml:id="p13" end="44.25s">is het belangrijk om kritisch<br />naar het antwoord van Copilot te kijken.</p>
+      <p begin="46.666s" xml:id="p14" end="49.625s">AI is zo goed<br />als de data waarop het is getraind.</p>
+      <p begin="51.166s" xml:id="p15" end="53.666s">Hoewel AI niet opzettelijk discrimineert,</p>
+      <p begin="53.791s" xml:id="p16" end="58.291s">kan algoritmische voorkeur onbedoeld<br />leiden tot een onvolmaakt antwoord.</p>
+      <p begin="60.625s" xml:id="p17" end="63.875s">Een kritische blik helpt<br />ons bij onnauwkeurigheden</p>
+      <p begin="63.958s" xml:id="p18" end="67.0s">en verbetert de content<br />die Copilot genereert.</p>
+      <p begin="67.375s" xml:id="p19" end="69.166s">Laten we wat praktische tips bekijken</p>
+      <p begin="69.416s" xml:id="p20" end="73.041s">over hoe je kritisch denken<br />kunt inzetten bij de Copilot.</p>
+      <p begin="73.5s" xml:id="p21" end="74.625s">Nauwkeurigheid is essentieel.</p>
+      <p begin="75.0s" xml:id="p22" end="78.666s">Controleer altijd de feiten<br />en bronnen die Copilot aanhaalt.</p>
+      <p begin="79.625s" xml:id="p23" end="83.125s">Om ervoor te zorgen dat de informatie<br />van Copilot betrouwbaar en accuraat is,</p>
+      <p begin="83.291s" xml:id="p24" end="86.75s">kun je aan het einde van een antwoord<br />de bronnen ervan bekijken.</p>
+      <p begin="87.416s" xml:id="p25" end="89.0s">Als er geen bronnen worden opgegeven,</p>
+      <p begin="89.291s" xml:id="p26" end="91.0s">vraag er dan naar bij Copilot</p>
+      <p begin="91.0s" xml:id="p27" end="93.375s">na het eerste antwoord<br />op je vraag.</p>
+      <p begin="94.0s" xml:id="p28" end="95.25s">Laten we een voorbeeld bekijken.</p>
+      <p begin="95.708s" xml:id="p29" end="97.375s">&quot;Geef een uitgebreide samenvatting</p>
+      <p begin="97.458s" xml:id="p30" end="100.083s">van de meest recente ontwikkelingen<br />in duurzaamheid,</p>
+      <p begin="100.458s" xml:id="p31" end="103.958s">gericht op innovatieve praktijken,<br />opkomende technologieën,</p>
+      <p begin="104.333s" xml:id="p32" end="106.625s">en onderzoeksresultaten<br />die de toekomst vormgeven</p>
+      <p begin="106.708s" xml:id="p33" end="108.208s">van duurzame ontwikkeling.&quot;</p>
+      <p begin="109.125s" xml:id="p34" end="110.125s">Zoals je kunt zien,</p>
+      <p begin="110.333s" xml:id="p35" end="112.958s">gaf Copilot ons het<br />laatste nieuws over dit onderwerp</p>
+      <p begin="113.041s" xml:id="p36" end="116.708s">en een sectie die aangeeft waar<br />deze informatie vandaan komt.</p>
+      <p begin="118.083s" xml:id="p37" end="121.0s">Je kunt ook vragen of<br />Copilot informatie uitsluitend</p>
+      <p begin="121.208s" xml:id="p38" end="123.083s">uit bepaalde bronnen ophaalt.</p>
+      <p begin="124.0s" xml:id="p39" end="129.125s">Als je bijvoorbeeld de voorkeur geeft aan bronnen<br />met domeinen die eindigen op .org of .edu</p>
+      <p begin="129.125s" xml:id="p40" end="131.875s">voor hun educatieve<br />of organisatorische geloofwaardigheid,</p>
+      <p begin="132.375s" xml:id="p41" end="136.125s">kun je dit als vereiste opgeven<br />wanneer je Copilot om informatie vraagt.</p>
+      <p begin="137.25s" xml:id="p42" end="140.625s">&quot;Alleen broninformatie<br />voor deze vraag van .org-websites.&quot;</p>
+      <p begin="141.416s" xml:id="p43" end="144.041s">Copilot ging terug<br />en verwees alleen naar informatie</p>
+      <p begin="144.125s" xml:id="p44" end="146.125s">van domeinen die eindigen op .org.</p>
+      <p begin="146.625s" xml:id="p45" end="148.375s">Door de vermelde links te selecteren,</p>
+      <p begin="148.583s" xml:id="p46" end="152.333s">ga je naar de originele bronnen<br />om de inhoud ervan verder te bekijken.</p>
+      <p begin="153.333s" xml:id="p47" end="155.416s">Nieuwsgierigheid leidt tot duidelijkheid.</p>
+      <p begin="156.916s" xml:id="p48" end="160.458s">Vraag naar het doel, publiek en de<br />betrouwbaarheid van de inhoud.</p>
+      <p begin="161.75s" xml:id="p49" end="163.041s">Enkele praktische voorbeelden.</p>
+      <p begin="163.291s" xml:id="p50" end="164.291s">Doel.</p>
+      <p begin="164.416s" xml:id="p51" end="166.375s">Wat is het belangrijkste doel van deze inhoud?</p>
+      <p begin="166.958s" xml:id="p52" end="169.333s">Welke boodschap<br />probeert de inhoud over te brengen?</p>
+      <p begin="169.666s" xml:id="p53" end="173.583s">Is de inhoud bedoeld om te informeren,<br />overtuigen, vermaken of verkopen?</p>
+      <p begin="174.916s" xml:id="p54" end="175.916s">Publiek.</p>
+      <p begin="176.291s" xml:id="p55" end="178.5s">Wie is het beoogde publiek<br />voor deze inhoud?</p>
+      <p begin="178.916s" xml:id="p56" end="182.166s">Hoe richt de inhoud zich op de<br />behoeften of interesses van het publiek?</p>
+      <p begin="182.791s" xml:id="p57" end="185.75s">Zijn het taalgebruik en de toon<br />geschikt voor het doelpubliek?</p>
+      <p begin="186.375s" xml:id="p58" end="187.416s">Betrouwbaarheid.</p>
+      <p begin="187.75s" xml:id="p59" end="189.625s">Wat zijn de informatiebronnen</p>
+      <p begin="189.666s" xml:id="p60" end="191.041s">die in de inhoud zijn aangegeven?</p>
+      <p begin="191.375s" xml:id="p61" end="192.541s">Zijn de bronnen geloofwaardig?</p>
+      <p begin="193.0s" xml:id="p62" end="196.291s">Vertoont de inhoud vooringenomenheid of belangenverstrengeling?</p>
+      <p begin="196.791s" xml:id="p63" end="199.541s">Door vragen te stellen<br />verdiepen we ons begrip</p>
+      <p begin="199.625s" xml:id="p64" end="202.875s">en zijn we in staat om de<br />informatie beter te begrijpen.</p>
+      <p begin="203.416s" xml:id="p65" end="206.291s">Diversiteit in perspectieven<br />verrijkt onze inzichten.</p>
+      <p begin="206.916s" xml:id="p66" end="210.125s">Het is ook belangrijk om de antwoorden<br />van Copilot te vergelijken met</p>
+      <p begin="210.291s" xml:id="p67" end="214.0s">soortgelijke prompts om te zorgen voor<br />consistentie en relevantie.</p>
+      <p begin="214.416s" xml:id="p68" end="216.666s">Ethisch gebruik staat niet ter discussie.</p>
+      <p begin="217.625s" xml:id="p69" end="222.041s">Volg het contentbeleid<br />om AI-tools verantwoord te gebruiken.</p>
+      <p begin="222.375s" xml:id="p70" end="224.041s">En tot slot, blijf op de hoogte.</p>
+      <p begin="225.5s" xml:id="p71" end="227.125s">Wetten en regels<br />zijn aan verandering onderhevig,</p>
+      <p begin="227.291s" xml:id="p72" end="230.625s">en dat zou ook moeten gelden voor onze<br />werkwijzen bij het maken van AI-inhoud.</p>
+      <p begin="231.375s" xml:id="p73" end="233.791s">Het opstellen van een effectieve prompt<br />is slechts het begin.</p>
+      <p begin="234.041s" xml:id="p74" end="236.416s">We moeten ook de antwoorden</p>
+      <p begin="236.5s" xml:id="p75" end="240.166s">van elke LLM-gebaseerde generative<br />AI, zoals Copilot, kritisch evalueren.</p>
+      <p begin="241.541s" xml:id="p76" end="242.541s">Door dit te doen,</p>
+      <p begin="242.666s" xml:id="p77" end="246.291s">kunnen we ervoor zorgen dat de inhoud<br />die we maken en delen correct,</p>
+      <p begin="246.666s" xml:id="p78" end="248.166s">redelijk en verantwoord is.</p>
+    </div>
+  </body>
+</tt>

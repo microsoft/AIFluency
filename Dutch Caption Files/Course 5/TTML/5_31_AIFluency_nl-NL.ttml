@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="2.583s" xml:id="p0" end="4.208s">Je hebt met succes<br />een account aangemaakt</p>
+      <p begin="4.333s" xml:id="p1" end="7.083s">en bent bij Microsoft Copilot<br />terechtgekomen.</p>
+      <p begin="8.25s" xml:id="p2" end="11.458s">Je hebt misschien zelfs<br />je taalvoorkeuren aangepast.</p>
+      <p begin="12.25s" xml:id="p3" end="13.625s">Nu vraag je je misschien af:</p>
+      <p begin="13.75s" xml:id="p4" end="16.75s">&quot;Hoe kan ik Copilot<br />effectief gebruiken?&quot;</p>
+      <p begin="17.958s" xml:id="p5" end="20.041s">Het begint allemaal<br />met het begrijpen van</p>
+      <p begin="20.083s" xml:id="p6" end="22.458s">de gespreksstijlen<br />die je ter beschikking staan.</p>
+      <p begin="22.625s" xml:id="p7" end="23.75s">Laten we ermee aan de slag gaan.</p>
+      <p begin="24.333s" xml:id="p8" end="27.125s">Bovenaan de pagina<br />vind je voorbeelden van prompts</p>
+      <p begin="27.333s" xml:id="p9" end="30.208s">die je allerlei manieren laten zien<br />om met Copilot te werken.</p>
+      <p begin="30.666s" xml:id="p10" end="33.916s">Deze prompts zijn er om je creativiteit<br />aan te wakkeren en je uit te leggen</p>
+      <p begin="34.041s" xml:id="p11" end="37.75s">hoe je met Copilot omgaat,<br />zodat je er het meeste uit kunt halen.</p>
+      <p begin="38.041s" xml:id="p12" end="40.666s">Laten we kijken naar mogelijke<br />prompts om van start te gaan.</p>
+      <p begin="41.125s" xml:id="p13" end="44.916s">Copilot kan bijvoorbeeld helpen<br />met activiteiten voor teambuilding.</p>
+      <p begin="45.041s" xml:id="p14" end="46.958s">Een voorbeeld van een prompt kan zijn:</p>
+      <p begin="47.041s" xml:id="p15" end="50.833s">&quot;Ontwerp activiteiten die de teamgeest<br />en samenwerking bevorderen,</p>
+      <p begin="51.083s" xml:id="p16" end="53.833s">met een thema-evenement,<br />interactieve uitdagingen</p>
+      <p begin="54.083s" xml:id="p17" end="56.458s">en beloningen afgestemd<br />op de missie van het bedrijf</p>
+      <p begin="56.708s" xml:id="p18" end="58.708s">en de verschillende belangen<br />van het personeel.&quot;</p>
+      <p begin="59.083s" xml:id="p19" end="62.0s">Deze aanpak kan je helpen<br />activiteiten te creëren</p>
+      <p begin="62.125s" xml:id="p20" end="64.5s">die een positieve<br />werksfeer bevorderen.</p>
+      <p begin="65.916s" xml:id="p21" end="68.916s">Misschien heb je heldere,<br />nauwkeurige informatie nodig.</p>
+      <p begin="69.166s" xml:id="p22" end="74.041s">Copilot kan een goede AI-kameraad<br />zijn bij info over academisch onderzoek,</p>
+      <p begin="74.125s" xml:id="p23" end="79.291s">of elke context waarin details<br />en nauwkeurigheid belangrijk zijn.</p>
+      <p begin="79.791s" xml:id="p24" end="81.75s">Een prompt hierbij<br />zou kunnen zijn:</p>
+      <p begin="81.875s" xml:id="p25" end="83.958s">&quot;Maak een samenvatting van<br />het recente academische onderzoek</p>
+      <p begin="84.125s" xml:id="p26" end="87.25s">naar de migratiepatronen van pinguïns,<br />met de nadruk op de effecten</p>
+      <p begin="87.458s" xml:id="p27" end="90.833s">van veranderingen in het milieu<br />op hun reisroutes en gedrag.&quot;</p>
+      <p begin="91.25s" xml:id="p28" end="95.375s">Deze prompt is bedoeld om precieze informatie<br />te verzamelen uit wetenschappelijk onderzoek.</p>
+      <p begin="95.666s" xml:id="p29" end="97.458s">Misschien heb je een<br />perfecte harmonie nodig</p>
+      <p begin="97.458s" xml:id="p30" end="100.875s">tussen informatieve inhoud<br />en creatieve expressie.</p>
+      <p begin="101.0s" xml:id="p31" end="102.875s">Ook hier kan Copilot bij helpen.</p>
+      <p begin="103.041s" xml:id="p32" end="104.583s">Een voorbeeld van een prompt kan zijn:</p>
+      <p begin="104.833s" xml:id="p33" end="108.416s">&quot;Maak een plan voor een maand om mijn<br />sociale vaardigheden op het werk te verbeteren,</p>
+      <p begin="108.583s" xml:id="p34" end="111.833s">met specifieke doelstellingen,<br />verbeteringsstrategieën en</p>
+      <p begin="112.041s" xml:id="p35" end="113.791s">methoden om de vooruitgang te meten.&quot;</p>
+      <p begin="114.291s" xml:id="p36" end="115.291s">Met deze prompt</p>
+      <p begin="115.333s" xml:id="p37" end="118.333s">helpt Copilot je bij het maken van<br />een persoonlijk ontwikkelingsplan</p>
+      <p begin="118.583s" xml:id="p38" end="120.458s">gericht op essentiële sociale vaardigheden.</p>
+      <p begin="121.083s" xml:id="p39" end="123.666s">Laten we dit voorbeeld gebruiken<br />om te laten zien hoe het werkt.</p>
+      <p begin="123.875s" xml:id="p40" end="126.916s">De eerste stap is de prompt in<br />het tekstveld te schrijven of</p>
+      <p begin="127.041s" xml:id="p41" end="131.25s">als je deze liever inspreekt,<br />klik dan gewoon op het pictogram.</p>
+      <p begin="131.916s" xml:id="p42" end="134.416s">Copilot zal gelijk antwoorden.</p>
+      <p begin="134.75s" xml:id="p43" end="136.375s">Bij het bekijken van het antwoord,</p>
+      <p begin="136.625s" xml:id="p44" end="139.208s">zul je zien dat de informatie<br />is gerangschikt op onderwerp.</p>
+      <p begin="139.333s" xml:id="p45" end="142.0s">Als dit niet is hoe je de informatie<br />gerangschikt wilt hebben,</p>
+      <p begin="142.125s" xml:id="p46" end="144.25s">kun je de resultaten verder verfijnen.</p>
+      <p begin="144.583s" xml:id="p47" end="147.458s">Als je de informatie<br />bijvoorbeeld</p>
+      <p begin="147.625s" xml:id="p48" end="150.625s">in de vorm van een tabel wilt zien,<br />ga dan terug naar het tekstveld en typ:</p>
+      <p begin="150.833s" xml:id="p49" end="152.625s">&quot;Kun je dit in een tabel zetten?&quot;</p>
+      <p begin="153.5s" xml:id="p50" end="156.666s">Omdat Copilot begrijpt<br />dat &#039;dit&#039; naar het plan verwijst,</p>
+      <p begin="156.791s" xml:id="p51" end="159.416s">wordt er een tabel gegenereerd<br />om de onderwerpen weer te geven.</p>
+      <p begin="160.041s" xml:id="p52" end="164.083s">Zodra je klaar bent met een gesprek,<br />klik je gewoon op het Copilot-pictogram</p>
+      <p begin="164.291s" xml:id="p53" end="165.666s">om de pagina te wissen.</p>
+      <p begin="166.208s" xml:id="p54" end="168.166s">Om ervoor te zorgen dat<br />je gesprek met Copilot</p>
+      <p begin="168.333s" xml:id="p55" end="171.833s">zowel interessant als effectief is,<br />houd dan deze tips in het achterhoofd:</p>
+      <p begin="172.333s" xml:id="p56" end="175.166s">1. Wees specifiek<br />met je vragen of prompts</p>
+      <p begin="175.333s" xml:id="p57" end="178.833s">om meer toegesneden en relevante<br />antwoorden van Copilot te ontvangen.</p>
+      <p begin="179.416s" xml:id="p58" end="182.25s">2. Stel open vragen<br />om tot meer gedetailleerde</p>
+      <p begin="182.416s" xml:id="p59" end="185.0s">en informatieve antwoorden<br />aan te zetten.</p>
+      <p begin="185.291s" xml:id="p60" end="187.666s">3. Als een antwoord je interesseert,</p>
+      <p begin="187.791s" xml:id="p61" end="191.166s">vraag dan gerust naar meer<br />details of verduidelijking.</p>
+      <p begin="191.791s" xml:id="p62" end="195.875s">4. Geef feedback als een antwoord<br />niet aan je verwachtingen voldoet,</p>
+      <p begin="195.875s" xml:id="p63" end="198.625s">omdat dit Copilot helpt antwoorden<br />in de toekomst te verbeteren.</p>
+      <p begin="199.666s" xml:id="p64" end="204.375s">5. Omarm creativiteit door unieke<br />of hypothetische vragen te stellen.</p>
+      <p begin="204.5s" xml:id="p65" end="207.375s">Copilot kan een breed scala<br />aan onderwerpen hanteren.</p>
+      <p begin="207.916s" xml:id="p66" end="211.291s">6. Maak gebruik van de suggesties<br />of gerelateerde onderwerpen</p>
+      <p begin="211.291s" xml:id="p67" end="215.25s">die door Copilot worden aangeboden,<br />omdat ze tot rijke discussies kunnen leiden.</p>
+      <p begin="215.416s" xml:id="p68" end="220.125s">7. Houd een respectvolle toon aan<br />voor een positieve ervaring.</p>
+      <p begin="220.458s" xml:id="p69" end="223.708s">Copilot is er om je te steunen<br />wanneer je dat nodig hebt.</p>
+      <p begin="223.75s" xml:id="p70" end="228.375s">Dus houd het gesprek gerust gaande,<br />stel vragen en blijf betrokken.</p>
+      <p begin="228.541s" xml:id="p71" end="229.791s">Elk gesprek met Copilot<br />helpt je erbij</p>
+      <p begin="229.916s" xml:id="p72" end="233.291s">iets te leren en te ontdekken<br />over de wereld om je heen.</p>
+    </div>
+  </body>
+</tt>

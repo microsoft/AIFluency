@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.166s" xml:id="p0" end="7.416s">Je ervaring met Microsoft Copilot<br />is niet one-size-fits-all.</p>
+      <p begin="8.291s" xml:id="p1" end="12.0s">Of je nu een persoonlijk,<br />een werk- of een schoolaccount gebruikt,</p>
+      <p begin="12.416s" xml:id="p2" end="14.75s">Copilot past zich aan<br />om een ervaring te bieden</p>
+      <p begin="14.916s" xml:id="p3" end="16.541s">die precies aansluit bij jouw behoeften.</p>
+      <p begin="17.041s" xml:id="p4" end="20.416s">Het is compatibel met elk(e)<br />besturingssysteem en browser.</p>
+      <p begin="20.916s" xml:id="p5" end="23.291s">Je krijgt ook toegang<br />tot Copilot door</p>
+      <p begin="23.416s" xml:id="p6" end="26.0s">de Microsoft Copilot-app<br />naar je telefoon te downloaden.</p>
+      <p begin="26.916s" xml:id="p7" end="29.166s">Voor toegang tot Copilot<br />vanaf je computer,</p>
+      <p begin="29.416s" xml:id="p8" end="33.833s">open je een browser en ga je<br />naar copilot.microsoft.com.</p>
+      <p begin="36.125s" xml:id="p9" end="39.666s">Je kunt een beperkte versie van<br />Copilot gebruiken zonder Microsoft-account.</p>
+      <p begin="40.666s" xml:id="p10" end="43.291s">Inloggen op een<br />Microsoft-account</p>
+      <p begin="43.416s" xml:id="p11" end="46.625s">via de Edge-browser<br />biedt echter de beste ervaring.</p>
+      <p begin="47.166s" xml:id="p12" end="50.291s">Dit maakt uitgebreide<br />gesprekken met Copilot mogelijk.</p>
+      <p begin="51.375s" xml:id="p13" end="54.541s">Het biedt ook de mogelijkheid<br />om je gespreksgeschiedenis op te slaan</p>
+      <p begin="54.666s" xml:id="p14" end="58.416s">en de webpagina&#039;s die je bekijkt<br />te doorzoeken of samen te vatten.</p>
+      <p begin="59.875s" xml:id="p15" end="62.166s">Ben je klaar om met Copilot<br />aan de slag te gaan?</p>
+      <p begin="63.125s" xml:id="p16" end="64.125s">Laten we beginnen.</p>
+      <p begin="64.708s" xml:id="p17" end="67.333s">Ga eerst<br />naar Microsoft Copilot.</p>
+      <p begin="68.416s" xml:id="p18" end="72.416s">Ga dan rechtsboven naar &#039;Aanmelden&#039;<br />om je aan te melden.</p>
+      <p begin="73.375s" xml:id="p19" end="75.416s">Hier kun je je aanmelden.</p>
+      <p begin="75.75s" xml:id="p20" end="77.708s">Als je je aanmeldt met<br />een persoonlijke account</p>
+      <p begin="77.875s" xml:id="p21" end="80.625s">heb je toegang tot<br />een gratis standaardoptie.</p>
+      <p begin="80.875s" xml:id="p22" end="82.708s">Als je geen<br />persoonlijke account hebt,</p>
+      <p begin="82.875s" xml:id="p23" end="85.75s">kun je er gratis een aanmaken<br />om toegang te krijgen tot Copilot.</p>
+      <p begin="86.041s" xml:id="p24" end="89.5s">Een werk- of schoolaccount wordt verstrekt<br />door je werkgever of school</p>
+      <p begin="89.666s" xml:id="p25" end="91.041s">voor professioneel gebruik.</p>
+      <p begin="91.291s" xml:id="p26" end="92.916s">Aanmelden met een<br />werk- of schoolaccount</p>
+      <p begin="93.0s" xml:id="p27" end="95.666s">zorgt ervoor dat de gegevens<br />van je organisatie beschermd zijn.</p>
+      <p begin="97.458s" xml:id="p28" end="100.583s">Als je Copilot gebruikt voor taken<br />die met werk of school te maken hebben,</p>
+      <p begin="100.833s" xml:id="p29" end="103.583s">moet je je aanmelden<br />met je e-mail van werk of school.</p>
+      <p begin="105.375s" xml:id="p30" end="108.5s">Als je organisatie<br />je Copilot-rechten toekent,</p>
+      <p begin="108.708s" xml:id="p31" end="112.625s">kun je Copilot ook gebruiken<br />in je M365-toepassingen.</p>
+      <p begin="113.125s" xml:id="p32" end="116.0s">Als je geen account hebt,<br />en er een moet aanmaken,</p>
+      <p begin="116.125s" xml:id="p33" end="119.208s">klik dan op &#039;Account aanmaken&#039;<br />en volg de aangegeven stappen.</p>
+      <p begin="119.5s" xml:id="p34" end="123.583s">Zodra je je hebt aangemeld, of het nu<br />voor werk, school of persoonlijk is,</p>
+      <p begin="123.875s" xml:id="p35" end="126.208s">krijg je toegang<br />tot uitgebreide gesprekken</p>
+      <p begin="126.375s" xml:id="p36" end="127.75s">en extra functies.</p>
+      <p begin="129.0s" xml:id="p37" end="132.041s">Nu je een account hebt;<br />laten we de interface eens nader bekijken.</p>
+      <p begin="132.666s" xml:id="p38" end="137.375s">Gebruik het tekstvak onderaan<br />om met Copilot te communiceren.</p>
+      <p begin="138.25s" xml:id="p39" end="140.875s">Je kunt ook afbeeldingen<br />toevoegen aan je gesprek.</p>
+      <p begin="142.083s" xml:id="p40" end="146.583s">Dit kan handig zijn als je<br />vragen wilt stellen over een afbeelding</p>
+      <p begin="146.708s" xml:id="p41" end="150.833s">of als je wilt dat Copilot inhoud genereert<br />op basis van een afbeelding.</p>
+      <p begin="151.333s" xml:id="p42" end="153.708s">Om een afbeelding toe te voegen,<br />klik je op het pictogram.</p>
+      <p begin="153.75s" xml:id="p43" end="156.541s">Zodra je je bestand hebt geselecteerd,<br />verschijnt het op het scherm</p>
+      <p begin="156.583s" xml:id="p44" end="160.458s">en Copilot kan die vervolgens analyseren<br />en erop reageren.</p>
+      <p begin="162.458s" xml:id="p45" end="165.75s">Bestanden toevoegen werkt<br />op dezelfde manier.</p>
+      <p begin="166.333s" xml:id="p46" end="167.666s">Misschien wil je een bestand toevoegen</p>
+      <p begin="167.833s" xml:id="p47" end="170.916s">als je wilt dat Copilot de inhoud<br />van het bestand analyseert,</p>
+      <p begin="171.0s" xml:id="p48" end="173.375s">of als je vragen wilt stellen<br />over het bestand.</p>
+      <p begin="175.041s" xml:id="p49" end="177.875s">Om een bestand toe te voegen,<br />klik je op het pictogram &#039;Bestand toevoegen&#039;,</p>
+      <p begin="178.041s" xml:id="p50" end="179.625s">weergegeven als een paperclip.</p>
+      <p begin="180.041s" xml:id="p51" end="183.083s">Zodra je je bestand hebt geselecteerd,<br />wordt het geüpload</p>
+      <p begin="183.083s" xml:id="p52" end="185.916s">en Copilot is vervolgens in staat<br />de inhoud ervan in te zien.</p>
+      <p begin="186.875s" xml:id="p53" end="189.125s">In het gedeelte &#039;Recente gesprekken&#039;</p>
+      <p begin="189.25s" xml:id="p54" end="191.458s">worden je eerdere interacties<br />met Copilot weergegeven.</p>
+      <p begin="191.708s" xml:id="p55" end="193.458s">Dit kan handig zijn<br />als je wilt verwijzen</p>
+      <p begin="193.625s" xml:id="p56" end="195.958s">naar eerdere vragen<br />of antwoorden.</p>
+      <p begin="196.416s" xml:id="p57" end="198.666s">Je kunt door je recente<br />gesprekken bladeren,</p>
+      <p begin="198.791s" xml:id="p58" end="201.416s">en als je<br />op een specifiek gesprek klikt,</p>
+      <p begin="201.625s" xml:id="p59" end="203.041s">wordt dit geopend,</p>
+      <p begin="203.25s" xml:id="p60" end="205.666s">zodat je verder kunt gaan<br />waar je gebleven was.</p>
+      <p begin="205.916s" xml:id="p61" end="209.375s">Nu weet je alles<br />om met Copilot aan de slag te kunnen.</p>
+      <p begin="209.541s" xml:id="p62" end="211.875s">Ben je klaar<br />om te ontdekken, te leren en te creëren</p>
+      <p begin="212.041s" xml:id="p63" end="214.416s">op manieren<br />die je je nog nooit hebt voorgesteld?</p>
+    </div>
+  </body>
+</tt>

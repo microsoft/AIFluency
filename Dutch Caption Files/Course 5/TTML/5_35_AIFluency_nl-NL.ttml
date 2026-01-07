@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.791s" xml:id="p0" end="5.041s">In de huidige arbeidsmarkt</p>
+      <p begin="5.25s" xml:id="p1" end="8.041s">kan extra ondersteuning hebben<br />een groot verschil maken.</p>
+      <p begin="8.666s" xml:id="p2" end="11.791s">Microsoft Copilot is<br />jouw toegewijde AI-metgezel</p>
+      <p begin="11.916s" xml:id="p3" end="13.791s">om je die extra ondersteuning te geven.</p>
+      <p begin="14.791s" xml:id="p4" end="18.541s">Het kan persoonlijke hulp bieden<br />tijdens je zoektocht naar een baan.</p>
+      <p begin="19.541s" xml:id="p5" end="23.541s">Of je nu op zoek bent naar je eerste<br />baan of al de nodige ervaring hebt,</p>
+      <p begin="23.75s" xml:id="p6" end="27.375s">Copilot kan je helpen bij de complexiteit<br />van het vinden van de juiste baan,</p>
+      <p begin="27.541s" xml:id="p7" end="29.041s">zelfverzekerd en gemakkelijk.</p>
+      <p begin="29.541s" xml:id="p8" end="31.375s">Om je zoektocht naar een baan<br />een vliegende start te geven,</p>
+      <p begin="31.541s" xml:id="p9" end="34.75s">kun je Copilot vragen om er<br />een strategie voor op te stellen.</p>
+      <p begin="35.916s" xml:id="p10" end="38.416s">&quot;Help me bij het opstellen van een beknopte<br />strategie voor de zoektocht naar een baan,</p>
+      <p begin="38.541s" xml:id="p11" end="41.291s">inclusief online solliciteren<br />en netwerken.&quot;</p>
+      <p begin="42.5s" xml:id="p12" end="45.666s">Copilot biedt uitvoerbare stappen<br />die zijn afgestemd op jouw behoeften,</p>
+      <p begin="45.791s" xml:id="p13" end="49.041s">zoals netwerken,<br />toegang tot online vacaturebanken,</p>
+      <p begin="49.25s" xml:id="p14" end="51.416s">contact met recruiters en meer.</p>
+      <p begin="52.041s" xml:id="p15" end="54.25s">Nu je een strategie hebt<br />voor het zoeken naar een baan,</p>
+      <p begin="54.416s" xml:id="p16" end="57.791s">ben je misschien klaar om je cv bij te<br />werken en je netwerk aan te spreken.</p>
+      <p begin="59.416s" xml:id="p17" end="60.791s">Dat kun je aan Copilot vragen:</p>
+      <p begin="61.0s" xml:id="p18" end="64.25s">&quot;Schrijf een korte e-mail<br />voor mijn contacten op LinkedIn</p>
+      <p begin="64.416s" xml:id="p19" end="67.291s">en geef me een professioneel<br />cv-sjabloon van Microsoft.&quot;</p>
+      <p begin="68.75s" xml:id="p20" end="71.791s">Copilot stelt een concept-e-mail op<br />die je zelf nog kunt bewerken</p>
+      <p begin="72.0s" xml:id="p21" end="73.416s">en dan naar je contacten kunt sturen.</p>
+      <p begin="74.25s" xml:id="p22" end="77.125s">Het is belangrijk dat je cv<br />en sollicitatiebrief opvallen.</p>
+      <p begin="78.375s" xml:id="p23" end="80.375s">Zodra je een cv-sjabloon<br />hebt gekozen,</p>
+      <p begin="80.583s" xml:id="p24" end="84.5s">kun je Copilot gebruiken om je cv<br />toe te spitsen op een specifieke baan.</p>
+      <p begin="85.5s" xml:id="p25" end="87.75s">Geef gewoon de details op<br />uit de functiebeschrijving,</p>
+      <p begin="87.958s" xml:id="p26" end="89.875s">samen met je relevante ervaring,</p>
+      <p begin="90.25s" xml:id="p27" end="94.125s">en Copilot helpt je om je cv<br />er optimaal op af te stemmen.</p>
+      <p begin="95.375s" xml:id="p28" end="97.125s">Je kunt bijvoorbeeld vragen:</p>
+      <p begin="97.583s" xml:id="p29" end="101.375s">&quot;Controleer mijn concept-cv en sollicitatiebrief<br />voor de functie van marketingmanager</p>
+      <p begin="101.5s" xml:id="p30" end="103.0s">en stel verbeteringen voor.&quot;</p>
+      <p begin="103.583s" xml:id="p31" end="107.875s">Copilot kan feedback geven of erbij helpen<br />ze beter af te stemmen op de functie.</p>
+      <p begin="109.875s" xml:id="p32" end="113.5s">Copilot kan je ook wegwijs maken op<br />online vacaturebanken zoals LinkedIn.</p>
+      <p begin="114.75s" xml:id="p33" end="115.833s">Je kunt vragen:</p>
+      <p begin="116.0s" xml:id="p34" end="119.25s">&quot;Geef advies over hoe ik vacatures<br />voor onderwijsontwerp kan vinden</p>
+      <p begin="119.375s" xml:id="p35" end="120.458s">op LinkedIn.&quot;</p>
+      <p begin="121.875s" xml:id="p36" end="124.5s">Recruiters zijn een essentieel<br />onderdeel van de arbeidsmarkt.</p>
+      <p begin="125.708s" xml:id="p37" end="128.5s">Om effectief met ze te communiceren,<br />kun je vragen:</p>
+      <p begin="128.958s" xml:id="p38" end="131.625s">&quot;Help me om een korte,<br />effectieve introductie te schrijven</p>
+      <p begin="131.833s" xml:id="p39" end="134.083s">die mijn vaardigheden<br />en ervaring benadrukt.&quot;</p>
+      <p begin="134.708s" xml:id="p40" end="137.875s">Copilot kan ervoor zorgen<br />dat je kwalificaties en ervaring</p>
+      <p begin="138.0s" xml:id="p41" end="139.625s">het beste worden belicht.</p>
+      <p begin="141.375s" xml:id="p42" end="143.75s">Je voorbereiden op sollicitatiegesprekken<br />kan zenuwslopend zijn.</p>
+      <p begin="145.125s" xml:id="p43" end="147.458s">Copilot kan daarbij<br />als coach fungeren.</p>
+      <p begin="148.333s" xml:id="p44" end="151.875s">Je kunt bijvoorbeeld oefenen<br />door iets te vragen als:</p>
+      <p begin="152.083s" xml:id="p45" end="155.0s">&quot;Ik heb volgende week een sollicitatiegesprek<br />voor de functie van docent wiskunde.</p>
+      <p begin="156.25s" xml:id="p46" end="158.75s">Kunnen we dat gesprek<br />oefenen?&quot;</p>
+      <p begin="159.25s" xml:id="p47" end="162.333s">Copilot geeft dan tips voor het<br />beantwoorden van gangbare vragen</p>
+      <p begin="162.625s" xml:id="p48" end="164.75s">en geeft feedback<br />op je antwoorden.</p>
+      <p begin="165.0s" xml:id="p49" end="167.125s">Het kan je erbij helpen om<br />stopwoorden te vermijden,</p>
+      <p begin="167.25s" xml:id="p50" end="169.458s">zoals &#039;euh&#039; en &#039;zeg maar&#039;.</p>
+      <p begin="169.625s" xml:id="p51" end="171.875s">Als je overweegt<br />van carrière te veranderen,</p>
+      <p begin="172.125s" xml:id="p52" end="175.375s">kan Copilot nieuwe mogelijkheden<br />voorstellen op basis van je interesses,</p>
+      <p begin="175.583s" xml:id="p53" end="177.125s">sterke punten en hobby&#039;s.</p>
+      <p begin="179.0s" xml:id="p54" end="180.375s">&quot;Copilot, ik overweeg een<br />verandering van carrière.</p>
+      <p begin="180.375s" xml:id="p55" end="181.75s">&quot;Copilot, ik overweeg een<br />verandering van carrière.</p>
+      <p begin="182.875s" xml:id="p56" end="186.708s">Gezien mijn ervaring met klantenservice<br />en interesse in technologie, kun je</p>
+      <p begin="186.875s" xml:id="p57" end="188.875s">suggesties geven voor<br />passende loopbaantrajecten.&quot;</p>
+      <p begin="189.958s" xml:id="p58" end="192.958s">Of misschien heb je besloten<br />dat je grafisch ontwerper wilt worden</p>
+      <p begin="193.125s" xml:id="p59" end="195.875s">maar weet je niet goed welke vaardigheden<br />je nodig hebt om dat mogelijk te maken.</p>
+      <p begin="196.333s" xml:id="p60" end="200.333s">Om deze loopbaan te onderzoeken,<br />kun je Copilot vragen:</p>
+      <p begin="200.5s" xml:id="p61" end="204.25s">&quot;Wat zijn de vereiste vaardigheden<br />voor een beginnend grafisch ontwerper?&quot;</p>
+      <p begin="206.333s" xml:id="p62" end="208.625s">Copilot kan je zoektocht<br />naar een baan volledig veranderen.</p>
+      <p begin="209.75s" xml:id="p63" end="212.708s">Van het opstellen van een strategie<br />tot het voorbereiden op sollicitatiegesprekken,</p>
+      <p begin="213.083s" xml:id="p64" end="215.5s">Copilot is er voor je<br />bij elke stap.</p>
+      <p begin="216.25s" xml:id="p65" end="218.25s">Het gaat niet alleen<br />om het vinden van een baan,</p>
+      <p begin="218.458s" xml:id="p66" end="220.916s">het gaat om het vinden<br />van de juiste baan voor jou.</p>
+    </div>
+  </body>
+</tt>

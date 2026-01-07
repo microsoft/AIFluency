@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="2.583s" xml:id="p0" end="6.083s">Generatieve vooraf getrainde<br />transformators of GPT’s,</p>
+      <p begin="6.208s" xml:id="p1" end="11.291s">zijn geavanceerde AI-modellen die<br />ons begrip en gebruik van AI veranderen.</p>
+      <p begin="11.583s" xml:id="p2" end="15.375s">Eenmaal getraind, kunnen deze<br />modellen taal interpreteren en genereren.</p>
+      <p begin="15.458s" xml:id="p3" end="20.458s">De &#039;G&#039; in GPT benadrukt hun<br />vermogen om originele inhoud te genereren.</p>
+      <p begin="21.083s" xml:id="p4" end="24.291s">De &#039;P&#039; in GPT staat voor &#039;pre-training&#039;,<br />een verschuiving van</p>
+      <p begin="24.416s" xml:id="p5" end="28.458s">probleemspecifieke modellen naar<br />modellen die zijn afgestemd</p>
+      <p begin="28.666s" xml:id="p6" end="32.208s">op verschillende toepassingen, zoals het<br />voorspellen van het volgende woord in een zin.</p>
+      <p begin="32.833s" xml:id="p7" end="34.916s">De &#039;T&#039; staat voor &#039;transformer&#039;,</p>
+      <p begin="34.958s" xml:id="p8" end="38.166s">een architectuur die grootschalige<br />taalmodellen in staat stelt</p>
+      <p begin="38.333s" xml:id="p9" end="41.875s">om enorm grote datasets te verwerken<br />en niveaus van complexiteit</p>
+      <p begin="41.958s" xml:id="p10" end="44.333s">en vaardigheid te creëren<br />die we nog niet eerder hebben gezien.</p>
+      <p begin="45.0s" xml:id="p11" end="48.583s">Copilot wordt aangedreven<br />door een variant van het GPT-model.</p>
+      <p begin="48.75s" xml:id="p12" end="51.208s">Deze versies,<br />de zogenaamde Copilot GPT&#039;s,</p>
+      <p begin="51.291s" xml:id="p13" end="54.666s">zijn aangepast om je te helpen<br />bij specifieke taken.</p>
+      <p begin="54.958s" xml:id="p14" end="57.833s">Laten we eens kijken hoe deze<br />technologie je kan helpen.</p>
+      <p begin="58.208s" xml:id="p15" end="60.875s">Copilot kan ondersteunen<br />bij allerlei onderwerpen,</p>
+      <p begin="60.958s" xml:id="p16" end="64.708s">waaronder designgerelateerde<br />onderwerpen als afbeeldingen maken.</p>
+      <p begin="65.0s" xml:id="p17" end="67.458s">En zelfs bij het plannen van<br />je volgende vakantie.</p>
+      <p begin="67.583s" xml:id="p18" end="71.458s">Het kan bestemmingen bedenken,<br />vluchtprijzen geven en veel meer.</p>
+      <p begin="71.625s" xml:id="p19" end="73.5s">Hulp nodig in de keuken?</p>
+      <p begin="73.625s" xml:id="p20" end="75.791s">Copilot kan je helpen<br />bij het koken,</p>
+      <p begin="76.041s" xml:id="p21" end="79.5s">zoals het opdoen van ideeën voor<br />of het vinden van recepten.</p>
+      <p begin="79.625s" xml:id="p22" end="83.0s">Misschien wil je een nieuwe oefening proberen,<br />maar weet je niet waar je moet beginnen.</p>
+      <p begin="83.291s" xml:id="p23" end="86.0s">Het kan je helpen met dingen<br />die met fitness te maken hebben,</p>
+      <p begin="86.166s" xml:id="p24" end="90.5s">zoals op maat gemaakte work-outs<br />of het geven van fitness-tips.</p>
+      <p begin="91.166s" xml:id="p25" end="93.25s">Laten we een voorbeeld bekijken.</p>
+      <p begin="93.291s" xml:id="p26" end="95.791s">Bovenaan vind je als leidraad<br />een aantal voorbeeldprompts.</p>
+      <p begin="95.916s" xml:id="p27" end="97.958s">Of je kunt je eigen<br />prompt invoeren, zoals</p>
+      <p begin="97.958s" xml:id="p28" end="101.833s">&quot;Ingrediënten en instructies<br />om vegetarische bibimbap te maken.&quot;</p>
+      <p begin="102.166s" xml:id="p29" end="106.083s">Copilot verstrekt vervolgens een<br />lijst met ingrediënten en de stappen.</p>
+      <p begin="106.25s" xml:id="p30" end="111.041s">Voor een betere leesbaarheid, kun je<br />vragen om een tabel.</p>
+      <p begin="111.125s" xml:id="p31" end="112.583s">Laten we dat eens proberen.</p>
+      <p begin="112.666s" xml:id="p32" end="114.833s">&quot;Zet deze informatie<br />in een tabel.&quot;</p>
+      <p begin="115.0s" xml:id="p33" end="116.541s">Zodra de tabel is gemaakt,</p>
+      <p begin="116.541s" xml:id="p34" end="120.375s">kun je deze ook bewerken<br />in Excel, kopiëren of delen.</p>
+      <p begin="120.666s" xml:id="p35" end="122.625s">GPT-technologie maakt<br />je ervaring</p>
+      <p begin="122.666s" xml:id="p36" end="125.291s">met Copilot een stuk<br />persoonlijker.</p>
+    </div>
+  </body>
+</tt>

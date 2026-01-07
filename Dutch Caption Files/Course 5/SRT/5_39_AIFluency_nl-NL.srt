@@ -1,0 +1,520 @@
+﻿1
+00:00:03,291 --> 00:00:06,166
+Microsoft Edge heeft een
+grote sprong voorwaarts gemaakt
+
+2
+00:00:06,250 --> 00:00:09,541
+door Copilot direct
+in de browser te integreren.
+
+3
+00:00:10,375 --> 00:00:13,541
+Deze AI-functie verbetert
+je ervaring bij het browsen,
+
+4
+00:00:13,791 --> 00:00:17,750
+doordat je op nieuwe en dynamische
+manieren met websites kunt omgaan.
+
+5
+00:00:17,958 --> 00:00:20,083
+Of je nu berichten
+wilt schrijven,
+
+6
+00:00:20,333 --> 00:00:22,083
+webpagina's wilt samenvatten,
+
+7
+00:00:22,291 --> 00:00:25,208
+of hulp wilt krijgen bij verschillende
+taken tijdens het browsen,
+
+8
+00:00:25,291 --> 00:00:29,208
+Copilot in Edge is ontworpen om je
+handelingen op het web te stroomlijnen.
+
+9
+00:00:30,083 --> 00:00:32,083
+Om aan de slag te gaan
+met Copilot in Edge,
+
+10
+00:00:32,208 --> 00:00:35,625
+moet je eerst de
+Microsoft Edge-browser downloaden.
+
+11
+00:00:36,083 --> 00:00:37,458
+Dat doe je als volgt:
+
+12
+00:00:37,666 --> 00:00:40,083
+Bezoek de officiële
+Microsoft Edge-webpagina
+
+13
+00:00:40,166 --> 00:00:45,625
+op microsoft.com/nl-nl/edge.
+
+14
+00:00:45,875 --> 00:00:48,708
+Bovenaan de pagina
+zie je het woord 'Downloaden'.
+
+15
+00:00:49,083 --> 00:00:52,083
+Klik erop en het brengt je
+naar de downloadpagina.
+
+16
+00:00:52,458 --> 00:00:55,166
+Op deze pagina
+zie je verschillende versies.
+
+17
+00:00:56,208 --> 00:00:59,291
+Kies de versie die compatibel is
+met je besturingssysteem.
+
+18
+00:00:59,666 --> 00:01:02,583
+Klik op de knop 'Downloaden'
+en volg de instructies op het scherm
+
+19
+00:01:02,708 --> 00:01:04,375
+om de browser te installeren.
+
+20
+00:01:04,583 --> 00:01:08,708
+Zodra je Edge hebt geïnstalleerd,
+is de toegang tot Copilot eenvoudig:
+
+21
+00:01:08,958 --> 00:01:11,708
+Stap 1: Open de Microsoft Edge-browser.
+
+22
+00:01:12,083 --> 00:01:14,458
+Stap 2: Zoek het Copilot-pictogram,
+
+23
+00:01:14,541 --> 00:01:18,500
+dat doorgaans in de rechterbovenhoek
+van het browservenster te vinden is.
+
+24
+00:01:18,541 --> 00:01:23,166
+Stap 3: Klik op het Copilot-pictogram om
+de functie in je browser te openen.
+
+25
+00:01:23,666 --> 00:01:25,583
+Copilot in Edge
+biedt diverse functies
+
+26
+00:01:25,791 --> 00:01:27,833
+om je ervaring bij het browsen
+te verbeteren.
+
+27
+00:01:29,083 --> 00:01:30,208
+Laten we er een paar bekijken.
+
+28
+00:01:30,625 --> 00:01:32,875
+We zullen eerst de chatfunctie
+eens wat nader bekijken.
+
+29
+00:01:33,166 --> 00:01:35,458
+Je kunt meekijken door naar
+de pagina voor digitale skills
+
+30
+00:01:35,458 --> 00:01:38,541
+rondom Corporate Social
+Responsibility te gaan:
+
+31
+00:01:38,583 --> 00:01:52,625
+https://www.microsoft.com/en-us/
+corporate-responsibility/digital-skills.
+
+32
+00:01:53,041 --> 00:01:55,791
+Met de webpagina open,
+klik je rechtsboven
+
+33
+00:01:55,958 --> 00:01:57,041
+op het Copilot-pictogram.
+
+34
+00:01:57,125 --> 00:01:58,750
+Als je het pictogram niet ziet,
+
+35
+00:01:58,750 --> 00:02:01,875
+controleer dan of je
+de nieuwste versie van Edge hebt
+
+36
+00:02:02,083 --> 00:02:04,125
+en of je bent aangemeld
+op je Microsoft-account.
+
+37
+00:02:04,625 --> 00:02:06,625
+Zodra Copilot in Edge open is,
+
+38
+00:02:06,833 --> 00:02:08,583
+ga je naar het tekstveld onderaan.
+
+39
+00:02:08,708 --> 00:02:12,125
+Vraag Copilot: "Geef een samenvatting
+van deze pagina."
+
+40
+00:02:12,708 --> 00:02:15,166
+Copilot vat de inhoud
+onmiddellijk samen.
+
+41
+00:02:15,583 --> 00:02:18,833
+Je kunt ook vervolgvragen stellen
+voor meer duidelijkheid.
+
+42
+00:02:19,625 --> 00:02:21,208
+Vraag bijvoorbeeld:
+
+43
+00:02:21,250 --> 00:02:23,916
+"Welke opleidingsbronnen
+biedt deze pagina?"
+
+44
+00:02:24,041 --> 00:02:26,291
+en Copilot
+haalt deze informatie op.
+
+45
+00:02:26,583 --> 00:02:29,250
+Stel dat je hulp nodig hebt om
+een e-mail naar je baas op te stellen
+
+46
+00:02:29,333 --> 00:02:33,041
+over de weekenddienst die je net
+hebt gekregen en niet kunt draaien.
+
+47
+00:02:33,166 --> 00:02:34,541
+Copilot kan hierbij helpen.
+
+48
+00:02:35,291 --> 00:02:37,166
+Open eerst een nieuwe chat.
+
+49
+00:02:37,333 --> 00:02:41,291
+Geef dan instructies en context
+voor de e-mail.
+
+50
+00:02:41,500 --> 00:02:44,500
+Bijvoorbeeld: "Schrijf een e-mail
+naar mijn baas, Jamie,
+
+51
+00:02:44,750 --> 00:02:47,958
+om haar te informeren dat ik de 
+weekenddienst in de dierenwinkel
+
+52
+00:02:48,000 --> 00:02:50,125
+niet kan draaien omdat ik al
+persoonlijke verplichtingen heb."
+
+53
+00:02:50,833 --> 00:02:53,500
+Copilot maakt dan een
+concept-e-mail voor je,
+
+54
+00:02:53,541 --> 00:02:56,750
+die je kunt bewerken,
+kopiëren en versturen.
+
+55
+00:02:57,041 --> 00:03:01,083
+Je kunt Copilot ook gebruiken
+om je te helpen met schrijven,
+
+56
+00:03:01,083 --> 00:03:04,458
+opsommingen samenstellen,
+LinkedIn-posts maken,
+
+57
+00:03:04,666 --> 00:03:07,833
+informatie samenvatten
+of zelfs rapporten genereren.
+
+58
+00:03:08,041 --> 00:03:09,958
+Laten we nu eens kijken
+naar een andere functie.
+
+59
+00:03:10,208 --> 00:03:14,708
+Copilot kan pdf's samenvatten
+en vertalen in Edge.
+
+60
+00:03:14,916 --> 00:03:19,291
+Laten we bijvoorbeeld eens kijken
+naar de AI Trainer Toolkit Guide:
+
+61
+00:03:19,666 --> 00:03:24,750
+Je kunt meekijken door naar
+aka.ms/AITrainerToolkit te gaan.
+
+62
+00:03:25,166 --> 00:03:29,750
+Met de pdf open, klik je linksboven
+op de knop 'Copilot vragen'.
+
+63
+00:03:29,916 --> 00:03:33,291
+Als Copilot al open is,
+kun je deze stap overslaan.
+
+64
+00:03:33,333 --> 00:03:36,125
+Zodra Copilot is geopend, 
+kun je ermee communiceren
+
+65
+00:03:36,250 --> 00:03:38,583
+door een vraag te stellen 
+over de pdf,
+
+66
+00:03:38,750 --> 00:03:41,291
+zoals “Geef een samenvatting 
+van de pdf.”
+
+67
+00:03:41,541 --> 00:03:45,291
+Copilot geeft dan een samenvatting
+en suggesties voor vervolgvragen,
+
+68
+00:03:45,458 --> 00:03:50,166
+zoals “Hoe kan ik effectief
+AI-tools in lesgeven implementeren?”
+
+69
+00:03:50,458 --> 00:03:52,041
+Als je op deze vraag klikt,
+
+70
+00:03:52,208 --> 00:03:55,333
+word je doorgeleid om te begrijpen 
+hoe belangrijk het is dat leraren
+
+71
+00:03:55,458 --> 00:03:58,416
+de noodzakelijke vaardigheden bezitten 
+om anderen effectief les te geven.
+
+72
+00:03:59,375 --> 00:04:03,375
+Rechts van de knop 'Copilot vragen'
+vind je drie zwarte stippen.
+
+73
+00:04:03,666 --> 00:04:05,833
+Als je daarop klikt, 
+zie je een meerkeuzemenu
+
+74
+00:04:05,958 --> 00:04:09,875
+met opties als ‘Vertalen’ 
+en ‘Voorlezen’.
+
+75
+00:04:10,041 --> 00:04:15,125
+Je kunt nu direct pdf’s vertalen in Edge 
+en ze zelfs voor je laten oplezen.
+
+76
+00:04:15,291 --> 00:04:16,666
+Laten we dat eens proberen. 
+
+77
+00:04:16,791 --> 00:04:18,458
+Klik op ‘Voorlezen’
+
+78
+00:04:18,583 --> 00:04:21,708
+en de pdf wordt
+automatisch voorgelezen. 
+
+79
+00:04:23,666 --> 00:04:26,083
+Aan de rechterkant is er
+een menu 'Spraakopties',
+
+80
+00:04:26,208 --> 00:04:29,250
+waarmee je de leessnelheid kunt
+aanpassen en een stem kunt selecteren.
+
+81
+00:04:32,958 --> 00:04:34,500
+Als je klikt op ‘Vertalen’,
+
+82
+00:04:34,541 --> 00:04:37,250
+zijn er diverse talen
+om te kiezen.
+
+83
+00:04:37,541 --> 00:04:39,666
+Laten we bijvoorbeeld Frans kiezen.
+
+84
+00:04:40,000 --> 00:04:44,041
+Markeer de tekst in de pdf
+die je wilt laten vertalen,
+
+85
+00:04:44,041 --> 00:04:47,291
+en deze wordt automatisch
+vertaald in het tekstveld.
+
+86
+00:04:47,541 --> 00:04:50,541
+Je kunt ook rechtstreeks in Edge
+een schermafbeelding maken
+
+87
+00:04:50,750 --> 00:04:53,666
+en deze delen met Copilot
+om de afbeelding te laten beschrijven.
+
+88
+00:04:53,833 --> 00:04:59,750
+Je hebt ook gratis toegang tot
+AI-functies zoals GPT-4 en Dall-E 3.
+
+89
+00:05:00,166 --> 00:05:05,250
+Klik nu op Windows+Shift +S 
+om de Snipping Tools-app te openen.
+
+90
+00:05:05,458 --> 00:05:09,541
+Sleep de cursor over het gedeelte van
+het scherm dat Copilot moet analyseren.
+
+91
+00:05:09,666 --> 00:05:11,416
+Als je wilt dat Copilot
+alleen het gedeelte
+
+92
+00:05:11,458 --> 00:05:14,458
+'Wat is inbegrepen
+in de Toolkit' analyseert,
+
+93
+00:05:14,583 --> 00:05:16,625
+neem je een screenshot van die sectie.
+
+94
+00:05:17,083 --> 00:05:22,375
+Ga dan naar Copilot en klik op
+CONTROL + V om dit te plakken.
+
+95
+00:05:22,708 --> 00:05:25,041
+Zodra de schermafbeelding
+in Copilot verschijnt,
+
+96
+00:05:25,083 --> 00:05:27,125
+kun je er een prompt voor typen.
+
+97
+00:05:27,375 --> 00:05:28,375
+Bijvoorbeeld:
+
+98
+00:05:28,500 --> 00:05:30,958
+"Analyseer de afbeelding
+en vertel me in twee zinnen
+
+99
+00:05:31,125 --> 00:05:33,625
+wat er in de AI Trainer Toolkit
+is inbegrepen."
+
+100
+00:05:34,541 --> 00:05:37,041
+Copilot geeft dan, zoals gevraagd,
+in twee zinnen een samenvatting
+
+101
+00:05:37,166 --> 00:05:39,500
+van de schermafbeelding.
+
+102
+00:05:39,791 --> 00:05:44,416
+Copilot biedt ook mogelijkheden voor
+tekst-naar-spraak en spraak-naar-tekst
+
+103
+00:05:44,666 --> 00:05:46,541
+voor een meer toegankelijke ervaring.
+
+104
+00:05:47,166 --> 00:05:49,916
+Met Copilot geïntegreerd
+in Microsoft Edge
+
+105
+00:05:50,166 --> 00:05:53,041
+heb je een veelzijdige
+AI-metgezel binnen handbereik,
+
+106
+00:05:53,125 --> 00:05:55,666
+die klaar staat om je te helpen
+met een breed scala aan taken,
+
+107
+00:05:55,916 --> 00:05:59,291
+van het samenvatten van webinhoud
+tot het opstellen van berichten.
+
+108
+00:05:59,833 --> 00:06:01,958
+De naadloze integratie 
+in de Edge-browser 
+
+109
+00:06:02,041 --> 00:06:05,625
+garandeert een productieve 
+online ervaring.

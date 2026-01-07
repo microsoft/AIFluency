@@ -1,0 +1,298 @@
+﻿1
+00:00:03,458 --> 00:00:06,958
+Omdat AI evolueert, verandert
+het niet alleen hoe we dingen doen,
+
+2
+00:00:07,167 --> 00:00:10,500
+maar creëert het ook geheel
+nieuwe rollen en processen
+
+3
+00:00:10,667 --> 00:00:12,125
+die eerder niet bestonden.
+
+4
+00:00:12,333 --> 00:00:13,792
+Wat betekent dit voor ons?
+
+5
+00:00:14,833 --> 00:00:18,208
+Dat we flexibel moeten leren
+en ons moeten kunnen aanpassen.
+
+6
+00:00:19,167 --> 00:00:21,792
+Of het nu gaat om het
+leren van nieuwe technieken,
+
+7
+00:00:21,958 --> 00:00:25,000
+of geheel andere vaardigheden
+die vereist zijn in een landschap.
+
+8
+00:00:25,792 --> 00:00:27,333
+Dit is al volop gaande!
+
+9
+00:00:27,500 --> 00:00:30,208
+AI roert zich flink in
+financiën, gezondheidszorg,
+
+10
+00:00:30,375 --> 00:00:32,500
+fabricage en nog veel meer.
+
+11
+00:00:33,625 --> 00:00:36,500
+In de financiële sector helpt AI
+bij het opsporen van fraude,
+
+12
+00:00:36,667 --> 00:00:40,208
+risicomanagement en het
+verbeteren van klantervaringen.
+
+13
+00:00:41,250 --> 00:00:44,375
+Gebruik de Copilot
+bijvoorbeeld bij financiën.
+
+14
+00:00:45,500 --> 00:00:49,125
+Het kan taken automatiseren en
+en binnen Microsoft 365
+
+15
+00:00:49,292 --> 00:00:51,583
+nieuwe inzichten blootleggen.
+
+16
+00:00:51,750 --> 00:00:56,000
+Hierdoor worden systemen als
+Dynamics 365 en SAP benaderd.
+
+17
+00:00:56,500 --> 00:00:59,917
+Het bespaart niet alleen tijd,
+maar zorgt er ook voor dat teams
+
+18
+00:01:00,083 --> 00:01:03,000
+zich op strategische taken kunnen
+richten die groei bevorderen.
+
+19
+00:01:03,333 --> 00:01:07,542
+Kijken we naar de gezondheidszorg,
+dan is AI een vertrouwde compagnon.
+
+20
+00:01:08,500 --> 00:01:11,042
+Het stroomlijnt systemen,
+beheert de kosten en
+
+21
+00:01:11,208 --> 00:01:13,667
+bevordert de patiëntdiensten enorm.
+
+22
+00:01:14,250 --> 00:01:18,083
+AI kan bijvoorbeeld helpen bij de
+diagnosticering, voor betere
+
+23
+00:01:18,250 --> 00:01:22,083
+medische tests, en vooral bij
+belangrijke gevallen.
+
+24
+00:01:23,083 --> 00:01:24,625
+Het kan zelfs gevallen van
+
+25
+00:01:24,792 --> 00:01:26,875
+depressie detecteren via
+spraakpatronen.
+
+26
+00:01:27,083 --> 00:01:31,917
+In de energiesector kan AI een
+groenere toekomst aansturen.
+
+27
+00:01:32,917 --> 00:01:37,375
+Windparken met AI-sensoren kunnen
+patronen voorspellen en de hoek
+
+28
+00:01:37,542 --> 00:01:41,458
+van de turbines aanpassen om de
+maximale wind te vangen, waardoor
+
+29
+00:01:41,625 --> 00:01:45,208
+ze efficiënter worden maar ook de
+levensduur van turbines wordt verlengd.
+
+30
+00:01:45,458 --> 00:01:46,958
+En in fabricage kunnen
+
+31
+00:01:47,125 --> 00:01:50,125
+AI-systemen data van machines
+analyseren om te voorspellen
+
+32
+00:01:50,292 --> 00:01:51,917
+wanneer een onderdeel defect raakt.
+
+33
+00:01:53,083 --> 00:01:56,500
+Dit zorgt voor onderhoud dat
+vooraf kan worden ingepland,
+
+34
+00:01:56,667 --> 00:01:59,125
+waardoor de uitvaltijd minder wordt
+en kosten worden bespaard.
+
+35
+00:01:59,375 --> 00:02:02,500
+AI kan ook ondersteunen bij
+de productvraag, waardoor
+
+36
+00:02:02,667 --> 00:02:05,125
+altijd de juiste voorraad
+wordt aangehouden.
+
+37
+00:02:06,458 --> 00:02:08,125
+Dit vermindert de opslagkosten
+
+38
+00:02:08,292 --> 00:02:11,375
+en garandeert dat producten op
+het juiste moment leverbaar zijn.
+
+39
+00:02:11,750 --> 00:02:13,375
+AI kan ook helpen bij het voorspellen
+
+40
+00:02:13,542 --> 00:02:16,500
+van storingen bij boormachines
+of andere apparatuur.
+
+41
+00:02:17,542 --> 00:02:20,542
+Dit zorgt voor tijdige reparaties
+of vervanging van onderdelen
+
+42
+00:02:20,708 --> 00:02:23,083
+voordat een incident zich voordoet,
+
+43
+00:02:23,250 --> 00:02:26,000
+wat kan leiden tot schade aan
+het milieu of mensen.
+
+44
+00:02:26,292 --> 00:02:28,458
+Bedenk dat je een winkel binnenkomt
+
+45
+00:02:28,625 --> 00:02:30,917
+waar alles voor jou
+is gepersonaliseerd.
+
+46
+00:02:31,792 --> 00:02:33,917
+Dat is wat AI kan doen in retail.
+
+47
+00:02:35,167 --> 00:02:37,375
+Het transformeert de
+winkelervaring door
+
+48
+00:02:37,542 --> 00:02:39,500
+het personaliseren van de
+reis van de koper
+
+49
+00:02:39,667 --> 00:02:42,667
+en het verbeteren van de
+activiteiten van winkelpersoneel.
+
+50
+00:02:43,917 --> 00:02:46,375
+In de publieke sector
+vormt AI de brug tussen
+
+51
+00:02:46,542 --> 00:02:50,458
+overheden en burgers, door het
+aanpakken van maatschappelijke
+
+52
+00:02:50,625 --> 00:02:53,250
+uitdagingen via initiatieven
+als Microsofts AI for Good.
+
+53
+00:02:54,250 --> 00:02:57,583
+Door verantwoord AI-gebruik bij
+overheden te promoten,
+
+54
+00:02:57,750 --> 00:03:01,458
+kunnen we burgerdiensten verbeteren,
+overheidsmedewerkers ondersteunen
+
+55
+00:03:01,625 --> 00:03:04,208
+met nieuwe tools,
+en netwerken bevorderen.
+
+56
+00:03:04,625 --> 00:03:06,958
+De landbouwsector kunnen we niet
+onbenoemd laten: AI is
+
+57
+00:03:07,125 --> 00:03:09,625
+een echte kameraad van de boer.
+
+58
+00:03:10,750 --> 00:03:13,917
+Project FarmVibes is een goed
+voorbeeld van een initiatief
+
+59
+00:03:14,083 --> 00:03:18,333
+dat data omzet in inzichten,
+van oliesensors tot satellieten,
+
+60
+00:03:18,500 --> 00:03:21,250
+waardoor boeren hun methoden
+kunnen optimaliseren.
+
+61
+00:03:21,750 --> 00:03:25,375
+Zoals deze voorbeelden tonen, geeft
+AI sectoren niet alleen een nieuwe vorm;
+
+62
+00:03:25,542 --> 00:03:28,000
+het bevordert de daadwerkelijke
+structuur van onze banen,
+
+63
+00:03:28,167 --> 00:03:30,125
+waardoor we meer mogelijkheden hebben.

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.166s" xml:id="p0" end="6.625s">Vóór het internet, als iemand een vraag had,<br />konden ze zich niet gewoon</p>
+      <p begin="6.791s" xml:id="p1" end="9.541s">tot hun mobiele telefoon of computer<br />wenden voor een antwoord.</p>
+      <p begin="10.875s" xml:id="p2" end="13.666s">In plaats daarvan moesten ze<br />echte boeken doorzoeken</p>
+      <p begin="13.875s" xml:id="p3" end="15.916s">om betrouwbare informatie te vinden.</p>
+      <p begin="16.041s" xml:id="p4" end="17.541s">Deze taak kon uren duren,</p>
+      <p begin="18.166s" xml:id="p5" end="20.541s">afhankelijk van hoe dichtbij<br />de plaatselijke bibliotheek was</p>
+      <p begin="20.875s" xml:id="p6" end="23.25s">en of men thuis<br />toegang had tot boeken.</p>
+      <p begin="23.791s" xml:id="p7" end="26.791s">Tegenwoordig hebben we binnen<br />enkele seconden toegang tot informatie.</p>
+      <p begin="27.0s" xml:id="p8" end="29.5s">En dat is allemaal te danken<br />aan de evolutie van zoeken.</p>
+      <p begin="30.916s" xml:id="p9" end="33.0s">Laten we eens teruggaan naar de jaren 70.</p>
+      <p begin="33.166s" xml:id="p10" end="35.791s">Microsoft begon met de visie<br />om een computer te plaatsen</p>
+      <p begin="35.916s" xml:id="p11" end="37.916s">op elk bureau<br />en in elk huis.</p>
+      <p begin="38.5s" xml:id="p12" end="40.416s">Dit was het begin<br />van de &#039;personal computer&#039;,</p>
+      <p begin="40.75s" xml:id="p13" end="43.25s">die de weg baande<br />voor de toekomst van zoeken.</p>
+      <p begin="43.416s" xml:id="p14" end="47.375s">Twee decennia later,<br />ontstond het Microsoft-netwerk MSN,</p>
+      <p begin="47.625s" xml:id="p15" end="49.791s">wat een nieuw digitaal tijdperk inluidde.</p>
+      <p begin="50.041s" xml:id="p16" end="53.291s">In 1996 vond er toen<br />een belangrijke doorbraak plaats</p>
+      <p begin="53.416s" xml:id="p17" end="56.041s">met de lancering van Windows NT 4.0,</p>
+      <p begin="56.375s" xml:id="p18" end="58.416s">en daarmee de introductie van<br />de indexing-service.</p>
+      <p begin="59.5s" xml:id="p19" end="63.666s">Deze innovatie maakt de indexering van<br />zoeken in webinhoud en tekst mogelijk</p>
+      <p begin="63.791s" xml:id="p20" end="67.875s">via Internet Information<br />Services, of IIS-servers.</p>
+      <p begin="68.791s" xml:id="p21" end="73.041s">IIS-servers zijn flexibele, veilige<br />en beheerbare webservers</p>
+      <p begin="73.416s" xml:id="p22" end="75.75s">voor het hosten<br />van allerlei webinhoud.</p>
+      <p begin="76.041s" xml:id="p23" end="79.625s">Dit betekende een grote stap in de richting<br />van een efficiëntere zoekervaring.</p>
+      <p begin="79.833s" xml:id="p24" end="81.208s">Begin jaren 2000 begon</p>
+      <p begin="81.541s" xml:id="p25" end="84.541s">MSN Search zijn eigen<br />zoekalgoritmen te gebruiken,</p>
+      <p begin="84.625s" xml:id="p26" end="88.625s">en in 2004 begon het zijn eigen<br />zoekresultaten weer te geven.</p>
+      <p begin="90.208s" xml:id="p27" end="93.208s">Het tempo van de vooruitgang versnelde<br />en in 2009 onthulde Microsoft</p>
+      <p begin="93.458s" xml:id="p28" end="95.833s">de zoekmachine Bing.</p>
+      <p begin="96.125s" xml:id="p29" end="99.125s">Deze was ontworpen om gebruikers<br />niet alleen online informatie</p>
+      <p begin="99.458s" xml:id="p30" end="102.0s">te laten vinden<br />maar ook te laten begrijpen.</p>
+      <p begin="102.583s" xml:id="p31" end="104.583s">Zoeken op Bing<br />is eenvoudig.</p>
+      <p begin="104.75s" xml:id="p32" end="107.458s">Je typt gewoon een zoekopdracht<br />en Bing doorzoekt het web</p>
+      <p begin="107.5s" xml:id="p33" end="110.75s">voor overeenkomende resultaten<br />en presenteert ze in een oogwenk.</p>
+      <p begin="111.875s" xml:id="p34" end="116.75s">Open bijvoorbeeld Microsoft Edge,<br />navigeer naar bing.com en vraag:</p>
+      <p begin="117.083s" xml:id="p35" end="119.125s">&quot;Hoe is vandaag het weer<br />in New York City?&quot;</p>
+      <p begin="120.125s" xml:id="p36" end="121.958s">Bing haalt prompt het antwoord op.</p>
+      <p begin="122.708s" xml:id="p37" end="125.708s">Je bent hierbij getuige van<br />het nieuwe zoeken.</p>
+      <p begin="125.833s" xml:id="p38" end="128.375s">Heb je het nieuwe pictogram<br />naast je zoekopdracht opgemerkt?</p>
+      <p begin="129.75s" xml:id="p39" end="131.541s">Dat is het pictogram voor Copilot.</p>
+      <p begin="132.708s" xml:id="p40" end="137.458s">Een eenvoudige klik hierop brengt<br />je naar de Microsoft Copilot-interface.</p>
+      <p begin="138.208s" xml:id="p41" end="140.958s">Hier worden je vragen<br />behandeld in tekstformaat,</p>
+      <p begin="141.125s" xml:id="p42" end="144.833s">vaak vergezeld van links voor<br />verdere ontdekking en referentie.</p>
+      <p begin="145.458s" xml:id="p43" end="148.083s">Microsoft Copilot is<br />meer dan een zoekmachine,</p>
+      <p begin="148.291s" xml:id="p44" end="149.583s">het is een redeneermachine.</p>
+      <p begin="150.458s" xml:id="p45" end="152.958s">Het biedt zoekresultaten,<br />uitgebreide antwoorden</p>
+      <p begin="153.083s" xml:id="p46" end="155.083s">en een innovatieve chatervaring,</p>
+      <p begin="155.333s" xml:id="p47" end="158.708s">allemaal ontworpen om sneller<br />de antwoorden te geven die je nodig hebt.</p>
+      <p begin="159.75s" xml:id="p48" end="164.291s">Van encyclopedieën tot een generatieve<br />AI-gestuurde ervaring zoals Copilot,</p>
+      <p begin="164.5s" xml:id="p49" end="166.125s">de reis van het zoeken</p>
+      <p begin="166.25s" xml:id="p50" end="168.666s">getuigt van menselijke innovatie<br />en onze zoektocht naar kennis.</p>
+      <p begin="169.166s" xml:id="p51" end="171.75s">En als je je afvraagt<br />hoe dit verschilt van het verleden,</p>
+      <p begin="172.25s" xml:id="p52" end="175.791s">overweeg dan eens het onderscheid tussen<br />een zoekmachine en een redeneermachine.</p>
+      <p begin="176.291s" xml:id="p53" end="178.0s">De eerste vindt informatie</p>
+      <p begin="178.25s" xml:id="p54" end="181.25s">en de laatste begrijpt<br />en interpreteert informatie,</p>
+      <p begin="181.666s" xml:id="p55" end="185.666s">en maakt zo de weg vrij voor een meer<br />intelligente en interactieve toekomst van zoeken.</p>
+    </div>
+  </body>
+</tt>
